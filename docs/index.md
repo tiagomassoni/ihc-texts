@@ -21,9 +21,9 @@ Ao final desta disciplina, esperamos que o estudante tenha noções fundamentada
 
 [2. Histórico; Processo](https://tiagomassoni.github.io/ihc-texts/aula2.html)
 
-[3. Usabilidade; Princípios de usabilidade](https://tiagomassoni.github.io/ihc-texts/aula3.html)
+[3. Cognição; psicologia cognitiva](https://tiagomassoni.github.io/ihc-texts/aula3.html)
 
-[4. Cognição; psicologia cognitiva](https://tiagomassoni.github.io/ihc-texts/aula4.html)
+[4. Usabilidade; Princípios de usabilidade](https://tiagomassoni.github.io/ihc-texts/aula4.html)
 
 [5. Need Finding: exploração, empatia, observação](https://tiagomassoni.github.io/ihc-texts/aula5.html)
 
