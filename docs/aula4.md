@@ -1,4 +1,4 @@
-# Aula 3: Usabilidade
+# Aula 4: Usabilidade
 
 Olhando também pelo lado da empresa, interfaces que provocam tantas consequências ruins durante a utilização em seus usuários/funcionários faz com eles sejam menos produtivos. Como vimos, a usabilidade não tem impacto somente no bom humor ou satisfação do usuário, ela pode impactar positivamente sobre o retorno do investimento para a empresa; como exemplo, podemos mencionar economias nos custos de manutenção e de revisões nos produtos.
 
