@@ -50,3 +50,7 @@ Boa usabilidade é importante para:
 * aumentar as vendas e a fidelidade do cliente, pois os clientes satisfeitos recomendam o sistema a seus colegas e amigos e voltam a comprar novas versões (NORMAN, 1988 apud BARBOSA; SILVA, 2010, p. 14).
 
 
+## Padrões de comportamento e Cognição
+(Livro 6)
+Padrões que não precisam ser coletados...já sabemos que a grande maioria das pessoas vai exigir
+
