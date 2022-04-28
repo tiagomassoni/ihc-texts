@@ -42,15 +42,21 @@ Ao final desta disciplina, esperamos que o estudante tenha noções fundamentada
 
 * Leitura e discussão de textos
 * Quizzes e desafios
-* Aulas presenciais com estudos de caso, exercícios, atividades em grupo
+* Encontros presenciais com estudos de caso, exercícios, atividades em grupo
 * Avaliações Continuadas, além de um projeto gradualmente construído pelos estudantes
-
-
 
 
 ## Avaliação
 
-Avaliações contínuadas, divididas em questões/exercícios e atividades de projeto (dividido em três entregas).
+Três itens de avaliação são considerados durante a disciplina. No mínimo 48 horas antes do encontro presencial, material sobre o tópico a ser discutido é lançado no Ambiente Virtual de Aprendizagem (AVA), juntamente com o **Quiz pré-aula**. Este deve ser respondido até o horário do encontro presencial. Após o encontro presencial, no AVA é disponibilizado um **Quiz pós-aula**, a ser respondido até o final da semana (sexta-feira pela manhã).  Em cada um dos dois tipos de quiz, a menor nota será eliminada no cálculo final das médias.
+
+No entanto, o principal componente de avaliação é o **Projeto**, sendo dividido em três entregas. A média das notas das entregas formarão a nota final do projeto.
+
+A nota final é calculada através dos seguintes pesos:
+* Quiz pré-aula: 25%
+* Quiz pós-aula: 25%
+* Projeto: 50%
+
 
 ## Referências bibliográficas
 

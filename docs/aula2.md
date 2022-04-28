@@ -1,6 +1,6 @@
 # Aula 2: Histórico e Processo
 
-## Um Pouco de História
+## Antes, um pouco de história
 
 Um bom lugar para começar nossa história é em Julho de 1945, quando Vannevar Bush escreveu um artigo para o Atlantic Monthly, mais tarde reimpresso na revista Life, chamado "Como Nós Podemos Pensar". Hoje, a tecnologia tem sobretudo aumentado as habilidades físicas das pessoas; Bush delineou uma visão para tecnologias da informação que aumentou as habilidades intelectuais das pessoas. O objetivo deste artigo, escrito no final da Segunda Guerra Mundial, era perguntar "O que cientistas financiados pelo governo podem fazer para criar um mundo melhor em tempo de paz?" e sua visão era fortemente antropocentrica. Bush escreveu sobre uma futura mesa interativa; ele chamou o sistema de "Memex".
 
@@ -8,14 +8,11 @@ A ideia é que todas as informações do mundo estariam disponíveis na área de
 
 Ele teve essa ideia de que as pessoas poderiam criar trilhas através deste estoque de informações, salvá-las para usar mais tarde, e compartilhá-las com outros. Mas você nem sempre está na sua mesa, certo? Você quer que a tecnologia venha com você. E os trabalhadores do conhecimento precisam produzir conteúdo, bem como consumi-lo. E o mundo não é só textual, mas também visual. Então, Bush imaginou que, no futuro, você usaria uma câmera bem no centro de sua cabeça, como um terceiro olho, e a usaria para capturar as coisas. E ele elaborou um projeto que tornou isso tão fácil quanto possível para tirar fotos. Assim, não teria nenhum discador ou configuração para lidar. Assim como a mesa Memex, os detalhes ocorreram de forma diferente; mas a visão central ficou intacta. Hoje, por exemplo, há mais de um bilhão de telefones com câmera que as pessoas carregam com elas. Os computadores digitais programáveis que logo vieram, como o ENIACS lá, foram uma enorme previsão tecnológica.
 
-Mas, como já discutimos, a interface de usuário deixou muito a desejar. A ideia de fornecer uma interface mais eficaz aos computadores tem uma longa e lendária história, começando com a invenção do primeiro compilador, por Grace Hopper, no início da década de 1950 O que é inspirador para mim é que ela conceituou como ferramentas aprimoradas poderiam fornecer acesso à computação a um público muito mais amplo. Nos anos seguintes, bons ambientes de programação para o desktop e Web permitiram que legiões de desenvolvedores criassem o conteúdo que ajudou a colocar um PC em cada mesa.
+Mas a interface de usuário deixou muito a desejar. A ideia de fornecer uma interface mais eficaz aos computadores tem uma longa e lendária história, começando com a invenção do primeiro compilador, por Grace Hopper, no início da década de 1950. Ela conceituou como ferramentas aprimoradas poderiam fornecer acesso à computação a um público muito mais amplo. Nos anos seguintes, bons ambientes de programação para o desktop e Web permitiram que legiões de desenvolvedores criassem o conteúdo que ajudou a colocar um PC em cada mesa.
 
-É um longo caminho desde o trabalho visionário de Grace Hopper no compilador até a interface gráfica do usuário. As sementes da manipulação direta foram lançadas no Lincoln Labs da MIT por Ivan Sutherland. A principal inovação da interface gráfica é que a entrada do usuário é realizada diretamente sobre a saída do sistema.  Essa diretriz de entrada-saída faz a interface ser muito mais intuitiva e fácil de entender.
-No caso de Bloco de Notas de Sutherland, a entrada era uma caneta de luz e a saída era um osciloscópio. 
+É um longo caminho desde o trabalho visionário de Grace Hopper no compilador até a interface gráfica do usuário. As sementes da manipulação direta foram lançadas no Lincoln Labs da MIT por Ivan Sutherland. A principal inovação da interface gráfica é que a entrada do usuário é realizada diretamente sobre a saída do sistema.  Essa diretriz de entrada-saída faz a interface ser muito mais intuitiva e fácil de entender. No caso de Bloco de Notas de Sutherland, a entrada era uma caneta de luz e a saída era um osciloscópio. 
 
-Em 1945, Doug Engelbart foi um técnico de radar da Marinha. Engelbart passou seus anos monótonos nas Filipinas. Na biblioteca, ele encontrou um exemplar da revista Life; Ele copiou o artigo de Bush da Atlantic Monthly. Como John Markov escreve, a ideia de um dispositivo que poderia estender o poder da mente humana deixou Engelbart boquiaberto. Ele teve uma visão. Levou um longo tempo, mas finalmente ele recebeu algum financiamento e começou a trabalhar.
-
-E o que Doug Engelbart trouxe, ele mostrou ao mundo em sua famosa demonstração em 1968. 
+Em 1945, Doug Engelbart foi um técnico de radar da Marinha. Engelbart passou seus anos monótonos nas Filipinas. Na biblioteca, ele encontrou um exemplar da revista Life; Ele copiou o artigo de Bush da Atlantic Monthly. Como John Markov escreve, a ideia de um dispositivo que poderia estender o poder da mente humana deixou Engelbart boquiaberto. Ele teve uma visão. Levou um longo tempo, mas finalmente ele recebeu algum financiamento e começou a trabalhar. E o que Doug Engelbart trouxe, ele mostrou ao mundo em sua famosa demonstração em 1968. 
 
 "O programa de pesquisa que eu vou descrever para vocês é rapidamente caracterizável , dizendo: se, em seu escritório, você, como um trabalhador intelectual, foi equipado com um monitor de computador, acompanhado por um computador que ficava ligado para você o dia inteiro, e era infinitamente sensível às reações que você tem, quanto valor que você extrairá disso? E em um instante você olhará a tela e ela está funcionando. E a maneira como o cursor move em conjunto com os movimentos do mouse."
 
@@ -23,7 +20,7 @@ E o que Doug Engelbart trouxe, ele mostrou ao mundo em sua famosa demonstração
 ![aula2/t6.jpg](aula2/t6.jpg)
 
 
-O mouse de Engelbart funcionava com duas rodas ortogonais.Cada um era um potenciômetro, um resistor variável, assim como aparelhos de som geralmente têm em um botão de volume. Então você consegue girar em torno de 300º. O seu parâmetro utilizável fornecia cerca de 5 polegadas de movimento em cada direção.
+O mouse de Engelbart funcionava com duas rodas ortogonais. Cada um era um potenciômetro, um resistor variável, assim como aparelhos de som geralmente têm em um botão de volume. Então você consegue girar em torno de 300º. O seu parâmetro utilizável fornecia cerca de 5 polegadas de movimento em cada direção.
 
 ![aula2/t5.jpg](aula2/t5.jpg)
 
@@ -38,23 +35,18 @@ Xerox lançou o sistema de computação STAR em 1981. O STAR possuía um display
 
 A capacidade dos usuários de produzirem seus próprios formulários é um exemplo da usabilidade incorporada ao sistema. A tela se aproxima bastante da aparência de uma página impressa. O STAR foi lançado quase quatro décadas após a visão de Vannevar Bush, três décadas depois do compilador de Grace Hopper, duas décadas depois do primeiro sistema de Doug Engelbart funcionar, e uma década depois de Alan Kay começar a trabalhar na construção deste computador, inspirado nas ideias do Dynabook.
 
-Depois disso, vem Steve Jobs com o Macintosh, talvez roubando (ou pegando emprestado) algumas dessas coisas da XEROX, e então Bill Gates com o Windows, e, décadas depois, Jobs nos traz o iPhone.
+Depois disso, vem Steve Jobs com o Macintosh, talvez roubando (ou pegando emprestado) algumas dessas coisas do XEROX Parc, e então Bill Gates com o Windows, e, décadas depois, Jobs nos traz o iPhone.
 
+## O Processo de Design
 
-
-
-## Processo de Design
-
-Times de desenvolvimento de software podem não ser muito bons em relação a decisões de usabilidade. Do livro Don’t Make me Think:
+Os times de desenvolvimento de software podem não ser muito bons em relação a decisões de usabilidade. Peguei essa charge abaixo do livro *Don’t Make me Think*:
 
 ![aula2/t1.png](aula2/t1.png)
 
 ![aula2/t2.png](aula2/t2.png)
 
 
-Esse é um tipo de debate que muito se assemelha com discussões políticas ou religiosas. Pessoas expressam opiniões pessoais fortes sobre coisas que não podem ser demonstradas, tentando, supostamente, concordar na melhor forma de fazer algo. Mas os pontos de vista raramente mudam. Além de desperdiçar tempo, essas discussões criam tensões desnecessárias entre membros da equipe, atrasando decisões críticas.
-
-Não é produtivo questionar se “a maioria das pessoas gostam de menus pull-down?” A pergunta certa a fazer é “este menu pull-down, com estes itens e este texto, neste contexto, nesta tela, cria um boa experiência para a maioria das pessoas que vão usar esta tela?” E só tem um jeito de responder esse tipo de pergunta: criando alternativas e testando. Por isso acaba sendo produtivo pensar em um processo de design, com ideias, protótipos, análise e testes de usabilidade. Mesmo que não existam designers na equipe, ou que a princípio “não se previu tempo para isso”, é importante seguir um processo mínimo de design de interação.
+Esse é um tipo de debate que muito se assemelha com discussões políticas ou religiosas. Pessoas expressam opiniões pessoais fortes sobre coisas que não podem ser demonstradas, tentando, supostamente, concordar na melhor forma de fazer algo. Mas os pontos de vista raramente mudam. Além de desperdiçar tempo, essas discussões criam tensões desnecessárias entre membros da equipe, atrasando decisões críticas. Não é produtivo questionar se “a maioria das pessoas gostam de menus pull-down?” A pergunta certa a fazer é “este menu pull-down, com estes itens e este texto, neste contexto, nesta tela, cria um boa experiência para a maioria das pessoas que vão usar esta tela?” E só tem um jeito de responder esse tipo de pergunta: criando alternativas e testando. Por isso acaba sendo produtivo pensar em um processo de design, com ideias, protótipos, análise e testes de usabilidade. Mesmo que não existam designers na equipe, ou que a princípio “não se previu recursos para isso”, é importante seguir um processo mínimo de design de interação.
 
 Os objetivos do processo de design podem ser listados desta forma, variando em ordem de importância:
 
@@ -72,8 +64,7 @@ Os objetivos do processo de design podem ser listados desta forma, variando em o
 
 ### Atividades
 
-
-Trata-se de atividades um pouco genéricas, que podem também ser encontradas em outras áreas de design. Podemos pensar nessas atividades como apenas um modelo, não necessariamente de forma prescritiva para a prática de design de interação.
+Tratam-se de atividades um pouco genéricas, que podem também ser encontradas em outras áreas de design. Podemos pensar nessas atividades como apenas um modelo, não necessariamente de forma prescritiva para a prática de design de interação.
 
 1. Identificar necessidades e estabelecer requisitos: Para projetar algo que realmente dê suporte as atividades das pessoas, devemos conhecer quem são nossos usuarios-alvo e que tipo de suporle urn produto interativo poderia oferecer de maneira útil. Essas necessidades constituem as bnscs dos requisitos do produto e sustentam o design e  o desenvolvimento subsequentes. Essa atividade é fundamental para uma abordagem centrada no usuário.
 
