@@ -135,6 +135,8 @@ Condução: tentar diminui viés de observação, deixar confortável; observar 
 ## Atividades e Artefatos
 (Capítulo 41, Livro 7)
 
+**Olhar artefatos - livro casa do código 2.1**
+
 
 ### Perfil  de Usuário
 
