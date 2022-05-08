@@ -91,13 +91,13 @@ Design Thinking é uma metodologia de desenvolvimento de produtos e serviços fo
 
 O processo se divide em quatro etapas:
 
-Imersão: a primeira etapa sugere um mergulho em tudo o que envolve e afeta a sua empresa. Aqui, é válido realizar uma análise SWOT, que mapeia as ameças, oportunidades, fraquezas e pontos fortes do problema, tando do ponto de vista interno quanto da perspectiva externa.
+1. Imersão: a primeira etapa sugere um mergulho em tudo o que envolve e afeta a sua empresa. Aqui, é válido realizar uma análise SWOT, que mapeia as ameças, oportunidades, fraquezas e pontos fortes do problema, tando do ponto de vista interno quanto da perspectiva externa.
 
-Ideação: Como o nome sugere, aqui se produz ideias relevantes para realizar as melhorias necessárias. Deve-se reunir as equipes envolvidas e adotar técnicas como o brainstorming, que incentiva e valoriza o compartilhamento de muitas ideias.
+2. Ideação: Como o nome sugere, aqui se produz ideias relevantes para realizar as melhorias necessárias. Deve-se reunir as equipes envolvidas e adotar técnicas como o brainstorming, que incentiva e valoriza o compartilhamento de muitas ideias.
 
-Prototipação: Depois de reunir uma grande quantidade de ideias relevantes, deve-se impor um filtro sobre elas e escolher as que você (ou o grupo) considera com maiores chances de sucesso. Para reduzir o risco de falhas, é recomendado criar protótipos do que foi idealizado antes de realmente investir em sua execução. Se o assunto em questão é um serviço, você pode montar protótipos mais abstratos, como representações gráficas que simulem as ações reais.
+3. Prototipação: Depois de reunir uma grande quantidade de ideias relevantes, deve-se impor um filtro sobre elas e escolher as que você (ou o grupo) considera com maiores chances de sucesso. Para reduzir o risco de falhas, é recomendado criar protótipos do que foi idealizado antes de realmente investir em sua execução. Se o assunto em questão é um serviço, você pode montar protótipos mais abstratos, como representações gráficas que simulem as ações reais.
 
-Desenvolvimento: Depois do protótipo pronto, é a hora de testar com usuários se o produto realmente funciona ou não, e por fim, implementar o resultado final. Após testar e se atentar ao feedback para melhorar o protótipo, a mercadoria já pode ir para as lojas/implantação. 
+4. Desenvolvimento: Depois do protótipo pronto, é a hora de testar com usuários se o produto realmente funciona ou não, e por fim, implementar o resultado final. Após testar e se atentar ao feedback para melhorar o protótipo, a mercadoria já pode ir para as lojas/implantação. 
 
 
 
