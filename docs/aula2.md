@@ -91,7 +91,7 @@ Design Thinking é uma metodologia de desenvolvimento de produtos e serviços fo
 
 O processo se divide em quatro etapas:
 
-Imersão: a primeira etapa sugere um mergulho em tudo o que envolve e afeta a sua empresa. Aqui, é válido realizar uma análise SWOT, que mapeia as ameças, oportunidades, fraquezas e pontos fortes do problema, tando do ponto de vista interno quanto da perspectiva externa.
+Imersão: a primeira etapa sugere um mergulho em tudo o que envolve e afeta a sua empresa. Aqui, é válido realizar uma análise SWOT, que mapeia as ameças, oportunidades, fraquezas e pontos fortes do problema, tanto do ponto de vista interno quanto da perspectiva externa.
 
 Ideação: Como o nome sugere, aqui se produz ideias relevantes para realizar as melhorias necessárias. Deve-se reunir as equipes envolvidas e adotar técnicas como o brainstorming, que incentiva e valoriza o compartilhamento de muitas ideias.
 
