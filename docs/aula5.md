@@ -1,276 +1,182 @@
-# Aula 5: Need Finding (Design centrado no usuário)
+# Aula 5: Levantamento de Necessidades (Design centrado no usuário)
 
-## Tipos de Requisitos
+## Definições
 
-A requirement is a statement about an intended product that specifies what it is expected to
-do or how it will perform. For example, a requirement for a smartwatch GPS app might be
-that the time to load a map is less than half a second. Another, less precise requirement might
-be for teenagers to find the smartwatch appealing. In the latter example, the requirements activity would involve exploring in more detail exactly what would make such a watch
-appealing to teenagers.
-One of the goals of the requirements activity is to identify, clarify, and capture the requirements.
-The process of discovering requirements is iterative, allowing requirements and their
-understanding to evolve. In addition to capturing the requirements themselves, this activity
-also involves specifying criteria that can be used to show when the requirements have been
-fulfilled. For example, usability and user experience criteria can be used in this way.
+Um requisito, o que é? Um tratado sobre o produto ou sistema pretendido, especificando o que é esperado dele, ou como ele irá desempenhar essa tarefa. Por exemplo, um requisito para um app de smartwatch pode ser carregar um mapa em menos de um segundo. Outro, talvez menos importante, é que o app precisa ter apelo com os adolescentes. 
 
-Types:
+A atividade de elicitação de requisitos já é velha conhecida da engenharia de software. Nela, a equipe identifica, esclarece e captura os requisitos. Não menos importante, nessa atividade são identificados os critérios pelos quais serão avaliadas as entregas posteriores. Com o tempo, evoluímos o conhecimento acerca dessa atividade; a forma como devemos desempenhá-la mudou de algo como a prescrição de uma receita no início de um projeto para uma atividade essencialmente iterativa, em ciclos de feedback cada vez mais curtos, com entregas periódicas graduais que vão auxiliando usuários e desenvolvedores a compreender o que é preciso ser feito. 
 
-Functional requirements capture what the product will do. For example, a functional
-requirement for a robot working in a car assembly plant might be that it is able to place and
-weld together the correct pieces of metal accurately. Understanding the functional requirements
-for an interactive product is fundamental.
+Mas, qual a diferença nessa atividade quando falamos de design UI/UX? Os métodos de coleta mudam um pouco, pois o **foco no usuário** é mais intenso. Além disso, os critérios de aceitação enfatizam usabilidade e experiência de usuário, no lugar das funcionalidades esperadas. Se estamos com foco no design centrado no usuário (UCD), a gestão desses requisitos acaba se tornando essencial para o sucesso do projeto como um todo. 
 
-Data requirements capture the type, volatility, size/amount, persistence, accuracy, and
-value of the required data. All interactive products have to handle some data. For example,
-if an application for buying and selling stocks and shares is being developed, then the data
-must be up-to-date and accurate, and it is likely to change many times a day. In the personal
-banking domain, data must be accurate and persist over many months and probably years,
-and there will be plenty of it.
+Talvez a forma mais usada de representar requisitos dentro de equipes de software é a **estória de usuário (user story - US)**. Uma US representa um pequeno pedaço de valor a ser entregue pelo sistema para o usuário; de fato, uma unidade normalmente desenvolvida dentro de um sprint. Um formato padrão para US:
 
-Environmental requirements, or context of use, refer to the circumstances in which the
-interactive product will operate. Four aspects of the environment lead to different types of
-requirements. First is the physical environment, such as how much lighting, noise, movement,
-and dust is expected in the operational environment. Will users need to wear protective
-clothing, such as large gloves or headgear that might affect the choice of interface type?
-How crowded is the environment? For example, an ATM operates in a very public physical
-environment, thus using a speech interface is likely to be problematic.
-The second aspect of the environment is the social environment. Issues regarding the social
-aspects of interaction design, such as collaboration and coordination, were raised in Chapter 5,
-“Social Interaction.” For example, will data need to be shared? If so, does the sharing have to be
-synchronous (for instance, viewing the data at once) or asynchronous (for example, two people
-authoring a report taking turns to edit it)? Other factors include the physical location of fellow
-team members, such as collaborators communicating across great distances.
-The third aspect is the organizational environment, for example, how good is user support
-likely to be, how easily can it be obtained, and are there facilities or resources for training,
-how efficient or stable is the communications infrastructure, and so on?
-Finally, the technical environment will need to be established. For example, what technologies
-will the product run on or need to be compatible with, and what technological
-limitations might be relevant?
+*Como uma (papel), quero (comportamento) para que eu (benefício)*
 
-User characteristics capture the key attributes of the intended user group, such as the
-users’ abilities and skills, and depending on the product, also their educational background,
-preferences, personal circumstances, physical or mental disabilities, and so on. In addition,
-a user may be a novice, an expert, a casual user, or a frequent user. This affects the ways in
-which interaction is designed. For example, a novice user may prefer step-by-step guidance.
-An expert, on the other hand, may prefer a flexible interaction with more wide-ranging powers
-of control. The collection of characteristics for a typical user is called a user profile. Any
-one product may have several different user profiles.
-Usability goals and user experience goals are another kind of requirement, and they
-should be captured together with appropriate measures. Chapter 2 briefly introduced
+Exemplos de um aplicativo de organização de viagens:
 
-usability engineering, an approach in which specific measures for the usability goals of the
-product are agreed upon early in the development process and are used to track progress as
-development proceeds. This both ensures that usability is given due priority and facilitates
-progress tracking. The same is true for user experience goals. Although it is harder to identify
-quantifiable measures that track these qualities, an understanding of their importance is
-needed during the requirements activity.
+* Como um viajante, quero favoritar algumas companhias aéreas nas minhas viagens, para que eu possa coletar mais milhagem.
+* Como um agente de viagem, quero visualizar com ênfase minhas taxas especiais de desconto, para que eu possa oferecer ao cliente valores competitivos.
 
-%Para aula - exemplo do app para diabetes
+Uma US acaba sendo uma unidade de gestão de projeto, pois inclui informações de priorização, critérios de teste e estimativa.
 
+O estudo de Engenharia de Software define um conjunto razoável de tipos de requisitos, o que facilita sua identificação. No entanto, nesta disciplina vamos enfatizar apenas dois deles: requisitos de **características de usuários** e **metas de usabilidade/experiência de usuário**.
 
+Requisitos de *Características de usuário* capturam os atributos chave do grupo de usuários alvo, tais como capacidades e aptidões, além de sua base educacional, preferências, circunstâncias pessoais, incluindo limitações físicas ou mentais. Mais ainda, usuários podem ser iniciantes, experientes, ou então casuais ou frequentes, o que afeta a forma como a interação será projetada. Por exemplo, usuários iniciantes devem preferir um direcionamento passo-a-passo; já um experiente pode preferir uma interação flexível, com maior poder de controle. A coleção de características para um usuário típico chama-se *perfil (profile) de usuário*. Qualquer sistema pode incluir vários perfis de usuário.
 
+*Metas de usabilidade/experiência de usuário* acabam sendo o tipo de requisito mais importante para o design de UI/UX. Aqui, métricas objetivas podem ser usadas para definir critérios de aceitação para uma determinada funcionalidade (algo como o usuário deve realizar certa tarefa dentro de um limite de tempo, ou com um baixo número de cliques mínimo). No entanto, critérios qualitativos podem ser usados, mesmo que sejam mais difíceis de coletar. Imagine aí, como saber se uma forma de interação está agradando? Se está deixando as pessoas mais produtivas, ou menos frustradas?
 
+A partir de agora, vamos discutir os *métodos* usados comumente em equipes de design para coletar esses requisitos, além dos principais *artefatos* produzidos dentro desta atividade.
 
 
 ## Técnicas de Coleta
 
-(Cap. 8 Livro 2 para completar as técnicas)
+De cara, em toda referência que se encontra sobre o tema, vamos achar três formas básicas de coleta de informações sobre usuários: entrevistas, observação e questionários. 
 
-### Entrevistas
+Para qualquer atividade como essas, é preciso **identificar participantes**. Os objetivos definidos para um determinado projeto devem indicar os tipos de pessoa a partir das quais coletaremos dados. Para projetos de maior alcance, provavelmente será preciso definir uma amostra representativa da população-alvo. Para entrevistas ou observações, o número de pessoas estudadas depende da possível saturação da informação (quando nada de novo aparece, a fase de entrevistas pode ser encerrada).
 
-### Observação
+Qualquer relacionamento com as pessoas precisa ser profissional, a ponto de exigir algum tipo de termo de consentimento. Normalmente, são usados padrões para cada tipo de estudo. Um **formulário de consentimento informado** é feito para proteger os interesses de ambos, pesquisador e pessoa estudada.
 
-### Questionários
+É muito comum nesse contexto usar de **triangulação**, que se refere à investigação de um fenômeno a partir de duas ou mais perspectivas, em que dados advém de fontes diversas. Isso permite validar os resultados de alguma investigação ao apontar resultados similares a partir de perspectivas diferentes, ou até suprir limitações de um método específico. Por exemplo, questionários podem ser ótimos em relatar situações gerais a partir de números, mas a razão por que aqueles resultados acontecem só pode ser investigada através de entrevistas.
 
+Independente do método de coleta, o registro de dados pode se dar de várias formas, para que possamos analisar e compartilhar resultados. As mais comuns? **notas escritas, fotografias, áudio ou vídeo**. Por exemplo, entrevistas podem ser gravadas como áudio para análise posterior, e fotografias do momento da entrevista podem lembrar quem pesquisa do contexto da discussão. 
+
+A figura abaixo resume as principais técnicas usadas para a descoberta de requisitos.
 
 ![aula5/t1.png](aula5/t1.png)
 
+**Entrevistas** podem ser estruturadas ou não, dependendo do grau de formalização de um roteiro pré-estabelecido (obrigatório para as primeiras). O mais comum é que as entrevistas sejam *semiestruturadas*, que inclui um roteiro apenas para que sejam cobertos os principais tópicos, permitindo a exploração livre dos comos e porquês de cada uma das respostas. 
 
-### Contextual inquiry
+Um exemplo:
+> Quais sites você visita mais vezes por dia?
+> - Vários, mas o principal é o hottestmusic.com
+> Por quê?
+> - Gosto do layout do site
+> Me descreve um pouco do layout do site
+> - (Silêncio, por um tempo) ... Descreve o layout...
+> Algo mais que seja interessante, sobre o site?
+> - Animações, ...
+> Haveria mais alguma razão para você visitar esse site tantas vezes, algo ainda não mencionado?
 
-Contextual inquiries are considered one of the richer types of user research methods, and can be a powerful tool for creating effective designs. A step further than a user interview, a contextual inquiry involves observing people in their natural context and habitat while asking them questions to fill in the gaps of your observation.
+Algumas diretrizes para preparar um roteiro de entrevista:
+* Perguntas longas ou compostas podem ser confusas ou difíceis de lembrar; quebrar em questões menores.
+* Entrevistados provavelmente ignoram jargões da área ou linguagem complexa.
+* Questões devem ser neutras, não devem indicar uma resposta esperada ou correta.
 
-In a contextual inquiry, the UX researcher observes how participants perform certain tasks while having them describe what they are doing through their interaction with the product. 
+Uma sessão de entrevista precisa combinar descontração e conforto com algum grau de formalidade. Uma boa estrutura:
 
-Unlike a usability test, the user is interacting with the product in their natural habitat and context of use. This contextual environment yields richer insights and a deeper understanding behind the behavioral interaction between a user and the product. The goal is to observe the actions the users perform and understand the goals behind those actions. 
+1. Uma introdução da pesquisadora e a razão da pesquisa, assegurando salvaguardas éticas e pedindo autorização para gravação.
+2. Um início mais informal, com perguntas menos "ameaçadoras".
+3. Um seção principal, com questões do roteiro, tentando o máximo de naturalidade, para que o entrevistado sinta-se acolhido e confortável.
+4. Questões mais simples para aliviar.
+5. Fechamento, com agradecimento, desligando gravação e fechando cadernos de nota ou computadores.
 
-Fazer bem cedo no processo.
+Por sua vez, a **observação** é uma técnica potencialmente aplicada em qualquer fase do desenvolvimento de um produto ou sistema. Talvez cedo, antes de qualquer design, ou até depois de entregas, para avaliação dos protótipos. Usuários podem ser observados diretamente pela pesquisadora enquanto realizam atividades, ou indiretamente através de gravações, logs e documentos produzidos. Eles podem ser observados tanto em ambientes reais ou controlados. 
 
-Exemplos: uma solução para resolução de problemas. Sistema acadêmico?
+Para observação direta de ambientes de trabalho, por exemplo, podemos usar um framework para basear nosso trabalho. Esse, proposto por Robson e McCarten (2016), encoraja prestar atenção ao contexto da atividade:
 
+* Espaço
+* Atores
+* Atividades
+* Objetos
+* Ações
+* Eventos 
+* Tempo
+* Objetivos
+* Sentimentos
 
+Um observador pode ser totalmente passivo, uma "mosca na parede", sem interagir com o ambiente. Por outro lado, podemos ter o observador **participante**, tornando-se um membro do grupo observado. Esse último pode ser meio difícil, pois o pesquisador precisa ter as habilidades exigidas para participar de um grupo dentro de um determinado trabalho. Estudos de observação são chamados muitas vezes de **etnografia**, método originário das ciências sociais; essa nomenclatura é adequada para observações sem qualquer planejamento ou direcionamento prévio. 
 
-Aprender sobre o ambiente do usuário
+Se a observação é realizada em ambientes controlados, como em um laboratório, por exemplo, usa-se muito o protocolo de *Think-aloud*. Um dos problemas da observação pura e simples é não saber o que o usuário está pensando. Em um ambiente controlado, podemos solicitar que usuários transmitam, em voz alta, aquilo que estão pensando enquanto usam uma interface.
 
-O que os ajuda, o que os atrapalha
+Um método de observação citado frequentemente no design de UI/UX é a **investigação contextual (Contextual inquiry)**; um passo além da pura entrevista, ela envolve observar pessoas no seu contexto natural enquanto perguntas são feitas pelo pesquisador para completar as lacunas de informação. Nessa investigação, o pesquisador observa como participantes realizam certas tarefas enquanto os faz descrever o que estão fazendo durante a interação com o produto; ou seja, um tipo de *Think-aloud*. 
 
-Por que eles fazem as tarefas? Como eles fazem as tarefas?  
+Entre os itens de informação que podem ser coletados durante esse processo:
 
-Com quem eles interagem? Quais são as ferramentas usadas?
+* O que os ajuda, o que os atrapalha
+* Por que eles fazem as tarefas? Como eles fazem as tarefas?  
+* Com quem eles interagem? Quais são as ferramentas usadas?
+* Hacks, atalhos, gambiarras?
+* Aprender sobre o que as pessoas não usam, ou não fazem.
 
-Hacks, atalhos, gambiarras?
 
-Aprender sobre o que as pessoas não usam, ou não fazem.
+As vantagens: dados confiáveis, observação bem objetivo, conhecimento tácito, Muitos detalhes em contexto, participante é o expert, versátil e flexível, envolvimento dos interessados. Já como desvantagens: muito custoso, logística, demora para analisar e interpretar.
 
+Na preparação: saber seus objetivos e perguntas de pesquisa, usar NDA, definir time (moderador, anotador, mídia), definir regras no campo, planejamento do dia, semana, mês, participantes ficam informados. E na condução: tentar diminui viés de observação, deixar confortável; observar e fazer perguntas, perguntar razões e procedimentos, fazer entrevista de wrap-up; cabeça aberta, tirar fotos, respeitar o espaço, e evitar fotos de crianças.
 
 
-Vantagens: dados confiáveis, observação bem objetivo, conhecimento tácito, Muitos detalhes em contexto, participante é o expert, versátil e flexível, envolvimento dos interessados
-Desvantagens: muito custoso, logística, demora para analisar e interpretar
+## Artefatos
 
-Canetas e cadernos (sketch), ferramentas com audio clips, color code, cameras, 
+Além das USs serem artefatos importantes também para o design de UI/UX, vamos discutir alguns artefatos de requisitos específicos para esta atividade: cenários e personas.
 
+### Cenários
 
-Preparação: saber seus objetivos e perguntas de pesquisa, usar NDA, definir time (moderador, anotador, mídia), definir regras no campo, planejamento do dia, semana, mês, participantes ficam informados
 
-Condução: tentar diminui viés de observação, deixar confortável; observar e fazer perguntas, perguntar razões e procedimentos, fazer entrevista de wrap-up; open mind, tirar fotos, respeitar o espaço, sem fotos de crianças
+Um cenário é uma descrição narrativa informal, mostrando atividades e tarefas humanas, num formato de *storytelling*, permitindo a exploração e discussão de contextos, necessidades e requisitos. Provavelmente não inclui descrições sobre o uso de software ou suporte tecnológico usado pra atingir objetivos. É importante aqui usar vocabulário do ambiente do usuário, para que o cenário seja compreensível para todos os envolvidos no processo. Contar estórias é uma forma natural para as pessoas explicarem o que estão fazendo, e os envolvidos facilmente se relacionam com isso.
 
+Cenários podem ser descritos em texto e imagens. Uma forma possível é usar alguma ferramenta de *mind mapping*. Por exemplo, a figura abaixo descreve Sharon, uma pessoa que adora procurar e armazenar novas receitas no Pinterest. O objetivo deste cenário: comprar ingredientes e preparar Asas de Frango Maple Mustard, anteriormente salva no Pinterest. Este diagrama mostra uma série de tarefas e subtarefas identificadas enquanto Sharon realizava a tarefa. Duas tarefas em especial exigiram certa carga cognitiva, marcadas com um ícone de cérebro.
 
 
+![aula5/t2.png](aula5/t2.png)
 
+Por exemplo, ao analisar essas tarefas, podemos identificar passos repetitivos e desnecessários, e talvez entender como diminuir a carga cognitiva de alguns passos. Neste exemplo, apesar do Pinterest ser elogiado na hora de descobrir e salvar receitas, ele não oferecia aqui recursos específicos para auxiliar na preparação da receita, ou na compra de ingredientes. Sharon teve que saltar entre aplicativos e até fazer cálculos de cabeça pra converter os ingredientes. Além disso, quando ela começa a preparação, ela teve que repetir suas tarefas iniciais de busca da receita. 
+(Este cenário real foi realizado pelos desenvolvedores do app Favoreats, que tenta resolver essas limitações para quem usa o Pinterest para culinária).
 
 
+### Perfil  de Usuário e Personas
 
+Quanto mais designers de UI/UX sabem sobre características específicas de usuários, melhor serão suas decisões de design. Alternativas de design de UI/UX podem otimizar o desempenho de alguns tipos de usuário, mas atrasar outros (lembre-se do exemplo das UIs usadas tanto por iniciantes quanto por *experts*). Outros exemplos: sites para audiências mais visuais, como fotógrafos, provavelmente terão mais sucesso se apresentar informação chave usando gráficos, em vez de texto. 
 
+Abaixo, um *check-list* simplificado para a classificação de grupos de usuários:
 
-## Atividades e Artefatos
-(Capítulo 41, Livro 7)
 
-**Olhar artefatos - livro casa do código 2.1**
+* Limitações físicas ou cognitivas
 
+* Habilidade com o computador: altamente técnico, moderado, ou nenhuma experiência.
 
-### Perfil  de Usuário
+* Nível de experiência com o sistema
 
-(User profile)
+* Nível de conhecimento da tarefa
 
-The more designers know about the specific characteristics of a population of users (e.g., expected frequency of use, typing skill, learning styles, potential anxiety regarding the defined tasks, etc.), the more likely they will be to make optimal UX design decisions. The purpose of a user profile is thus to establish the general requirements of a category of users in terms of overall UX style and approach.
+* Nível de experiência com sistemas similares
 
+* Nível educacional
 
-Specific user interface design alternatives that optimize the performance of some types of users may actually degrade the performance of other types of users. For example, an infrequent, casual user needs an easy-to-learn and easy-to-remember interface, but a high-frequency expert user needs an efficient, powerful, and flexible interface. Outward facing websites, unlike desktop software, share the need for an easy-to-learn interface. Even in the cases where websites have expert and frequent users, they must be accessible to new users for the site to grow. On the other hand, intranets may benefit from an interface tailored to a frequent user.
+* Nível de leitura e escrita
 
-For example, a site focused on a strongly visual audience, such as professional photographers, would be better served by presenting key information using graphics rather than using primarily text. Similarly, software developer personality profiling tells us to keep messages short and direct, and to avoid “marketese” language or an overly “slick” graphical look. When software developers are led to conclusions via inductive reasoning, they are more likely to remain engaged. Similarly, credibility is established with software developers by credibly establishing a product’s acceptance by recognized experts rather than by authority figures whose reputation is not based on knowledge.
+* Idioma nativo
 
+* Tipo de uso do sistema: obrigatório, opcional
 
-A clear understanding of the intended audience helps designers ensure a website’s ability to present its potential value to the user within 10 seconds of home page launch. Many user populations also have specific special needs that affect their ability to interact with software applications and websites. 
+* Frequência de uso: contínuo, esporádico, uma vez apenas
 
-Exemplos: This section (Section A-Requirements Specification, in Part VI-The Development Process) covers the special characteristics of the elderly (see Chapter 35), children (see Chapter 36), cross-cultural audiences (see Chapter 39), and users with various kinds of physical and perceptual disabilities (see Chapters 38 and 40).
+* Importância da tarefa
 
+* Nível de repetição da tarefa
 
-**O que saber do usuário, partes do Perfil do usuário (Checklist)**
+* Comunicação exigida
 
-Computer Literacy Highly technical or experienced, moderate computer
-experience, or none.
+* Tipo de treinamento necessário
 
-System Experience High, moderate, or low knowledge of a particular system
-and its methods of interaction.
+* Taxa de troca de pessoas
 
-Application Experience High, moderate, or low knowledge of similar systems.
+* Categoria profissional
 
-Task Experience Level of knowledge of job and job tasks.
+* Atitude em relação ao sistema: positiva, neutra, negativa
 
-Other Systems Use Frequent or infrequent use of other systems in doing job.
+* Níveis de motivação/paciência
 
-Education High school, college, or advanced degree.
+* Níveis de estresse durante a tarefa
 
-Reading Level Less than 5th grade, 5th–12th, more than 12th grade.
+* Gênero e idade
 
-Typing Skill Expert (135 WPM), skilled (90 WPM), good (55 WPM), average (40 WPM), or “hunt and peck” (10 WPM).
+* Características físicas, como destro ou canhoto
 
-Native Language or Culture English, another, or several.
+Um artefato comumente produzido durante a definição do perfil do usuário é a **Persona**. Personas são um retrato do público-alvo que destaca dados demográficos, comportamentos, necessidades e motivações através da criação de um personagem ficcional baseado em insights extraídos de pesquisa. Personas fazem com que os designers e desenvolvedores criem empatia com os consumidores durante o processo de design. Descrevem pessoas específicas ficcionais, mas é um retrato bastante realista. 
 
-Type of System Use Mandatory or discretionary use of the system.
+Uma persona representa a síntese de um número de usuários reais que se envolveu na coleta de dados, e é baseada em um conjunto de perfis de usuários. Inclui descrição de seus objetivos, seu comportamento, atitudes, atividades e ambiente.
 
-Frequency of Use Continual, frequent, occasional, or once-in-a-lifetime use
-of system.
-
-Task or Need Importance High, moderate, or low importance of the task being
-performed.
-
-Task Structure Repetitiveness or predictability of tasks being automated,
-high, moderate, or low.
-
-Social Interactions Verbal communication with another person required or
-not required.
-
-Primary Training Extensive or formal training, self-training through manuals,
-or no training.
-
-Turnover Rate High, moderate, or low turnover rate for jobholders.
-Job Category Executive, manager, professional, secretary, clerk.
-
-Lifestyle For Web e-commerce systems, includes hobbies, recreational
-pursuits, and economic status.
-
-Attitude Positive, neutral, or negative feeling toward job or system.
-
-Motivation Low, moderate, or high due to interest or fear.
-
-Patience Patience or impatience expected in accomplishing goal.
-
-Expectations Kinds and reasonableness.
-
-Stress Level High, some, or no stress generally resulting from task
-performance.
-
-Cognitive Style Verbal or spatial, analytic or intuitive, concrete or abstract.
-
-Age Young, middle aged, or elderly.
-
-Gender Male or female.
-
-Handedness Left, right, or ambidextrous.
-
-Disabilities Blind, defective vision, deafness, motor handicap.
-
-
-
-
-
-
-
-
-
-
-
-Personas
-Personas (Cooper, 1999) - inmates are running the asylum
-
-
-are rich descriptions of typical users of the product under development
-on which the designers can focus and for which they can design products. 
-
-Representação ficcional
-
-
-
-They don’t
-describe specific people, but rather they are realistic, and not idealized. Any one persona
-represents a synthesis of a number of real users who have been involved in data gathering,
-and it is based on a set of user profiles. Each persona is characterized by a unique set of goals
-relating to the particular product under development, rather than a job description or a simple
-demographic. This is because goals often differ among people within the same job role or
-the same demographic.
-In addition to their goals, a persona will include a description of the user’s behavior,
-attitudes, activities, and environment.
-
-Goals, aspirations and motivations - a small card
-
-1. define cargo
-2. define demografia: nome, idade, gênero, foto, job, short bio, quotes, personal facts - preferências  (parecer real)
-3. Goals: I want, I need...
 
 Exemplo:
-
-
-
-Processo/Ordem de aplicação
-
-The user profile task is the first task in the UX engineering lifecycle.
-
-The user profile task will feed directly into the contextual task analysis by identifying categories of users whose tasks and work environment must be studied in that later task.
-
-Ultimately, the user profile task will have a direct impact on all design tasks, which are focused on realizing UX and business goals, which are in turn based in part on user profiles.
-
-The user profile task will also drive the selection of UX evaluation issues and test users.
 
 ![aula5/t3.png](aula5/t3.png)
 
@@ -285,90 +191,11 @@ The user profile task will also drive the selection of UX evaluation issues and 
 
 
 
-### Análise contextual de tarefas
-
-Contextual Task Analysis
-
-The purpose of contextual task analysis is to obtain a user-centered model of work as it is currently performed (i.e., to understand how users currently think about, talk about, and do their work in their current environment). 
-
-In the case of e-Commerce websites, effective “persuasive” design requires an understanding of what is required to establish vendor credibility and adequate product detail. Without contextual task analysis, designers are likely to overlook important product or vendor information that may be a key to motivate users to make buy decisions. In e-Commerce website development, designers often fail to address the scope of information a visitor needs to make a buy or engagement decision as well as the level of risk a visitor may face. For example, the risks associated with choosing a family vacation, health insurance plan, or a college education vary greatly. 
-
-In addition, in B-to-B websites, up to as many as 20 different people are involved in the buy decision (McIntosh 2011), so the role of information sharing in consensus building must be addressed. 
-
-Beyond the actual end users themselves, the following questions needs to be addressed: what are the roles of the decision makers, what risks do they face, and what information do they require?
-
-
-1. Gathering background information to define task scenarios
-2. Collecting and analyzing data from observations of and interviews with users
-3. Constructing and validating models of how users currently conduct tasks, which sometimes include making buy or engagement decisions
-
-A central, key step in contextual task analysis is the second step, sometimes referred to as “contextual observations/interviews.” Here, the idea is that analysts must observe and interview users in their real-life work context to understand their needs and “hot button” motivators as well as the role of consensus in their decisions.
-
-Scenarios
-A scenario is an “informal narrative description” (Carroll, 2000). It describes human
-activities or tasks in a story that allows exploration and discussion of contexts, needs,
-and requirements. It does not necessarily describe the use of software or other technological
-support used to achieve a goal. Using the vocabulary and phrasing of users means
-that scenarios can be understood by stakeholders, and they are able to participate fully in
-development.
-
-Imagine that you have been asked to investigate how a design team working on a
-large building project shares information. This kind of team includes several roles, such
-as an architect, mechanical engineer, client, quantity surveyor, and electrical engineer. On
-arrival, you are greeted by Daniel, the architect, who starts by saying something like the
-following:
-
-Every member of the design team needs to understand the overall purpose, but we
-each take a different perspective on the design decisions that have to be made. For
-example, the quantity surveyor will keep an eye on how much things cost, the mechanical
-engineer will want to make sure that the design accounts for ventilation systems,
-and so on. When the architect presents a design concept, such as a spiral staircase,
-each of us will view that concept from our own discipline and assess whether it will
-work as envisioned in the given location. This means that we need to share information
-about the project goals, the reason for decisions, and the overall budget, as well
-as drawing on our own discipline expertise to advise the client on options and consequences.
-
-Telling stories is a natural way for people to explain what they are doing, and stakeholders
-can easily relate to them.
-
-
-Exemplo de atividade: mind mapping tool
-
-Let’s walk through an example of how you might analyze users’ tasks as an approach to user-centric design. In this example, we are analyzing Sharon, who loves to find and save new recipes on Pinterest. 
-
-We are going to keep this task analysis focused on the goal of shopping for ingredients and cooking a recipe found on Pinterest. If your goal is too broad, you will have a much more difficult time identifying key issues and improving the experience.
-
-The Goal: Shop for and cook a Maple Mustard Chicken Wings recipe previously saved on Pinterest.
-
-The diagram below shows a series of tasks and subtasks identified by watching Sharon meet the goal. We’ve also identified two tasks that required cognitive load (represented by a brain), which means these tasks required some added thinking to meet the goal. 
-
-![aula5/t2.png](aula5/t2.png)
-
-By analyzing the tasks shown above, we can identify repetitive and unnecessary steps and also automate steps to decrease the cognitive load required by a user.
-
-Identifying key areas to improve the user experience: Although Pinterest is great for discovering and saving recipes, it offers no specific features that make shopping for or cooking the recipe very easy. Sharon is instead required to jump back and forth between apps and do some dreaded math (cognitive load) to convert ingredients to match her desired serving size.
-
-Also, when she begins the cooking process, she has to repeat her initial tasks to find this recipe again after shopping from the checklist she created in the notes app.
-
-This was a real-world example task analysis performed by Chandler Horsley, the founder of Favoreats. The Favoreats app improves on this experience while achieving the same goal by syncing to your Pinterest account and offering features to automate the many steps required to shop for and cook a Pinterest recipe. Some of these features include automatically converting measurements based on servings, and automatically creating a shopping list with added details, like which aisle you will find each ingredient in.
-
-By understanding the users and how they previously achieved their goals, Horsley was able to identify these key areas. He was able to create a product that improved upon this existing experience without taking away the experience the users already enjoyed in the process.
-
-It’s important, before creating a new user journey for your experience, that you develop a user research methodology and analyze the existing journey to make sure you don’t miss important needed steps and that you have the right data and perspective to solve problems that actually exist.
 
 
 
 
 
-
-
-
-
-### Restrições e Capacidades de Plataforma
-
-The user interface capabilities and constraints (e.g., screen size, screen resolution, browser brand and version, etc.) inherent in the technology platform chosen for the application (e.g., Apple Macintosh, MS Windows, and product-unique platforms) or website (e.g., browser brand and version) are determined and documented. These constraints will define the scope of possibilities for UX design.
-
-Exemplos: multimedia (Chapter 17), adaptive interfaces and agents (Chapter 19), mobile devices and ubiquitous computing (Chapter 20), tangible interfaces (Chapter 21), and wearable computers (Chapter 12).
 
 
 
