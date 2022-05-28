@@ -35,7 +35,7 @@ A cognição experiencial inclui-se em processos como atenção, percepção e r
 
 ## Processos Cognitivos
 
-Os processos discutidos aqui são interdependentes: vários estão envolvidos em uma determinada atividade - raramente ocorrem isoladamente. Por exemplo, quando você está lendo esse texto, você *percebe* as letras e palavras, usa a *memória* para entender os conceitos, fazendom a *leitura* para encontrar o sentido das frases, talvez exercendo a *tomada de decisão* e a *resolução de  problemas*.
+Os processos discutidos aqui são interdependentes: vários estão envolvidos em uma determinada atividade - raramente ocorrem isoladamente. Por exemplo, quando você está lendo esse texto, você *percebe* as letras e palavras, usa a *memória* para entender os conceitos, fazendo a *leitura* para encontrar o sentido das frases, talvez exercendo a *tomada de decisão* e a *resolução de  problemas*.
 
 ### Atenção
 
@@ -135,7 +135,7 @@ Teorias tentam explicar e até prever situações na prática, baseadas em conhe
 * prescritivas, dando designers diretrizes claras para suas escolhas;
 * preditivas, habilitando designers a comparar designs propostos em relação a tempo de execução, taxas de erro e níveis de confiança.
 
-Um exemplo:  é sabido que, se usuários estão tentando achar a demonstração de um pacote de software, um link com o texto "Download Demo" é uma ótima indicação. Essa é uma aplicação da teoria de *Information Scent", amplamente conhecida por designers web na arquitetura de informações para um site web.
+Um exemplo:  é sabido que, se usuários estão tentando achar a demonstração de um pacote de software, um link com o texto "Download Demo" é uma ótima indicação. Essa é uma aplicação da teoria de *Information Scent*, amplamente conhecida por designers web na arquitetura de informações para um site web.
 
 Pode ser bastante difícil digerir a teoria pura, já que a terminologia e a forma de pensar da teoria pode ser desencorajadora para quem não estiver familiarizado. E essa familiarização exigiria um tempo proibitivo na prática. Pesquisadores em IHC tornam então essa teoria mais acessível, traduzindo-a em **conceitos e princípios de design** e **métodos de avaliação**, aplicáveis diretamente, com o objetivo de enfatizar a usabilidade dos sistemas. 
 
@@ -154,7 +154,7 @@ A Lei de certa forma explica a precisão da ação, já que o tamanho e a distâ
 
 ## Modelos Mentais
 
-Modelos mentais podem ser usados para refletir e analisar o comportamento dos usuários em relação a produtos tecnológicos. Quanto mais alguém aprende sobre um produto e sobre como ele funciona, melhor se desenvolve seu modelo mental. Veja por exemplo, como as pessoas lidam com poblemas na redes wi-fi, comparando a abordagem de um engenheiro de redes com um indivíduo que só sabe usar o Facebook e o WhatsApp. O primeiro tem um modelo mental muito próximo do real, já que ele entende o modelo usado pelos projetistas da tecnologia wi-fi. Já o segundo sofre para entender por que o sinal aumenta ou diminui, ou por que ele precisa mudar de rede, ou por que o sinal do vizinho pode interferir no dele.
+Modelos mentais podem ser usados para refletir e analisar o comportamento dos usuários em relação a produtos tecnológicos. Quanto mais alguém aprende sobre um produto e sobre como ele funciona, melhor se desenvolve seu modelo mental. Veja por exemplo, como as pessoas lidam com problemas na redes wi-fi, comparando a abordagem de um engenheiro de redes com um indivíduo que só sabe usar o Facebook e o WhatsApp. O primeiro tem um modelo mental muito próximo do real, já que ele entende o modelo usado pelos projetistas da tecnologia wi-fi. Já o segundo sofre para entender por que o sinal aumenta ou diminui, ou por que ele precisa mudar de rede, ou por que o sinal do vizinho pode interferir no dele.
 
 Na psicologia cognitiva, modelos mentais são definidos como construções internas manipuláveis de algum aspecto do mundo externo, permitindo que sejam feitas predições e inferências, muitas vezes através de analogias. 
 
