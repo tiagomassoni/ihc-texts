@@ -66,7 +66,7 @@ Uma sessão de entrevista precisa combinar descontração e conforto com algum g
 
 1. Uma introdução da pesquisadora e a razão da pesquisa, assegurando salvaguardas éticas e pedindo autorização para gravação.
 2. Um início mais informal, com perguntas menos "ameaçadoras".
-3. Um seção principal, com questões do roteiro, tentando o máximo de naturalidade, para que o entrevistado sinta-se acolhido e confortável.
+3. Uma seção principal, com questões do roteiro, tentando o máximo de naturalidade, para que o entrevistado sinta-se acolhido e confortável.
 4. Questões mais simples para aliviar.
 5. Fechamento, com agradecimento, desligando gravação e fechando cadernos de nota ou computadores.
 
@@ -99,9 +99,9 @@ Entre os itens de informação que podem ser coletados durante esse processo:
 * Aprender sobre o que as pessoas não usam, ou não fazem.
 
 
-As vantagens: dados confiáveis, observação bem objetivo, conhecimento tácito, Muitos detalhes em contexto, participante é o expert, versátil e flexível, envolvimento dos interessados. Já como desvantagens: muito custoso, logística, demora para analisar e interpretar.
+As vantagens: dados confiáveis, observação bem objetiva, conhecimento tácito. Muitos detalhes em contexto, participante é o expert, versátil e flexível, envolvimento dos interessados. Já como desvantagens: muito custoso, logística, demora para analisar e interpretar.
 
-Na preparação: saber seus objetivos e perguntas de pesquisa, usar NDA, definir time (moderador, anotador, mídia), definir regras no campo, planejamento do dia, semana, mês, participantes ficam informados. E na condução: tentar diminui viés de observação, deixar confortável; observar e fazer perguntas, perguntar razões e procedimentos, fazer entrevista de wrap-up; cabeça aberta, tirar fotos, respeitar o espaço, e evitar fotos de crianças.
+Na preparação: saber seus objetivos e perguntas de pesquisa, usar NDA, definir time (moderador, anotador, mídia), definir regras no campo, planejamento do dia, semana, mês, participantes ficam informados. E na condução: tentar diminui viés de observação, deixar confortável; observar e fazer perguntas, perguntar razões e procedimentos, fazer entrevista de _wrap-up_; cabeça aberta, tirar fotos, respeitar o espaço, e evitar fotos de crianças.
 
 
 ## Artefatos
