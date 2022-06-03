@@ -19,7 +19,7 @@ Exemplos de um aplicativo de organização de viagens:
 
 Uma US acaba sendo uma unidade de gestão de projeto, pois inclui informações de priorização, critérios de teste e estimativa.
 
-O estudo de Engenharia de Software define um conjunto razoável de tipos de requisitos, o que facilita sua identificação. No entanto, nesta disciplina vamos enfatizar apenas dois deles: requisitos de **características de usuários** e **metas de usabilidade/experiência de usuário**.
+O estudo de Engenharia de Software define um conjunto razoável de tipos de requisitos, o que facilita sua identificação (funcionais, não-funcionais, etc.). No entanto, para o design UI/UX, vamos enfatizar apenas dois deles: requisitos de **características de usuários** e **metas de usabilidade/experiência de usuário**.
 
 Requisitos de *Características de usuário* capturam os atributos chave do grupo de usuários alvo, tais como capacidades e aptidões, além de sua base educacional, preferências, circunstâncias pessoais, incluindo limitações físicas ou mentais. Mais ainda, usuários podem ser iniciantes, experientes, ou então casuais ou frequentes, o que afeta a forma como a interação será projetada. Por exemplo, usuários iniciantes devem preferir um direcionamento passo-a-passo; já um experiente pode preferir uma interação flexível, com maior poder de controle. A coleção de características para um usuário típico chama-se *perfil (profile) de usuário*. Qualquer sistema pode incluir vários perfis de usuário.
 
@@ -108,19 +108,6 @@ Na preparação: saber seus objetivos e perguntas de pesquisa, usar NDA, definir
 
 Além das USs serem artefatos importantes também para o design de UI/UX, vamos discutir alguns artefatos de requisitos específicos para esta atividade: cenários e personas.
 
-### Cenários
-
-
-Um cenário é uma descrição narrativa informal, mostrando atividades e tarefas humanas, num formato de *storytelling*, permitindo a exploração e discussão de contextos, necessidades e requisitos. Provavelmente não inclui descrições sobre o uso de software ou suporte tecnológico usado pra atingir objetivos. É importante aqui usar vocabulário do ambiente do usuário, para que o cenário seja compreensível para todos os envolvidos no processo. Contar estórias é uma forma natural para as pessoas explicarem o que estão fazendo, e os envolvidos facilmente se relacionam com isso.
-
-Cenários podem ser descritos em texto e imagens. Uma forma possível é usar alguma ferramenta de *mind mapping*. Por exemplo, a figura abaixo descreve Sharon, uma pessoa que adora procurar e armazenar novas receitas no Pinterest. O objetivo deste cenário: comprar ingredientes e preparar Asas de Frango Maple Mustard, anteriormente salva no Pinterest. Este diagrama mostra uma série de tarefas e subtarefas identificadas enquanto Sharon realizava a tarefa. Duas tarefas em especial exigiram certa carga cognitiva, marcadas com um ícone de cérebro.
-
-
-![aula5/t2.png](aula5/t2.png)
-
-Por exemplo, ao analisar essas tarefas, podemos identificar passos repetitivos e desnecessários, e talvez entender como diminuir a carga cognitiva de alguns passos. Neste exemplo, apesar do Pinterest ser elogiado na hora de descobrir e salvar receitas, ele não oferecia aqui recursos específicos para auxiliar na preparação da receita, ou na compra de ingredientes. Sharon teve que saltar entre aplicativos e até fazer cálculos de cabeça pra converter os ingredientes. Além disso, quando ela começa a preparação, ela teve que repetir suas tarefas iniciais de busca da receita. 
-(Este cenário real foi realizado pelos desenvolvedores do app Favoreats, que tenta resolver essas limitações para quem usa o Pinterest para culinária).
-
 
 ### Perfil  de Usuário e Personas
 
@@ -179,6 +166,22 @@ Uma persona representa a síntese de um número de usuários reais que se envolv
 Exemplo:
 
 ![aula5/t3.png](aula5/t3.png)
+
+
+
+### Cenários
+
+
+Um cenário é uma descrição narrativa informal, mostrando atividades e tarefas humanas, num formato de *storytelling*, permitindo a exploração e discussão de contextos, necessidades e requisitos. Provavelmente não inclui descrições sobre o uso de software ou suporte tecnológico usado pra atingir objetivos. É importante aqui usar vocabulário do ambiente do usuário, para que o cenário seja compreensível para todos os envolvidos no processo. Contar estórias é uma forma natural para as pessoas explicarem o que estão fazendo, e os envolvidos facilmente se relacionam com isso.
+
+Cenários podem ser descritos em texto e imagens. Uma forma possível é usar alguma ferramenta de *mind mapping*. Por exemplo, a figura abaixo descreve Sharon, uma pessoa que adora procurar e armazenar novas receitas no Pinterest. O objetivo deste cenário: comprar ingredientes e preparar Asas de Frango Maple Mustard, anteriormente salva no Pinterest. Este diagrama mostra uma série de tarefas e subtarefas identificadas enquanto Sharon realizava a tarefa. Duas tarefas em especial exigiram certa carga cognitiva, marcadas com um ícone de cérebro.
+
+
+![aula5/t2.png](aula5/t2.png)
+
+Por exemplo, ao analisar essas tarefas, podemos identificar passos repetitivos e desnecessários, e talvez entender como diminuir a carga cognitiva de alguns passos. Neste exemplo, apesar do Pinterest ser elogiado na hora de descobrir e salvar receitas, ele não oferecia aqui recursos específicos para auxiliar na preparação da receita, ou na compra de ingredientes. Sharon teve que saltar entre aplicativos e até fazer cálculos de cabeça pra converter os ingredientes. Além disso, quando ela começa a preparação, ela teve que repetir suas tarefas iniciais de busca da receita. 
+(Este cenário real foi realizado pelos desenvolvedores do app Favoreats, que tenta resolver essas limitações para quem usa o Pinterest para culinária).
+
 
 
 
