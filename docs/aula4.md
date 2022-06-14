@@ -1,12 +1,10 @@
 # Aula 4: Usabilidade
 
-**Usabilidade** é definida como a capacidade que um sistema interativo oferece a seu usuário, em um determinado contexto de operação, para a realização de tarefas, de maneira eficaz, eficiente e agradável (ISO 9241). Afinal, esta disciplina visa à adaptação do trabalho ao homem, por meio de sistemas e dispositivos que estejam adaptados à maneira como o usuário pensa e trabalha.
+**Usabilidade** é definida como a capacidade que um sistema interativo oferece a seu usuário, em um determinado contexto de operação, para a realização de tarefas, de maneira eficaz, eficiente e agradável (ISO 9241). O conceito visa a adaptação do trabalho ao homem, por meio de sistemas e dispositivos que estejam adaptados à maneira como o usuário pensa e trabalha.
 
-A usabilidade de uma interface é um conceito que se refere à qualidade da interação de sistemas com os usuários e depende de vários aspectos. Alguns destes fatores são: facilidade de aprendizado, facilidade de uso, satisfação do usuário, flexibilidade, produtividade.
+A usabilidade de uma interface é um conceito que se refere à qualidade da interação de sistemas com os usuários e depende de vários aspectos. Alguns destes fatores são: facilidade de aprendizado, facilidade de uso, satisfação do usuário, flexibilidade e produtividade. Mais importante do que definir usabilidade é estabelecer os critérios usados para avaliar uma interface em relação a sua usabilidade:
 
-Mais importante do que definir usabilidade é estabelecer os conceitos concretos que normalmente constituem um interface com alta usabilidade:
-
-* útil: Faz algo que as pessoas precisam?
+* Útil: Faz algo que as pessoas precisam?
 * Fácil de aprender: As pessoas conseguem descobrir como usar?
 * Memorável: As pessoas precisam reaprender toda vez que usar?
 * Efetiva: Resolve o problema?
@@ -14,7 +12,7 @@ Mais importante do que definir usabilidade é estabelecer os conceitos concretos
 * Desejável: As pessoas querem? e até, recentemente
 * Divertida: As pessoas podem ter algum prazer/satisfação usando?
 
-Uma definição de usabilidade simples e direta. Se algo é usável—seja um site web, um aplicativo ou uma porta giratória—significa que:
+Abaixo, uma definição de usabilidade simples e direta. Se algo é usável—seja um site web, um aplicativo ou uma porta giratória—significa que:
 
 > Uma pessoa de habilidade e experiência mediana, ou até abaixo da média, pode descobrir como usar para realizar algo, com menos custo do que seria resolver sem isso.
 
@@ -34,26 +32,28 @@ Boa usabilidade é importante para:
 
 ## Princípios de Don Norman
 
-O termo usabilidade, conforme podemos perceber, é comumente abordado por diversos autores, contudo os conceitos apresentados são muito semelhantes, sendo que os mais conhecidos se referem a como determinar o que o usuário deve fazer quando realizam tarefas utilizando um produto interativo. A partir do livro de Don Norman (O Design do dia a dia):
+O termo usabilidade é comumente abordado por diversos autores. Don Norman  (O Design do dia a dia) define princípios de usabilidade que são bastante citados e inspiram designers amplamente. Ele enumera os seguintes princípios:
 
 **Visibilidade**: quanto mais visíveis forem as funções, mais os usuários saberão como agir. No exemplo está informando ao usuário que o arquivo será salvo.
 
-**Feedback**: está relacionado ao conceito anterior e refere-se ao retorno da informação a respeito da ação que foi feita, dando a possibilidade de decidir se continua ou não. O feedback pode ser através de áudio, tátil, verbal, visual ou a combinação destes. A utilização correta do feedback pode proporcionar a visibilidade necessária para a interação do usuário. Nesta ação, será informado que já existe o arquivo e se deseja substituir ou não.
+**Feedback**: está relacionado ao conceito anterior e refere-se ao retorno da informação a respeito da ação que foi feita, dando a possibilidade de decidir se continua ou não. O feedback pode ser através de áudio, tátil, verbal, visual ou a combinação destes. A utilização correta do feedback pode proporcionar a visibilidade necessária para a interação do usuário. 
 
-**Restrições**: este item refere-se até onde pode ir cada tipo de interação em determinado momento. Essa atividade pode ser feita através da inativação ou desabilitar certas opções do menu. Limita o uso do usuário em determinado momento, diminuindo as chances de erro. Norman (1999) classifica as restrições em três categorias: física, lógica e cultural. Nas físicas, referem-se à forma como objetos físicos restringem o movimento das coisas. Exemplo: as peças físicas de um computador ou a maneira que uma tecla pode ser pressionada. Já as lógicas se referem ao modelo mental que as pessoas têm sobre como o mundo funciona. Ao tornarmos óbvias as ações e os efeitos, isto permite às pessoas deduzirem logicamente quais são as ações necessárias. Quando opções estão desabilitadas, faz com que usuários raciocinem a respeito do porquê ou até mesmo por que essas opções estão desta forma, isso é uma restrição lógica. Nesta situação, as opções que não estão disponíveis encontram-se sombreadas, impedidas de serem selecionadas.
+**Restrições**: este item refere-se até onde pode ir cada tipo de interação em determinado momento. Essa atividade pode ser feita através da inativação ou desabilitar certas opções do menu. Limita o uso do usuário em determinado momento, diminuindo as chances de erro. Norman (1999) classifica as restrições em três categorias: física, lógica e cultural. 
+
+Nas físicas, referem-se à forma como objetos físicos restringem o movimento das coisas. Exemplo: as peças físicas de um computador ou a maneira que uma tecla pode ser pressionada. 
+
+Já as lógicas se referem ao modelo mental que as pessoas têm sobre como o mundo funciona. Ao tornarmos óbvias as ações e os efeitos, isto permite às pessoas deduzirem logicamente quais são as ações necessárias. Quando opções estão desabilitadas, faz com que usuários raciocinem a respeito do porquê ou até mesmo por que essas opções estão desta forma, isso é uma restrição lógica. Nesta situação, as opções que não estão disponíveis encontram-se sombreadas, impedidas de serem selecionadas.
 
 **Mapeamento**: refere-se à relação entre os controles e os seus efeitos no mundo. Por exemplo, entre controle e efeito são as setas utilizadas para representar o movimento para cima e para baixo do cursor em um teclado de computador.
 
 **Consistência**: refere-se a projetar interfaces de modo que tenham semelhantes e que utilizem elementos semelhantes para a realização de tarefas similares. Deve seguir sempre uma consistência, como poder marcar qualquer objeto gráfico na interface ao clicar com o botão esquerdo. Como vantagem ao mantermos uma consistência é a sua aprendizagem e a facilidade de uso.
 
-Todas essas características de usabilidade podem ser medidas de forma objetiva, através de métricas. Exemplos de métricas: tempo para aprender, velocidade de desempenho, taxa de erros por usuário, retenção ao longo do tempo, ou até mesmo satisfação subjetiva.
+Todas esses princípios de usabilidade podem ser medidas de forma objetiva, através de métricas. Exemplos de métricas: tempo para aprender, velocidade de desempenho, taxa de erros por usuário, retenção ao longo do tempo, ou até mesmo satisfação subjetiva.
 
 
 ## Padrões
 
-Através de teorias e princípios, advindos do estudo empírico do comportamento humano, a literatura de design UX é vasta quando o assunto é *diretrizes* para projetar interfaces.
-
-Uma forma simples de comunicar e documentar essas diretrizes é utilizar *padrões*, que representam as mais frequentes formas como as pessoas pensam ou se comportam. Mesmo que um indivíduo seja único, as pessoas, em geral, se comportam de forma previsível. Os padrões documentados em livros e sites são normalmente resultado de anos de pesquisa com usuários por designers e psicólogos, e esse conhecimento pode ser então disseminado.
+Através de teorias e princípios, advindos do estudo empírico do comportamento humano, a literatura de design UX é vasta quando o assunto é *diretrizes* para projetar interfaces. Uma forma simples de comunicar e documentar essas diretrizes é utilizar *padrões*, que representam as mais frequentes formas como as pessoas pensam ou se comportam. Mesmo que um indivíduo seja único, as pessoas, em geral, se comportam de forma previsível. Os padrões documentados em livros e sites são normalmente resultado de anos de pesquisa com usuários por designers e psicólogos, e esse conhecimento pode ser então disseminado.
 
 De uma maneira geral, a interface que aplica esses padrões tendem a auxiliar o usuário a atingir seus objetivos mais efetivamente.
 
