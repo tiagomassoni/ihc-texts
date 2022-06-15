@@ -2,7 +2,7 @@
 
 Protótipos são poderosas ferramentas de design, que incentivam a visão e manipulação de representações da UI, úteis tanto para os **usuários entenderem o que precisam** como para os **designers saberem o que projetar**. Com os protótipos, uma equipe de design pode imaginar cenários específicos, testando-os.
 
-Normalmente, protótipos são limitados, já que enfatizam um conjunto de características específico. Ah, também pode vir em *muitas formas*; não dá pra simplesmente dizer qual o melhor tipo de protótipo para cada ocasião. Em geral, o *custo* de criar o protótipo é que define qual tipo usar. Podemos ter protótipos em folhas de papel, ou pedaços de papelão pintados; talvez uma coleção de componentes de metal com cabos e fios à mostra; ou até uma simulação em software, interativa. 
+Normalmente, protótipos são limitados, já que enfatizam um conjunto de características específico. Ah, também podem vir em *muitas formas*; não dá pra simplesmente dizer qual o melhor tipo de protótipo para cada ocasião. Em geral, o *custo* de criar o protótipo é que define qual tipo usar. Podemos ter protótipos em folhas de papel, ou pedaços de papelão pintados; talvez uma coleção de componentes de metal com cabos e fios à mostra; ou até uma simulação em software, interativa. 
 
 Protótipos servem para **discutir e avaliar ideias**; são considerados, em essência, uma ferramenta de comunicação, entre designers e usuários, ou entre membros de times. A simples construção de um protótipo encoraja reflexão, sendo uma ferramenta imprescindível em qualquer processo de design. Os protótipos respondem perguntas, testam a viabilidade de certas ideias, e define se essas ideias estão em sintonia com o restante do design. 
 
@@ -12,7 +12,7 @@ Não se parece muito com um produto final. De fato, não serve para prover a fun
 
 Esses protótipos são úteis pois tendem a ser simples, baratos e de fácil produção. O que significa que também são rapidamente modificáveis; isso é bem importante nos estágios iniciais de um projeto, já que protótipos são úteis para explorar ideias. Certamente não serão parte do produto final, por isso descartáveis.
 
-Os mais comuns tipos de protótipo *low-fi* são os storyboards(um representação gráfica dos cenários, que discutimos no módulo anterior) e aqueles baseados em papel/cartões.
+Os mais comuns tipos de protótipo *low-fi* são os storyboards (uma representação gráfica dos cenários, que discutimos no módulo anterior) e aqueles baseados em papel/cartões.
 
 Os protótipos baseados em papel ou cartões são bem usados para capturar e explorar elementos de uma interação, principalmente trocas entre usuário e produto. É bom porque os elementos de interação (menus, botões, etc.) propostos podem ser manipulados e movidos para simular o ação com o usuários pessoalmente, em uma experiência fim-a-fim. 
 
@@ -55,7 +55,7 @@ Ferramentas comerciais que dão suporte para a criação de wireframes ou mock-u
 
 Uma lista mais completa pode ser encontrada aqui: https://www.uxdesigninstitute.com/blog/best-prototyping-tools-for-ux-designers/
 
-No Figma, por exemplo, é bem simples transformar imagens estáticos em protótipos interativos, sem exigência de conhecimento em programação. Os elementos de UI são conectados através da seleção de interaçoes e animações; o resultado pode ser "executado" em um aplicativo do próprio Figma ou em um navegador web.
+No Figma, por exemplo, é bem simples transformar imagens estáticos em protótipos interativos, sem exigência de conhecimento em programação. Os elementos de UI são conectados através da seleção de interações e animações; o resultado pode ser "executado" em um aplicativo do próprio Figma ou em um navegador web.
 
 
 
