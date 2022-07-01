@@ -25,11 +25,11 @@ Ao final desta disciplina, esperamos que o estudante tenha noções fundamentada
 
 [4. Need Finding: exploração, empatia, observação](https://tiagomassoni.github.io/ihc-texts/aula5.html)
 
-[6. Prototipação](https://tiagomassoni.github.io/ihc-texts/aula6.html)
+[5. Prototipação](https://tiagomassoni.github.io/ihc-texts/aula6.html)
 
-[7. Usabilidade; Princípios de usabilidade](https://tiagomassoni.github.io/ihc-texts/aula4.html)
+[6. Usabilidade; Princípios de usabilidade](https://tiagomassoni.github.io/ihc-texts/aula4.html)
 
-[8. Design: padrões](https://tiagomassoni.github.io/ihc-texts/aula8.html)
+[7. Design: padrões](https://tiagomassoni.github.io/ihc-texts/aula7.html)
 
 [9. Avaliação](https://tiagomassoni.github.io/ihc-texts/aula10.html)
 
