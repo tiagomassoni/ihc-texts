@@ -31,9 +31,7 @@ Ao final desta disciplina, esperamos que o estudante tenha noções fundamentada
 
 [7. Design: padrões](https://tiagomassoni.github.io/ihc-texts/aula7.html)
 
-[9. Avaliação](https://tiagomassoni.github.io/ihc-texts/aula10.html)
-
-[10. Avaliação Heurística](https://tiagomassoni.github.io/ihc-texts/aula11.html)
+[8. Avaliação](https://tiagomassoni.github.io/ihc-texts/aula10.html)
 
 
 ## Metodologia
