@@ -31,7 +31,7 @@ Ao final desta disciplina, esperamos que o estudante tenha noções fundamentada
 
 [7. Design: padrões](https://tiagomassoni.github.io/ihc-texts/aula7.html)
 
-[8. Avaliação](https://tiagomassoni.github.io/ihc-texts/aula10.html)
+[8. Avaliação](https://tiagomassoni.github.io/ihc-texts/aula8.html)
 
 
 ## Metodologia
