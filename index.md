@@ -1,11 +1,18 @@
 ---
-title: Interface Humano-Computador
+title: IHC
 ---
 
 ## Ementa
 
 A interface com o usuário: Definição; Importância de um projeto de interface centrado no usuário; Breve histórico da interação homem-máquina; Características de interfaces gráficas para aplicações desktop e Web. Projeto contextual: Gestão do desenvolvimento de software; Usabilidade em desenvolvimento de software; Ciclo da Engenharia da Usabilidade. Concepção de interfaces com o usuário: Análise de requisitos; Projeto da Tarefa, da Informação e da Interação; Prototipagem; Avaliação.
 
+## Links úteis
+
+[Cronograma](https://docs.google.com/spreadsheets/d/10Jovj7URt9Q6aIHdESjQioUZJTelGmT-etDyIx39A7k/edit?usp=sharing)
+
+[Programa](https://docs.google.com/document/d/1Uo8nDViCAQhX3UQyS34E2W4gjCmccMMBQsv5OcW5SyI/edit?usp=sharing)
+
+[Notas]()
 
 ## Introdução
 

@@ -1,6 +1,8 @@
-# Módulo 1: Introdução ao estudo de Interface Humano-Computador (IHC)
+---
+title: Módulo 1
+---
 
-## Introdução
+# Introdução ao estudo de Interface Humano-Computador (IHC)
 
 Vivemos em um mundo mergulhado em tecnologia, em que a interação com dispositivos de Tecnologia de Informação e Comunicação é questão quase essencial de sobrevivência, ou pelo menos de conforto. Para todo lugar que olhamos, existe uma interface querendo se comunicar conosco, seja um microondas, uma televisão, nosso smartphone, ou até a lanchonete onde comemos. Basta analisar um dia banal da nossa vida. Entre cama, banho, refeições, trabalho, entretenimento, descanso, com quantos objetos interativos temos que lidar? Ao interagir com meu chuveiro, ainda em um estado entorpecido por mais um noite mal dormida por causa do Netflix, demoro uns dois minutos pra conseguir a temperatura que eu quero!
 
@@ -37,7 +39,7 @@ Se temos um foco nesta disciplina, esse será a promoção do UCD.
 
 ### Desenvolvimento histórico
 
-Um bom lugar para começar nossa história é em Julho de 1945, quando o engenheiro Vannevar Bush escreveu um artigo para o Atlantic Monthly, mais tarde reimpresso na revista Life, chamado "Como Nós Podemos Pensar". Considerando que a tecnologia tem sobretudo aumentado as habilidades físicas das pessoas - como uma faca, por exemplo -, Bush delineou uma visão para tecnologias da informação que aumentaria as habilidades intelectuais das pessoas. O objetivo deste artigo, escrito no final da Segunda Guerra Mundial, era perguntar "O que cientistas financiados pelo governo podem fazer para criar um mundo melhor em tempo de paz?" e sua visão era fortemente antropocentrica. Bush escreveu sobre uma futura mesa interativa; ele chamou o sistema de "Memex".
+Um bom lugar para começar nossa história é em Julho de 1945, quando o engenheiro Vannevar Bush escreveu um artigo para o Atlantic Monthly, mais tarde reimpresso na revista Life, chamado "Como Nós Podemos Pensar". Considerando que a tecnologia tem sobretudo aumentado as habilidades físicas das pessoas - como uma faca, por exemplo -, Bush delineou uma visão para tecnologias da informação que aumentaria as habilidades intelectuais das pessoas. O objetivo deste artigo, escrito no final da Segunda Guerra Mundial, era perguntar "O que cientistas financiados pelo governo podem fazer para criar um mundo melhor em tempo de paz?" e sua visão era fortemente antropocêntrica. Bush escreveu sobre uma futura mesa interativa; ele chamou o sistema de "Memex".
 
 Nela todas as informações do mundo estariam disponíveis na área de trabalho dos trabalhadores do conhecimento. A chave para a ideia do Memex era interfaces eficazes para o armazenamento e a recuperação de informação. Lembre-se, estamos em 1945, portanto, ainda não existem os práticos computadores digitais — os primeiros computadores digitais, do tamanho de uma sala, estavam sendo construídos — e a ideia era usar microfichas - filme de alta densidade - para armazenar tudo! Ainda mais impressionante, a visão de Bush para o Memex inventou o hipertexto, esse negócio de links que conectam documentos relacionados que usamos hoje.
 
