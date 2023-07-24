@@ -2,6 +2,11 @@
 title: Módulo 1
 ---
 
+## Slides
+
+[Aula 1](modulo1/mod1aula1.pdf)
+[Aula 2]()
+
 # Introdução ao estudo de Interface Humano-Computador (IHC)
 
 Vivemos em um mundo mergulhado em tecnologia, em que a interação com dispositivos de Tecnologia de Informação e Comunicação é questão quase essencial de sobrevivência, ou pelo menos de conforto. Para todo lugar que olhamos, existe uma interface querendo se comunicar conosco, seja um microondas, uma televisão, nosso smartphone, ou até a lanchonete onde comemos. Basta analisar um dia banal da nossa vida. Entre cama, banho, refeições, trabalho, entretenimento, descanso, com quantos objetos interativos temos que lidar? Ao interagir com meu chuveiro, ainda em um estado entorpecido por mais um noite mal dormida por causa do Netflix, demoro uns dois minutos pra conseguir a temperatura que eu quero!
@@ -176,9 +181,9 @@ Implicações para design de sistemas:
 * Empregar funções simples e memoráveis para dar suporte à tomada rápida de decisões;
 * O usuário deve ter como definir suas próprias preferências e critérios;
 
-**Modelos Mentais**
+### Modelos Mentais
 
-A gente tem coisas como **modelos mentais**, que são aquelas representações que a gente cria na nossa cabeça sobre como as coisas funcionam. Pensa no Instagram, por exemplo. Quando você entra no aplicativo, você já sabe intuitivamente que pode rolar a tela pra baixo pra ver mais posts, né? Isso é um exemplo de como a interface foi projetada levando em conta os nossos modelos mentais. 
+A gente tem coisas como **modelos mentais**, que são aquelas representações que a gente cria na nossa cabeça sobre como algo funciona. Pensa no Instagram, por exemplo. Quando você entra no aplicativo, você já sabe intuitivamente que pode rolar a tela pra baixo pra ver mais posts, né? Isso é um exemplo de como a interface foi projetada levando em conta os nossos modelos mentais. 
 
 Podemos também pode usar esses conhecimentos de fatores humanos e psicologia cognitiva pra criar *interfaces específicas pra diferentes grupos de usuários*. Por exemplo, podemos considerar em interfaces adaptadas pra pessoas mais velhas, que podem ter dificuldade com leitura pequena ou botões muito pequenos. Ou então interfaces pensadas pra pessoas com deficiências motoras, que talvez prefiram usar comandos de voz ou gestos em vez de toques na tela. A ideia é criar interfaces que respeitem as habilidades e limitações de cada pessoa, pra que todo mundo possa aproveitar a tecnologia de forma plena e sem barreiras.
 
