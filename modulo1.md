@@ -5,7 +5,8 @@ title: Módulo 1
 ## Slides
 
 [Aula 1](modulo1/mod1aula1.pdf)
-[Aula 2]()
+[Aula 2](modulo1/mod1aula2.pdf)
+
 
 # Introdução ao estudo de Interface Humano-Computador (IHC)
 
