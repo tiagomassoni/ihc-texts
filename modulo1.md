@@ -5,7 +5,12 @@ title: Módulo 1
 ## Slides
 
 [Aula 1](modulo1/mod1aula1.pdf)
+
 [Aula 2](modulo1/mod1aula2.pdf)
+
+[Aula 3](modulo1/mod1aula3.pdf)
+
+[Aula 4](modulo1/mod1aula4.pdf)
 
 
 # Introdução ao estudo de Interface Humano-Computador (IHC)
@@ -201,7 +206,7 @@ Considerações para o design:
 
 Usabilidade é aquela característica que torna um sistema ou interface fácil de utilizar. É quando a gente consegue realizar nossas tarefas de forma eficiente, sem perder tempo procurando onde clicar ou ficando confusos com as opções. Vamos considerar o aplicativo do Instagram: quando a gente abre o app, a gente consegue navegar pelas fotos, comentar, curtir e postar sem dificuldade, né? Isso é resultado de um design com boa usabilidade. A gente quer que os usuários se sintam à vontade e consigam usar um sistema sem precisar de um manual de instruções!
 
-Além disso, a usabilidade é composta por três componentes fundamentais: *eficácia, eficiência e satisfação*. A **eficácia** está relacionada à capacidade do usuário de atingir seus objetivos utilizando o sistema. Por exemplo, em um aplicativo de entrega de comida, a eficácia seria o usuário conseguir fazer o pedido corretamente e receber a comida no endereço certo. Já a **eficiência** é sobre fazer isso de forma rápida e com o mínimo de esforço. Por fim, a **satisfação** está ligada à experiência geral do usuário, como se ele gostou da interface, se teve uma boa interação e se ficou satisfeito com o resultado final.
+Além disso, a usabilidade é composta por alguns componentes fundamentais: *aprendizado, eficiência, memorização,tolerância a erros e satisfação*. A **eficiência** é sobre fazer as atividades de forma rápida e com o mínimo de esforço. Por fim, a **satisfação** está ligada à experiência geral do usuário, como se ele gostou da interface, se teve uma boa interação e se ficou satisfeito com o resultado final.
 
 Hoje, as equipes de desenvolvimento de software têm a noção de que, para atingir altos índices de usabilidade, é importante seguir as diretrizes de um _design centrado no usuário (UCD)_. Essa abordagem coloca o usuário como o foco principal de todo o processo de design. A ideia é entender as necessidades, expectativas e desejos dos usuários desde o início e criar soluções que atendam a essas demandas. Por exemplo, se a gente está desenvolvendo um aplicativo de música, a gente precisa entender os gostos musicais dos usuários, as funcionalidades que eles esperam encontrar e como eles gostariam de interagir com o aplicativo. A partir dessas informações, a gente cria um design que seja realmente útil e agradável para o público-alvo.
 
@@ -229,7 +234,7 @@ Agora, como medir e avaliar a satisfação do usuário e a UX? Existem várias t
 
 ## Teorias e Modelos
 
-Apenas alguns exemplos, já que existe muitas teorias e modelos usados pelo design de interação. Várias das técnicas que vamos investigar aqui usam essas teorias como inspiração ou fundamento.
+Apenas alguns exemplos, já que existem muitas teorias e modelos usados pelo design de interação. Várias das técnicas que vamos investigar aqui usam essas teorias como inspiração ou fundamento.
 
 ### Fitts' Law e Hick's Law
 
