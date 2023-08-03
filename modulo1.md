@@ -12,6 +12,10 @@ title: Módulo 1
 
 [Aula 4](modulo1/mod1aula4.pdf)
 
+## Exercício para Entrega
+
+[Especificação](https://tiagomassoni.github.io/ihc-texts/modulo1/exercicio.html)
+
 
 # Introdução ao estudo de Interface Humano-Computador (IHC)
 
