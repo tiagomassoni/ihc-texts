@@ -4,7 +4,7 @@ title: Exercício de Escrita - Conceitos Básicos
 
 ## Objetivo
 
-Produzir um texto de no mínimo 100 palavras, que deve conter uma análise de uma solução computacional existente de sua escolha, sob a luz dos conceitos discutidos neste Módulo 1.
+Produzir um texto de no mínimo 250 palavras, que deve conter uma análise de uma solução computacional existente de sua escolha, sob a luz dos conceitos discutidos neste Módulo 1.
 
 ## O que se espera da entrega
 
