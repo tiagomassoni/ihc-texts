@@ -59,7 +59,7 @@ Independente do método de coleta, o registro de dados pode se dar de várias fo
 
 A figura abaixo resume as principais técnicas usadas para a descoberta de requisitos.
 
-![modulo2/t1.png][modulo2/t1.png)
+![modulo2/t1.png](modulo2/t1.png)
 
 **Entrevistas** podem ser estruturadas ou não, dependendo do grau de formalização de um roteiro pré-estabelecido (obrigatório para as primeiras). O mais comum é que as entrevistas sejam *semiestruturadas*, que inclui um roteiro apenas para que sejam cobertos os principais tópicos, permitindo a exploração livre dos comos e porquês de cada uma das respostas. 
 
