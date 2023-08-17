@@ -4,9 +4,9 @@ title: Módulo 2
 
 ## Slides
 
-[Aula 1](modulo1/mod2aula1.pdf)
+[Aula 1](modulo2/mod2aula1.pdf)
 
-[Aula 2](modulo1/mod2aula2.pdf)
+[Aula 2](modulo2/mod2aula2.pdf)
 
 ## Projeto: primeira entrega
 
