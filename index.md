@@ -14,7 +14,9 @@ A interface com o usuário: Definição; Importância de um projeto de interface
 
 [Discord (entrada obrigatória)](https://discord.gg/NTKnTk6GJ) 
 
-[Notas]()
+## Notas
+
+[Entrega 1 (texto)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmcGNn0hmY1of8zXQv8Ooz-lHX9DGq3bjOHPs3oYsS7YYh08s18AycMXcjWXOyAs56Z2H4fghmPI2u/pubhtml?gid=144167870&single=true)
 
 ## Introdução
 
