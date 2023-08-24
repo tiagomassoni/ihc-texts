@@ -18,6 +18,9 @@ A interface com o usuário: Definição; Importância de um projeto de interface
 
 [Entrega 1 (texto)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmcGNn0hmY1of8zXQv8Ooz-lHX9DGq3bjOHPs3oYsS7YYh08s18AycMXcjWXOyAs56Z2H4fghmPI2u/pubhtml?gid=144167870&single=true)
 
+[Totalização das notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vSk3v-IIEpF8Z6MSZKANipcg9sFqTKQw0K2mLKAlpzTCbtAMIxa6z9MfBBMizXq6IyfA81XofHHyTsR/pubhtml?gid=0&single=true)
+
+
 ## Introdução
 
 Para todo lugar que olhamos, existe uma interface querendo se comunicar conosco, seja um microondas, um controle remoto, uma geladeira, e até o nosso computador. Basta analisar um dia banal da nossa vida. Entre cama, banho, refeições, trabalho, entretenimento, descanso, com quantos objetos ou dispositivos interativos temos que lidar? 
