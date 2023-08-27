@@ -21,4 +21,4 @@ Enviar link do documento (Google Docs), com permissão para comentar, no seguint
 
 ## Data de entrega
 
-**28/08/2023, 23:59h**
+**30/08/2023, 23:59h**
