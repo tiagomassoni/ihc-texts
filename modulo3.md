@@ -142,7 +142,6 @@ Os padrões de **navegação** versam sobre vários aspectos de navegação: est
 * Breadcrumbs
 * Annotated Scroll Bar
 
-
 ### Layout
 
 Layout? O jeito como os elementos (componentes) estão dispostos. Cada elemento pode ser *informacional, funcional, de enquadramento ou decorativo*. A disposição desses elementos ajuda a guiar e informar usuários sobre a importância relativa de informação e funções. 
