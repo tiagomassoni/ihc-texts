@@ -4,7 +4,7 @@ title: Módulo 3
 
 ## Slides
 
-[Aula 1]()
+[Aula 1](https://tiagomassoni.github.io/ihc-texts/modulo3/mod3aula1.pdf)
 
 [Aula 2]()
 
