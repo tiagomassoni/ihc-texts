@@ -78,7 +78,7 @@ No Figma, por exemplo, é bem simples transformar imagens estáticos em protóti
 
 Os padrões de UI são as formas mais comuns como pensar e se comportar ao se relacionar com interfaces de software. Mesmo que cada indivíduo seja único, pessoas em geral se comportam de forma previsível. Designers estudam visitas em sites e usuários por anos; cientistas cognitivos e outros pesquisadores passam muito tempo tentando entender as pessoas. Os princípios e os padrões são resultado de todo esse conhecimento.
 
-Muitos padrões de UI para layout podem ser encontrados em catálogos ou sites ([http://ui-patterns.com](http://ui-patterns.com)). Usaremos aqui como referência o seguinte livro texto: 
+Muitos padrões de UI podem ser encontrados em catálogos ou sites ([http://ui-patterns.com](http://ui-patterns.com)). Usaremos aqui como referência o seguinte livro texto: 
 
 **Designing Interfaces: Patterns for Effective Interaction Design**. 
 Jenifer Tidwell et al. Terceira Edição. 
