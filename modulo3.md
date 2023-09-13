@@ -6,7 +6,7 @@ title: Módulo 3
 
 [Aula 1](https://tiagomassoni.github.io/ihc-texts/modulo3/mod3aula1.pdf)
 
-[Aula 2]()
+[Aula 2](https://tiagomassoni.github.io/ihc-texts/modulo3/mod3aula2.pdf)
 
 ## Projeto: entrega
 
