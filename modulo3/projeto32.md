@@ -19,3 +19,7 @@ Enviar link do projeto Figma (aberto para consulta) e documentação através do
 ## Data de entrega
 
 **09/10/2023, 23:59h**
+
+## Links com referências adicionais
+
+[Tutorial de Figma OpenDev](https://www.youtube.com/watch?v=ZH4AUczmdAw&list=PLpRSAQI4X2cyyoXsM_8u0j_qSLp8kRfNk)
