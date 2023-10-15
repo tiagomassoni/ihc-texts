@@ -1,5 +1,5 @@
 ---
-title: Projeto: Avaliação heurística
+title: Avaliação heurística
 ---
 
 ## Objetivo
