@@ -44,28 +44,19 @@ Ao final desta disciplina, esperamos que o estudante tenha noções fundamentada
 
 [Módulo 3. Prototipação e Design UI](https://tiagomassoni.github.io/ihc-texts/modulo3.html). A partir das necessidades coletadas e compreendidas, vamos entender os princípios de design utilizados comumente para sistemas computacionais interativos, através de protótipos (15 horas).
 
-[Módulo 4. Teste de Usabilidade e Avaliação](https://tiagomassoni.github.io/ihc-texts/modulo4.html). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas).
-
-[Módulo 5. Avaliação Centrada no Usuário](https://tiagomassoni.github.io/ihc-texts/modulo5.html). Aqui queremos entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
+[Módulo 4. Teste de Usabilidade e Avaliação](https://tiagomassoni.github.io/ihc-texts/modulo4.html). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
 
 
 ## Metodologia
 
 * Leitura e discussão de textos
-* Quizzes e desafios
 * Encontros presenciais com estudos de caso, exercícios, atividades em grupo
 * Avaliações Continuadas, além de um projeto gradualmente construído pelos estudantes
 
 
 ## Avaliação
 
-A disciplina contém 5 módulos. Como o Módulo 1 tem uma natureza mais teórica, faremos dois mini-testes escritos. Nos quatro módulos seguintes, em cada um vocês fazem um incremento a um projeto construído desde o início da disciplina. A cada incremento, teremos uma data de entrega, o que gera uma nota. Ao final, vocês terão cinco notas, com pesos iguais.
-
-* Módulo 1: nota dos mini-testes (20%)
-* Módulo 2: primeira entrega (20%)
-* Módulo 3: segunda entrega (20%)
-* Módulo 4: terceira entrega (20%)
-* Módulo 5: entrega final (20%)
+A disciplina contém 4 módulos. Como o Módulo 1 tem uma natureza mais teórica, trabalharemos em um texto sobre usabilidade. Nos três módulos seguintes, em cada um vocês fazem um incremento a um projeto construído desde o início da disciplina. A cada incremento, teremos uma data de entrega, o que gera uma nota. *Ao final, vocês terão quatro notas, com pesos iguais*.
 
 
 ## Referências bibliográficas
