@@ -20,7 +20,9 @@ A interface com o usuário: Definição; Importância de um projeto de interface
 
 [Entrega 2 (levantamento de necessidades)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ51p8ue0p5J2-pQic_c3sqfR74nXtjhAPiTBjtDPYfNl95TLN2BxU6_-j1b9svN-JvOwEns05_Rzvw/pubhtml?gid=795536843&single=true)
 
-[Entrega 3 (protótipo de baixa fidelidade)](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlmI5iAvi0R1ErMBZKUIPb1B3tqSTamRJsyJpIlGqBz9kh-iCgAyaiAJkpSD0Y6ZZ_ZxIPYGvxoZ40/pubhtml?gid=1166636786&single=true)
+[Entrega 3.1 (protótipo de baixa fidelidade)](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlmI5iAvi0R1ErMBZKUIPb1B3tqSTamRJsyJpIlGqBz9kh-iCgAyaiAJkpSD0Y6ZZ_ZxIPYGvxoZ40/pubhtml?gid=1166636786&single=true)
+
+[Entrega 3.2 (protótipo de alta fidelidade)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTUiAMhwxQtso968pmzLj8gKnqCMwXgFl0DboT_2YDkUxbjk6So6cBEIDhjI30vZsDkULs63yjrfT1X/pubhtml?gid=261416141&single=true)
 
 [Totalização das notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vSk3v-IIEpF8Z6MSZKANipcg9sFqTKQw0K2mLKAlpzTCbtAMIxa6z9MfBBMizXq6IyfA81XofHHyTsR/pubhtml?gid=0&single=true)
 

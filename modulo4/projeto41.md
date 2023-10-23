@@ -44,4 +44,4 @@ Enviar link de um documento que contenha um relato das modificações feitas no 
 
 ## Data de entrega
 
-**23/10/2023, 23:59h**
+**25/10/2023, 23:59h**

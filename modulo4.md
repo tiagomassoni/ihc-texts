@@ -56,7 +56,7 @@ No meio dos anos 80, Ben Shneiderman também propôs um conjunto de diretrizes q
 
 ## Avaliação com Usuários
 
-Ok, os protótipos foram construídos, já interativos, com ideias inspiradas em padrões de UI. Mesmo com todo esse cuidado, a interface pode incluir problemas de interação. Acaba que só temos como ver isso **avaliando**, vendo a interação funcionar, em uso. 
+Ok, os protótipos foram construídos, já interativos, com ideias inspiradas em padrões de UI. Mesmo com todo esse cuidado, a interface pode incluir problemas de interação. Acaba que só temos como ver isso **avaliando**, vendo a interação funcionar, em uso.
 
 Neste módulo meu objetivo é apresentar os principais tipos de avaliação, enfatizando o método heurístico, com dois checklists considerados clássicos na área de *design* de interação. 
 
