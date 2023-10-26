@@ -9,9 +9,15 @@ Adquirir feedback de usuários através de um mini-teste de usabilidade, em cond
 ## O que se espera da entrega
 
 * Criação de um roteiro de teste de usuário;
-* Realização de teste com pelo menos dois (2) potenciais usuários;
+* Realização de teste com pelo menos um potencial usuário;
 * Protótipo final com feedback incorporado;
 * Relato das mudanças exigidas após o teste.
+
+## Modelos
+
+Modelo de [roteiro para teste]().
+
+Vídeo de exemplo de uma [avaliação]().
 
 ## Modo de Entrega
 
