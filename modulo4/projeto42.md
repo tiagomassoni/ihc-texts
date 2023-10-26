@@ -15,9 +15,11 @@ Adquirir feedback de usuários através de um mini-teste de usabilidade, em cond
 
 ## Modelos
 
-Modelo de [roteiro para teste]().
+Modelo de [roteiro para teste](https://nasal-sunset-8c0.notion.site/Template-roteiro-para-teste-de-usabilidade-b3be4463d69b4231a632fc4c7de2b1cc).
 
-Vídeo de exemplo de uma [avaliação]().
+Template para Teste no [Figma](https://www.figma.com/file/WYdnHZ3nX5GWFqi9PQEYLr/Monitoria-IHC?type=design&node-id=179%3A571&mode=design&t=rzdjhjkbCOAWr8r9-1).
+
+Vídeo de exemplo de uma [avaliação](https://drive.google.com/file/d/1mAliQ5f1rJPzmioUO1VpM3pCuKOxAzOP/view?usp=sharing).
 
 ## Modo de Entrega
 
