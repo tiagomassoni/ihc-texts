@@ -24,6 +24,8 @@ A interface com o usuário: Definição; Importância de um projeto de interface
 
 [Entrega 3.2 (protótipo de alta fidelidade)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTUiAMhwxQtso968pmzLj8gKnqCMwXgFl0DboT_2YDkUxbjk6So6cBEIDhjI30vZsDkULs63yjrfT1X/pubhtml?gid=261416141&single=true)
 
+[Entrega 4.1 (Avaliação heurística)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRJnk1b9-7wWFF1lQD3Gj_kMxsvvm27yw3hQZMFrn6AHbquMy6R4NoYFyzDVGT9aVxybxawMyMuCZE7/pubhtml?gid=1098742572&single=true)
+
 [Totalização das notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vSk3v-IIEpF8Z6MSZKANipcg9sFqTKQw0K2mLKAlpzTCbtAMIxa6z9MfBBMizXq6IyfA81XofHHyTsR/pubhtml?gid=0&single=true)
 
 
