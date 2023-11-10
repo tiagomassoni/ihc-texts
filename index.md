@@ -26,6 +26,8 @@ A interface com o usuário: Definição; Importância de um projeto de interface
 
 [Entrega 4.1 (Avaliação heurística)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRJnk1b9-7wWFF1lQD3Gj_kMxsvvm27yw3hQZMFrn6AHbquMy6R4NoYFyzDVGT9aVxybxawMyMuCZE7/pubhtml?gid=1098742572&single=true)
 
+[Entrega 4.2 (Avaliação de usuários)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjzxlYA5cmu7fCsy_D5iDuFY1H7K9qFlxU6FAdf5qh7a2hE7fkpsZDb6icc1D3owJnvCz-Pj9yJGa2/pubhtml?gid=1087313688&single=true)
+
 [Totalização das notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vSk3v-IIEpF8Z6MSZKANipcg9sFqTKQw0K2mLKAlpzTCbtAMIxa6z9MfBBMizXq6IyfA81XofHHyTsR/pubhtml?gid=0&single=true)
 
 
