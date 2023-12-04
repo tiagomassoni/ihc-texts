@@ -1,18 +1,7 @@
 ---
-title: Módulo 2
+title: Levantamento de Necessidades
 ---
 
-## Slides
-
-[Aula 1](modulo2/mod2aula1.pdf)
-
-[Aula 2](modulo2/mod2aula2.pdf)
-
-## Projeto: primeira entrega
-
-[Especificação](https://tiagomassoni.github.io/ihc-texts/modulo2/projeto.html)
-
-## Levantamento de Necessidades
 
 A pesquisa com os usuários é essencial para entender suas necessidades, comportamentos e preferências. Imagine que estamos desenvolvendo um aplicativo de delivery de comida. Sem conhecer os gostos dos usuários, suas preferências alimentares e suas dificuldades na hora de fazer um pedido, como poderíamos criar uma interface que realmente atenda às suas expectativas? É aí que entra a pesquisa, nos ajudando a coletar informações valiosas para o design.
 
@@ -59,7 +48,7 @@ Independente do método de coleta, o registro de dados pode se dar de várias fo
 
 A figura abaixo resume as principais técnicas usadas para a descoberta de requisitos.
 
-![modulo2/t1.png](modulo2/t1.png)
+![t5.png](t5.png)
 
 **Entrevistas** podem ser estruturadas ou não, dependendo do grau de formalização de um roteiro pré-estabelecido (obrigatório para as primeiras). O mais comum é que as entrevistas sejam *semiestruturadas*, que inclui um roteiro apenas para que sejam cobertos os principais tópicos, permitindo a exploração livre dos comos e porquês de cada uma das respostas. 
 
@@ -182,7 +171,7 @@ Uma persona representa a síntese de um número de usuários reais que se envolv
 
 Exemplo:
 
-![modulo2/t3.png](modulo2/t3.png)
+![t6.png](t6.png)
 
 
 
@@ -195,7 +184,7 @@ Um cenário é uma descrição narrativa informal, mostrando atividades e tarefa
 Cenários podem ser descritos em texto e imagens. Uma forma possível é usar alguma ferramenta de *mind mapping*. Por exemplo, a figura abaixo descreve Sharon, uma pessoa que adora procurar e armazenar novas receitas no Pinterest. O objetivo deste cenário: comprar ingredientes e preparar Asas de Frango Maple Mustard, anteriormente salva no Pinterest. Este diagrama mostra uma série de tarefas e subtarefas identificadas enquanto Sharon realizava a tarefa. Duas tarefas em especial exigiram certa carga cognitiva, marcadas com um ícone de cérebro.
 
 
-![modulo2/t2.png](modulo2/t2.png)
+![t7.png](t7.png)
 
 Por exemplo, ao analisar essas tarefas, podemos identificar passos repetitivos e desnecessários, e talvez entender como diminuir a carga cognitiva de alguns passos. Neste exemplo, apesar do Pinterest ser elogiado na hora de descobrir e salvar receitas, ele não oferecia aqui recursos específicos para auxiliar na preparação da receita, ou na compra de ingredientes. Sharon teve que saltar entre aplicativos e até fazer cálculos de cabeça pra converter os ingredientes. Além disso, quando ela começa a preparação, ela teve que repetir suas tarefas iniciais de busca da receita. 
 (Este cenário real foi realizado pelos desenvolvedores do app Favoreats, que tenta resolver essas limitações para quem usa o Pinterest para culinária).
@@ -207,7 +196,7 @@ O Mapa de Empatia é usado para aprofundar a compreensão das motivações, nece
 
 O Mapa de Empatia é dividido em seis seções essenciais, cada uma abordando uma dimensão específica da experiência do usuário. Isso inclui: o que o usuário vê, ouve, pensa e sente, bem como o que diz e faz. Essas seções combinam-se para formar um quadro completo das características e do estado emocional do usuário durante a interação com o produto ou serviço. Abaixo, o modelo visual de uma Mapa de Empatia:
 
-![modulo2/t4.png](modulo2/t4.png)
+![t8.png](t8.png)
 
 Em cada seção, os pesquisadores designers fazem um conjunto de perguntas:
 
@@ -256,7 +245,8 @@ O QUE OUVE?
 
 Abaixo, observe um exemplo (fonte: Sebrae) de um mapa de empatia pronto, para uma persona que busca vender produtos saudáveis.
 
-![modulo2/t5.jpg](modulo2/t5.jpg)
+![t9.jpg](t9.jpg)
+
 
 
 

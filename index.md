@@ -1,35 +1,24 @@
 ---
-title: IHC
+title: Interface Humano-Computador UFCG
 ---
+
+
+## Links úteis
+
+[Cronograma](https://)
+
+[Programa](https://)
+
+[Discord (entrada obrigatória)](https://) 
+
+[Atividades para nota](https://tiagomassoni.github.io/ihc-texts/atividades.html)
+
+[Notas]()
+
 
 ## Ementa
 
 A interface com o usuário: Definição; Importância de um projeto de interface centrado no usuário; Breve histórico da interação homem-máquina; Características de interfaces gráficas para aplicações desktop e Web. Projeto contextual: Gestão do desenvolvimento de software; Usabilidade em desenvolvimento de software; Ciclo da Engenharia da Usabilidade. Concepção de interfaces com o usuário: Análise de requisitos; Projeto da Tarefa, da Informação e da Interação; Prototipagem; Avaliação.
-
-## Links úteis
-
-[Cronograma](https://docs.google.com/spreadsheets/d/10Jovj7URt9Q6aIHdESjQioUZJTelGmT-etDyIx39A7k/edit?usp=sharing)
-
-[Programa](https://docs.google.com/document/d/1Uo8nDViCAQhX3UQyS34E2W4gjCmccMMBQsv5OcW5SyI/edit?usp=sharing)
-
-[Discord (entrada obrigatória)](https://discord.gg/NTKnTk6GJ) 
-
-## Notas
-
-[Entrega 1 (texto)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTmcGNn0hmY1of8zXQv8Ooz-lHX9DGq3bjOHPs3oYsS7YYh08s18AycMXcjWXOyAs56Z2H4fghmPI2u/pubhtml?gid=144167870&single=true)
-
-[Entrega 2 (levantamento de necessidades)](https://docs.google.com/spreadsheets/d/e/2PACX-1vQ51p8ue0p5J2-pQic_c3sqfR74nXtjhAPiTBjtDPYfNl95TLN2BxU6_-j1b9svN-JvOwEns05_Rzvw/pubhtml?gid=795536843&single=true)
-
-[Entrega 3.1 (protótipo de baixa fidelidade)](https://docs.google.com/spreadsheets/d/e/2PACX-1vSlmI5iAvi0R1ErMBZKUIPb1B3tqSTamRJsyJpIlGqBz9kh-iCgAyaiAJkpSD0Y6ZZ_ZxIPYGvxoZ40/pubhtml?gid=1166636786&single=true)
-
-[Entrega 3.2 (protótipo de alta fidelidade)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTUiAMhwxQtso968pmzLj8gKnqCMwXgFl0DboT_2YDkUxbjk6So6cBEIDhjI30vZsDkULs63yjrfT1X/pubhtml?gid=261416141&single=true)
-
-[Entrega 4.1 (Avaliação heurística)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRJnk1b9-7wWFF1lQD3Gj_kMxsvvm27yw3hQZMFrn6AHbquMy6R4NoYFyzDVGT9aVxybxawMyMuCZE7/pubhtml?gid=1098742572&single=true)
-
-[Entrega 4.2 (Avaliação de usuários)](https://docs.google.com/spreadsheets/d/e/2PACX-1vRjzxlYA5cmu7fCsy_D5iDuFY1H7K9qFlxU6FAdf5qh7a2hE7fkpsZDb6icc1D3owJnvCz-Pj9yJGa2/pubhtml?gid=1087313688&single=true)
-
-[Totalização das notas](https://docs.google.com/spreadsheets/d/e/2PACX-1vSk3v-IIEpF8Z6MSZKANipcg9sFqTKQw0K2mLKAlpzTCbtAMIxa6z9MfBBMizXq6IyfA81XofHHyTsR/pubhtml?gid=0&single=true)
-
 
 ## Introdução
 
@@ -41,28 +30,23 @@ Esta disciplina não tem como objetivo fazer com que estudantes de ciência da c
 
 Ao final desta disciplina, esperamos que o estudante tenha noções fundamentadas sobre o que faz uma boa interação entre humanos e sistemas, como entender as necessidades das pessoas, como testar alternativas de design e como analisar a qualidade do sistema produzido em relação à interação.
 
+## Unidades
 
-## Assuntos
+[Unidade 1: Introdução e Pesquisa de Usuário](https://tiagomassoni.github.io/ihc-texts/1.intro-requisitos.html). O início da disciplina será de bastante leitura e discussão, através de exemplos dos conceitos que vamos usar no restante do período (10 horas). Ainda, vamos trabalhar técnicas de elicitação das necessidades, estudando os potenciais usuários e seu ambiente; começaremos aqui a trabalhar no nosso projeto, com artefatos iniciais e wireframes (10 horas).
 
-[Módulo 1: Introdução ao Estudo de IHC](https://tiagomassoni.github.io/ihc-texts/modulo1.html). O início da disciplina será de bastante leitura e discussão, através de exemplos dos conceitos que vamos usar no restante do período (10 horas).
+[Unidade 2. Design UI](https://tiagomassoni.github.io/ihc-texts/2.design.html). A partir das necessidades coletadas e compreendidas, vamos entender os princípios de design utilizados comumente para sistemas computacionais interativos, através de protótipos de alta fidelidade (20 horas).
 
-[Módulo 2: Pesquisa de Usuário (*need finding*)](https://tiagomassoni.github.io/ihc-texts/modulo2.html). Aqui vamos trabalhar técnicas de elicitação das necessidades, estudando os potenciais usuários e seu ambiente; começaremos aqui a trabalhar no nosso projeto (15 horas).
-
-[Módulo 3. Prototipação e Design UI](https://tiagomassoni.github.io/ihc-texts/modulo3.html). A partir das necessidades coletadas e compreendidas, vamos entender os princípios de design utilizados comumente para sistemas computacionais interativos, através de protótipos (15 horas).
-
-[Módulo 4. Teste de Usabilidade e Avaliação](https://tiagomassoni.github.io/ihc-texts/modulo4.html). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
-
+[Unidade 3. Avaliação](https://tiagomassoni.github.io/ihc-texts/3.avaliacao.html). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
 
 ## Metodologia
 
-* Leitura e discussão de textos
-* Encontros presenciais com estudos de caso, exercícios, atividades em grupo
-* Avaliações Continuadas, além de um projeto gradualmente construído pelos estudantes
-
+* Leitura e discussão de textos, vídeos e outros materiais de interesse;
+* Encontros presenciais com estudos de caso, exercícios e atividades em grupo;
+* Avaliações Continuadas, além de um projeto de UI/UX gradualmente construído pelos estudantes.
 
 ## Avaliação
 
-A disciplina contém 4 módulos. Como o Módulo 1 tem uma natureza mais teórica, trabalharemos em um texto sobre usabilidade. Nos três módulos seguintes, em cada um vocês fazem um incremento a um projeto construído desde o início da disciplina. A cada incremento, teremos uma data de entrega, o que gera uma nota. *Ao final, vocês terão quatro notas, com pesos iguais*.
+A disciplina contém três (3) unidades, e em cada uma a(o) estudante deverá entregar várias atividades a ser avaliadas pela equipe da disciplina. A média das notas dessas atividades formam a nota da unidade. A maior parte das atividades são entregas incrementais do projeto da disciplina, que deverá ser feito em equipe. *Ao final, vocês terão três notas, com pesos iguais*.
 
 
 ## Referências bibliográficas
