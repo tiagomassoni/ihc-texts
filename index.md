@@ -34,9 +34,9 @@ Ao final desta disciplina, esperamos que o estudante tenha noções fundamentada
 
 [Unidade 1: Introdução e Pesquisa de Usuário](https://tiagomassoni.github.io/ihc-texts/1.intro-requisitos.html). O início da disciplina será de bastante leitura e discussão, através de exemplos dos conceitos que vamos usar no restante do período (10 horas). Ainda, vamos trabalhar técnicas de elicitação das necessidades, estudando os potenciais usuários e seu ambiente; começaremos aqui a trabalhar no nosso projeto, com artefatos iniciais e wireframes (10 horas).
 
-[Unidade 2. Design UI](https://tiagomassoni.github.io/ihc-texts/2.design.html). A partir das necessidades coletadas e compreendidas, vamos entender os princípios de design utilizados comumente para sistemas computacionais interativos, através de protótipos de alta fidelidade (20 horas).
+[Unidade 2. Design UI](https://tiagomassoni.github.io/ihc-texts/). A partir das necessidades coletadas e compreendidas, vamos entender os princípios de design utilizados comumente para sistemas computacionais interativos, através de protótipos de alta fidelidade (20 horas).
 
-[Unidade 3. Avaliação](https://tiagomassoni.github.io/ihc-texts/3.avaliacao.html). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
+[Unidade 3. Avaliação](https://tiagomassoni.github.io/ihc-texts/). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
 
 ## Metodologia
 

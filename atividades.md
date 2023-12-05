@@ -3,6 +3,7 @@ title: Atividades
 ---
 
 
-## Entregas
+[Especificação](https://tiagomassoni.github.io/ihc-texts/atividades/exercicio.html)
 
-[Especificação](https://tiagomassoni.github.io/ihc-texts/unidade1/exercicio.html)
+[Projeto: entrega 1](https://tiagomassoni.github.io/ihc-texts/atividades/projeto1.html)
+
