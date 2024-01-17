@@ -5,13 +5,13 @@ title: Interface Humano-Computador UFCG
 
 ## Links úteis
 
-[Cronograma](https://)
+[Cronograma e Material de Preparação](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzdDL9QTGlep-dyO1Lz0JhCbWqeqoR6oMAD4nSytuI3WCvEUVTcLIPU0y2JtlrkIoWZmwjUhFOdgfO/pubhtml?gid=0&single=true)
 
-[Programa](https://)
+[Programa](https://docs.google.com/document/d/e/2PACX-1vRDisNqQpq4hpmy1GnJLNMBM9pnbs9oOIoraYddFWwIalJ8IYcGr2WBHhMGpVtwe5fjeI2KluFJlTGp/pub)
 
-[Discord (entrada obrigatória)](https://) 
+[Discord (entrada obrigatória)](https://discord.gg/mnzn2qcPhw) 
 
-[Atividades para nota](https://tiagomassoni.github.io/ihc-texts/atividades.html)
+[Atividades para nota]()
 
 [Notas]()
 

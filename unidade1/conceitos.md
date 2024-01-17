@@ -49,6 +49,18 @@ No livro de Steve Krug (Não me faça pensar), o autor argumenta que todos esses
 
 ### Acessibilidade
 
+A acessibilidade refere-se à amplitude com que um produto interativo é alcançável por um maior número de pessoas possível. Empresas como Google e Apple disponibilizam ferramentas aos seus desenvolvedores para promover isso. O foco está direcionado às pessoas com incapacidades. Por exemplo, o sistema operacional Android oferece uma gama de ferramentas para aqueles com incapacidades, como compatibilidade com aparelhos auditivos e um leitor de tela integrado, enquanto o VoiceOver da Apple informa o usuário sobre o que está acontecendo em seus dispositivos, permitindo que naveguem facilmente e até mesmo saibam quem está numa selfie acabada de tirar, ouvindo o telefone.
+
+O design inclusivo é uma abordagem abrangente em que os designers se esforçam para fazer com que seus produtos e serviços acomodem o maior número possível de pessoas. Um exemplo é garantir que os smartphones sejam projetados para todos e estejam disponíveis para todos, independentemente de suas incapacidades, nível educacional, idade ou renda. A incapacidade pode resultar porque as tecnologias frequentemente são projetadas de tal maneira que exigem um certo tipo de interação impossível para alguém com uma deficiência. Neste contexto, a incapacidade é vista como resultado de um design de interação deficiente entre o usuário e a tecnologia, não apenas da deficiência em si. Por outro lado, a acessibilidade abre experiências para que sejam acessíveis a todos. 
+
+Ao projetar para acessibilidade, é essencial compreender os tipos de incapacidades que podem levar à deficiência, já que estas se manifestam de várias formas. Muitas vezes, são classificadas pelo tipo de incapacidade, por exemplo:
+* Incapacidade sensorial (como perda de visão ou audição)
+* Incapacidade física (perda de funções de uma ou mais partes do corpo, por exemplo, após um derrame ou lesão na medula espinhal)
+* Cognitiva (por exemplo, deficiência de aprendizagem ou perda de memória / função cognitiva devido à idade avançada ou a uma condição como a doença de Alzheimer)
+
+Dentro de cada tipo, existe uma mistura complexa de pessoas e capacidades. Por exemplo, uma pessoa pode ter apenas visão periférica, ser daltônica ou não ter percepção de luz (e ser registrada como cega). Todas são formas de deficiência visual e exigem abordagens de design diferentes. A daltonismo pode ser superado por uma abordagem de design inclusivo. Os designers podem escolher cores que aparecerão como cores separadas para todos. No entanto, a perda de visão periférica ou cegueira completa frequentemente exigirá que uma tecnologia assistiva seja projetada.
+
+
 ## Outros conceitos importantes
 
 

@@ -2,7 +2,6 @@
 title: Levantamento de Necessidades
 ---
 
-
 A pesquisa com os usuários é essencial para entender suas necessidades, comportamentos e preferências. Imagine que estamos desenvolvendo um aplicativo de delivery de comida. Sem conhecer os gostos dos usuários, suas preferências alimentares e suas dificuldades na hora de fazer um pedido, como poderíamos criar uma interface que realmente atenda às suas expectativas? É aí que entra a pesquisa, nos ajudando a coletar informações valiosas para o design.
 
 Existem diversas maneiras de realizar pesquisa com os usuários. Podemos usar questionários, entrevistas ou observações para coletar dados. Por exemplo, ao criar um aplicativo de planejamento de viagens, podemos enviar questionários para os usuários para entender suas preferências de destino, orçamento e estilo de viagem. As entrevistas nos permitem aprofundar ainda mais, conversando diretamente com os usuários e compreendendo suas necessidades de forma detalhada. E as observações são ótimas para entender como os usuários realmente interagem com um sistema, como quando observamos como as pessoas utilizam um aplicativo de transporte público.
@@ -114,7 +113,6 @@ Na preparação: saber seus objetivos e perguntas de pesquisa, usar NDA, definir
 
 Além das USs serem artefatos importantes também para o design de UI/UX, vamos discutir alguns artefatos de requisitos específicos para esta atividade: cenários e personas.
 
-
 ### Perfil de Usuário e Personas
 
 Quanto mais designers de UI/UX sabem sobre características específicas de usuários, melhor serão suas decisões de design. Alternativas de design de UI/UX podem otimizar o desempenho de alguns tipos de usuário, mas atrasar outros (lembre-se do exemplo das UIs usadas tanto por iniciantes quanto por *experts*). Outros exemplos: sites para audiências mais visuais, como fotógrafos, provavelmente terão mais sucesso se apresentar informação chave usando gráficos, em vez de texto. 
@@ -174,22 +172,6 @@ Exemplo:
 ![t6.png](t6.png)
 
 
-
-### Jornada do usuário
-
-O artefato da Jornada do Usuário (User Journey) oferece uma representação visual e narrativa das interações e emoções de um usuário ao longo de sua interação com um produto ou serviço. Essa ferramenta valiosa permite que as equipes de design compreendam profundamente as etapas pelas quais um usuário passa, desde o primeiro contato até a conclusão de uma tarefa ou objetivo. Cada ponto de contato é identificado e analisado, desde a conscientização inicial até a avaliação, adoção e, finalmente, a fidelidade. Isso permite que os designers e pesquisadores compreendam os pontos fortes e as deficiências do design, bem como oportunidades para aprimorar a experiência. A jornada do usuário na pesquisa de UX capacita as equipes a identificar pontos problemáticos, pontos de atrito e oportunidades de inovação. 
-
-Um cenário é uma descrição narrativa informal, mostrando atividades e tarefas humanas, num formato de *storytelling*, permitindo a exploração e discussão de contextos, necessidades e requisitos. Provavelmente não inclui descrições sobre o uso de software ou suporte tecnológico usado pra atingir objetivos. É importante aqui usar vocabulário do ambiente do usuário, para que o cenário seja compreensível para todos os envolvidos no processo. Contar estórias é uma forma natural para as pessoas explicarem o que estão fazendo, e os envolvidos facilmente se relacionam com isso.
-
-Cenários podem ser descritos em texto e imagens. Uma forma possível é usar alguma ferramenta de *mind mapping*. Por exemplo, a figura abaixo descreve Sharon, uma pessoa que adora procurar e armazenar novas receitas no Pinterest. O objetivo deste cenário: comprar ingredientes e preparar Asas de Frango Maple Mustard, anteriormente salva no Pinterest. Este diagrama mostra uma série de tarefas e subtarefas identificadas enquanto Sharon realizava a tarefa. Duas tarefas em especial exigiram certa carga cognitiva, marcadas com um ícone de cérebro.
-
-
-![t7.png](t7.png)
-
-Por exemplo, ao analisar essas tarefas, podemos identificar passos repetitivos e desnecessários, e talvez entender como diminuir a carga cognitiva de alguns passos. Neste exemplo, apesar do Pinterest ser elogiado na hora de descobrir e salvar receitas, ele não oferecia aqui recursos específicos para auxiliar na preparação da receita, ou na compra de ingredientes. Sharon teve que saltar entre aplicativos e até fazer cálculos de cabeça pra converter os ingredientes. Além disso, quando ela começa a preparação, ela teve que repetir suas tarefas iniciais de busca da receita. 
-(Este cenário real foi realizado pelos desenvolvedores do app Favoreats, que tenta resolver essas limitações para quem usa o Pinterest para culinária).
-
-
 ### Mapa de Empatia
 
 O Mapa de Empatia é usado para aprofundar a compreensão das motivações, necessidades e emoções dos usuários. Esse instrumento permite que as equipes de design e desenvolvimento se coloquem no lugar do usuário, criando empatia e insights mais profundos que direcionam o processo de UCD.
@@ -246,6 +228,43 @@ O QUE OUVE?
 Abaixo, observe um exemplo (fonte: Sebrae) de um mapa de empatia pronto, para uma persona que busca vender produtos saudáveis.
 
 ![t9.jpg](t9.jpg)
+
+### Protótipos de baixa fidelidade
+
+Não se parece muito com um produto final. De fato, não serve para prover a funcionalidade completa. A ideia é usar materiais mais baratos, mais fáceis de manipular - papel ou papelão, por exemplo.
+
+Esses protótipos são úteis pois tendem a ser simples, baratos e de fácil produção. O que significa que também são rapidamente modificáveis; isso é bem importante nos estágios iniciais de um projeto, já que protótipos são úteis para explorar ideias. Certamente não serão parte do produto final, por isso descartáveis.
+
+Os mais comuns tipos de protótipo *low-fi* são os storyboards(um representação gráfica dos cenários, que discutimos no módulo anterior) e aqueles baseados em papel/cartões.
+
+Os protótipos baseados em papel ou cartões são bem usados para capturar e explorar elementos de uma interação, principalmente trocas entre usuário e produto. É bom porque os elementos de interação (menus, botões, etc.) propostos podem ser manipulados e movidos para simular o ação com o usuários pessoalmente, em uma experiência fim-a-fim. 
+
+O exemplo abaixo mostra, para um aplicativo de organização de viagens de turismo, o processo que envolve requisitos de visto para um determinado país destino.  Cada cartão subentende que haverá um componente de interação que exige uma resposta do usuário ou uma saída do sistema (ou seja, o tal do diálogo). 
+
+![unidade1/t11.png](unidade1/t11.png)
+
+A primeira coluna indica uma opção inicial, e a segunda, à direita, indica como ficou depois de considerações da equipe de design e dos usuários que "testaram" a primeira proposta.  Cenários alternativos podem também ser explorados; por exemplo, cartões que envolvam mensagens de erro. 
+
+Os cartões podem ser mostrados para usuários em potencial ou outros membros da equipe de projeto, para que seja coletado feedback. Neste exemplo, durante a discussão sobre essa primeira proposta, poderíamos chegar à conclusão que seria melhor basear a interação em um mapa mundi interativo, onde usuários indicariam seu destino e sua nacionalidade. Outra possibilidade levantada: um painel de bandeiras. Essas alternativas poderiam ser então prototipadas em um novo conjunto de cartões, coletando mais feedback. 
+
+Um conjunto de protótipos em cartões, estabelecendo cenários de uso do software, deve então servir como base para protótipos mais detalhados, tais como rascunhos de tela. Além disso, artefatos mais formais podem ser produzidos, como é o caso do mapa de jornada de usuário (user journey map), exemplificado na figura abaixo.
+
+![unidade1/t12.png](unidade1/t12.png)
+
+
+### Jornada do usuário
+
+O artefato da Jornada do Usuário (User Journey) oferece uma representação visual e narrativa das interações e emoções de um usuário ao longo de sua interação com um produto ou serviço. Essa ferramenta valiosa permite que as equipes de design compreendam profundamente as etapas pelas quais um usuário passa, desde o primeiro contato até a conclusão de uma tarefa ou objetivo. Cada ponto de contato é identificado e analisado, desde a conscientização inicial até a avaliação, adoção e, finalmente, a fidelidade. Isso permite que os designers e pesquisadores compreendam os pontos fortes e as deficiências do design, bem como oportunidades para aprimorar a experiência. A jornada do usuário na pesquisa de UX capacita as equipes a identificar pontos problemáticos, pontos de atrito e oportunidades de inovação. 
+
+Um cenário é uma descrição narrativa informal, mostrando atividades e tarefas humanas, num formato de *storytelling*, permitindo a exploração e discussão de contextos, necessidades e requisitos. Provavelmente não inclui descrições sobre o uso de software ou suporte tecnológico usado pra atingir objetivos. É importante aqui usar vocabulário do ambiente do usuário, para que o cenário seja compreensível para todos os envolvidos no processo. Contar estórias é uma forma natural para as pessoas explicarem o que estão fazendo, e os envolvidos facilmente se relacionam com isso.
+
+Cenários podem ser descritos em texto e imagens. Uma forma possível é usar alguma ferramenta de *mind mapping*. Por exemplo, a figura abaixo descreve Sharon, uma pessoa que adora procurar e armazenar novas receitas no Pinterest. O objetivo deste cenário: comprar ingredientes e preparar Asas de Frango Maple Mustard, anteriormente salva no Pinterest. Este diagrama mostra uma série de tarefas e subtarefas identificadas enquanto Sharon realizava a tarefa. Duas tarefas em especial exigiram certa carga cognitiva, marcadas com um ícone de cérebro.
+
+
+![t7.png](t7.png)
+
+Por exemplo, ao analisar essas tarefas, podemos identificar passos repetitivos e desnecessários, e talvez entender como diminuir a carga cognitiva de alguns passos. Neste exemplo, apesar do Pinterest ser elogiado na hora de descobrir e salvar receitas, ele não oferecia aqui recursos específicos para auxiliar na preparação da receita, ou na compra de ingredientes. Sharon teve que saltar entre aplicativos e até fazer cálculos de cabeça pra converter os ingredientes. Além disso, quando ela começa a preparação, ela teve que repetir suas tarefas iniciais de busca da receita. 
+(Este cenário real foi realizado pelos desenvolvedores do app Favoreats, que tenta resolver essas limitações para quem usa o Pinterest para culinária).
 
 
 
