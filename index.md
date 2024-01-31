@@ -1,7 +1,7 @@
 ---
 title: Interface Humano-Computador UFCG
+css: '/assets/css/custom-styles.css'
 ---
-
 
 ## Links úteis
 
@@ -9,12 +9,11 @@ title: Interface Humano-Computador UFCG
 
 [Programa](https://docs.google.com/document/d/e/2PACX-1vRDisNqQpq4hpmy1GnJLNMBM9pnbs9oOIoraYddFWwIalJ8IYcGr2WBHhMGpVtwe5fjeI2KluFJlTGp/pub)
 
-[Discord (entrada obrigatória)](https://discord.gg/mnzn2qcPhw) 
+[Discord (entrada obrigatória)](https://discord.gg/mnzn2qcPhw)
 
 [Atividades para nota]()
 
 [Notas]()
-
 
 ## Ementa
 
@@ -22,9 +21,9 @@ A interface com o usuário: Definição; Importância de um projeto de interface
 
 ## Introdução
 
-Para todo lugar que olhamos, existe uma interface querendo se comunicar conosco, seja um microondas, um controle remoto, uma geladeira, e até o nosso computador. Basta analisar um dia banal da nossa vida. Entre cama, banho, refeições, trabalho, entretenimento, descanso, com quantos objetos ou dispositivos interativos temos que lidar? 
+Para todo lugar que olhamos, existe uma interface querendo se comunicar conosco, seja um microondas, um controle remoto, uma geladeira, e até o nosso computador. Basta analisar um dia banal da nossa vida. Entre cama, banho, refeições, trabalho, entretenimento, descanso, com quantos objetos ou dispositivos interativos temos que lidar?
 
-Dessa forma, uma formação para o desenvolvimento de sistemas computacionais não pode prescindir da *compreensão mínima de como conceber a melhor forma de interagir com eles*. As decisões de design relacionadas à interação frequentemente definem se um sistema será usado ou abandonado. Qual o valor de um software sem usuários, mesmo que este seja um exemplo excelente de engenharia?
+Dessa forma, uma formação para o desenvolvimento de sistemas computacionais não pode prescindir da _compreensão mínima de como conceber a melhor forma de interagir com eles_. As decisões de design relacionadas à interação frequentemente definem se um sistema será usado ou abandonado. Qual o valor de um software sem usuários, mesmo que este seja um exemplo excelente de engenharia?
 
 Esta disciplina não tem como objetivo fazer com que estudantes de ciência da computação sejam designers de aplicativos — já existe formação específica para tal. Mas, como desenvolvedores de sistemas em potencial, bachareis em computação precisam compreender a importância dos aspectos humanos da interação com os sistemas desenvolvidos, para que tomem melhores decisões e entendam melhor o trabalho dos especialistas de interação com os quais devem trabalhar em sintonia.
 
@@ -40,14 +39,13 @@ Ao final desta disciplina, esperamos que o estudante tenha noções fundamentada
 
 ## Metodologia
 
-* Leitura e discussão de textos, vídeos e outros materiais de interesse;
-* Encontros presenciais com estudos de caso, exercícios e atividades em grupo;
-* Avaliações Continuadas, além de um projeto de UI/UX gradualmente construído pelos estudantes.
+- Leitura e discussão de textos, vídeos e outros materiais de interesse;
+- Encontros presenciais com estudos de caso, exercícios e atividades em grupo;
+- Avaliações Continuadas, além de um projeto de UI/UX gradualmente construído pelos estudantes.
 
 ## Avaliação
 
-A disciplina contém três (3) unidades, e em cada uma a(o) estudante deverá entregar várias atividades a ser avaliadas pela equipe da disciplina. A média das notas dessas atividades formam a nota da unidade. A maior parte das atividades são entregas incrementais do projeto da disciplina, que deverá ser feito em equipe. *Ao final, vocês terão três notas, com pesos iguais*.
-
+A disciplina contém três (3) unidades, e em cada uma a(o) estudante deverá entregar várias atividades a ser avaliadas pela equipe da disciplina. A média das notas dessas atividades formam a nota da unidade. A maior parte das atividades são entregas incrementais do projeto da disciplina, que deverá ser feito em equipe. _Ao final, vocês terão três notas, com pesos iguais_.
 
 ## Referências bibliográficas
 

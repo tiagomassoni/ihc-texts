@@ -1,0 +1,10 @@
+.container,
+.container-md,
+.container-sm {
+  max-width: 1366px;
+  font-size: 1.2rem;
+}
+
+h1 {
+  font-size: 3.5rem;
+}
