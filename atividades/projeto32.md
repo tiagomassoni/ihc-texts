@@ -1,5 +1,6 @@
 ---
 title: Projeto: Protótipo de alta fidelidade
+css: '/assets/css/custom-styles.css'
 ---
 
 ## Objetivo
@@ -8,9 +9,9 @@ Produzir um protótipo no Figma que possa ser utilizado e avaliado posteriorment
 
 ## O que se espera da entrega
 
-* Usar como entrada necessidades dos usuários e as ideias discutidas inicialmente no protótipo de baixa fidelidade
-* Utilização de padrões de design para criar as soluções de UI para as cinco (5) user stories priorizadas do projeto
-* Criar um documento discutindo as decisões de projeto tomadas e os padrões aplicados
+- Usar como entrada necessidades dos usuários e as ideias discutidas inicialmente no protótipo de baixa fidelidade
+- Utilização de padrões de design para criar as soluções de UI para as cinco (5) user stories priorizadas do projeto
+- Criar um documento discutindo as decisões de projeto tomadas e os padrões aplicados
 
 ## Modo de Entrega
 

@@ -1,19 +1,18 @@
 ---
 title: Projeto: Levantamento de Necessidades
+css: '/assets/css/custom-styles.css'
 ---
 
 ## Objetivo
 
 Realizar uma pesquisa simplificada de usuários representativos do tema escolhido pelo grupo, resultando na produção de artefatos que sintetizam a informação coletada
 
-
 ## O que se espera da entrega
 
-* Entrevistar ou observar um ou dois usuários em potencial da sua ideia;
-* Identificar o usuário típico do sistema através de um mapa de empatia e um documento de Persona;
-* Estabelecer um conjunto mínimo de user stories, com priorização das mais relevantes, do ponto de vista do usuário (mínimo 7 USs);
-* Escolher um fluxo potencial do sistema e criar uma Jornada de usuário (User Journey).
-
+- Entrevistar ou observar um ou dois usuários em potencial da sua ideia;
+- Identificar o usuário típico do sistema através de um mapa de empatia e um documento de Persona;
+- Estabelecer um conjunto mínimo de user stories, com priorização das mais relevantes, do ponto de vista do usuário (mínimo 7 USs);
+- Escolher um fluxo potencial do sistema e criar uma Jornada de usuário (User Journey).
 
 ## Modo de Entrega
 

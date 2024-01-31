@@ -1,5 +1,6 @@
 ---
 title: Avaliação com usuário (teste de usabilidade)
+css: '/assets/css/custom-styles.css'
 ---
 
 ## Objetivo
@@ -8,10 +9,10 @@ Adquirir feedback de usuários através de um mini-teste de usabilidade, em cond
 
 ## O que se espera da entrega
 
-* Criação de um roteiro de teste de usuário;
-* Realização de teste com pelo menos um potencial usuário;
-* Protótipo final com feedback incorporado;
-* Relato das mudanças exigidas após o teste.
+- Criação de um roteiro de teste de usuário;
+- Realização de teste com pelo menos um potencial usuário;
+- Protótipo final com feedback incorporado;
+- Relato das mudanças exigidas após o teste.
 
 ## Modelos
 

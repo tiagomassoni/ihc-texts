@@ -1,12 +1,13 @@
 ---
 title: Teorias e Modelos
+css: '/assets/css/custom-styles.css'
 ---
 
 Apenas alguns exemplos, já que existem muitas teorias e modelos usados pelo design de interação. Várias das técnicas que vamos investigar aqui usam essas teorias como inspiração ou fundamento.
 
 ### Fitts' Law e Hick's Law
 
-A **Lei de Fitts** estabelece uma relação entre a distância até um alvo e o tamanho desse alvo, influenciando o tempo necessário para alcançá-lo com precisão. Se você estiver usando um mouse ou usando o dedo em um tablet, a regra é clara, Arnaldo: _quanto mais distante o alvo estiver e menor for o seu tamanho, mais tempo levará para acertar o alvo_. 
+A **Lei de Fitts** estabelece uma relação entre a distância até um alvo e o tamanho desse alvo, influenciando o tempo necessário para alcançá-lo com precisão. Se você estiver usando um mouse ou usando o dedo em um tablet, a regra é clara, Arnaldo: _quanto mais distante o alvo estiver e menor for o seu tamanho, mais tempo levará para acertar o alvo_.
 
 Imagine-se desenvolvendo um aplicativo de mensagens. Queremos garantir que a interação com os elementos da interface seja fácil e intuitiva, e é aí que a Lei de Fitts entra em ação. Podemos aplicar a Lei de Fitts para melhorar a usabilidade dos botões e ícones interativos no aplicativo. Por exemplo, se o botão de envio de mensagem for pequeno e estiver posicionado em um canto distante da tela, isso pode dificultar a interação. Aplicando a Lei de Fitts, podemos aumentar o tamanho do botão de envio de mensagem e posicioná-lo de forma estratégica, preferencialmente próximo à área onde o usuário está digitando a mensagem. Dessa forma, o botão se torna mais fácil de alcançar, reduzindo o esforço necessário para interagir com ele.
 
@@ -20,7 +21,7 @@ Outro exemplo é a utilização de menus suspensos em um aplicativo de edição 
 
 ### Norman's Model of Interaction
 
-Don Norman, em seu livro clássico "Design of Everyday Things", que, mesmo feito para designers em geral, teve uma influência absurda no design de interfaces computacionais, enuncia o seu **modelo de interação** (ou *sete estágios de ação*). Este propõe uma abordagem centrada no usuário, levando em consideração as três camadas principais da interação: _execução, avaliação e formação de metas_ (abaixo, figura representando o ciclo). 
+Don Norman, em seu livro clássico "Design of Everyday Things", que, mesmo feito para designers em geral, teve uma influência absurda no design de interfaces computacionais, enuncia o seu **modelo de interação** (ou _sete estágios de ação_). Este propõe uma abordagem centrada no usuário, levando em consideração as três camadas principais da interação: _execução, avaliação e formação de metas_ (abaixo, figura representando o ciclo).
 
 ![Sete estágios de ação](t4.png)
 

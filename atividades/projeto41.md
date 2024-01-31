@@ -1,18 +1,19 @@
 ---
 title: Avaliação heurística
+css: '/assets/css/custom-styles.css'
 ---
 
 ## Objetivo
 
 Passar pela experiência de ter seu protótipo de alta fidelidade avaliado por especialistas, através de uma checklist de avaliação heurística.
 
-Itens da avaliação heurística: [Workbook](https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_1_Fillable.pdf) 
+Itens da avaliação heurística: [Workbook](https://media.nngroup.com/media/articles/attachments/Heuristic_Evaluation_Workbook_1_Fillable.pdf)
 
 ## O que se espera da entrega
 
-* Uma avaliação completa, baseada no checklist, de um projeto de uma equipe associada
-* Baseado na avaliação, corrigir o protótipo
-* Indicar quais aspectos do protótipo foram modificados, e o motivo para isso.
+- Uma avaliação completa, baseada no checklist, de um projeto de uma equipe associada
+- Baseado na avaliação, corrigir o protótipo
+- Indicar quais aspectos do protótipo foram modificados, e o motivo para isso.
 
 ## Projetos Associados
 
