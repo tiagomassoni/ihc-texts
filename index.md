@@ -1,6 +1,6 @@
 ---
 title: Interface Humano-Computador UFCG
-css: '/assets/css/custom-styles.scss'
+css: '/assets/css/custom-styles.css'
 ---
 
 ## Links úteis
