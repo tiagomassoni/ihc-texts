@@ -1,7 +1,7 @@
 ---
 title: Considerações éticas
+css: '/assets/css/custom-styles.css'
 ---
-
 
 Ao projetar interfaces, os designers podem se deparar com dilemas éticos, ou seja, situações em que precisam tomar decisões sobre o que é certo ou errado. Imagine (numa situação hipotética, ok?) um aplicativo de redes sociais que incentiva os usuários a compartilharem informações pessoais sensíveis em troca de benefícios ou recompensas. Aqui, designers precisam refletir sobre a ética de incentivar esse tipo de compartilhamento, considerando a privacidade e a segurança dos usuários.
 
