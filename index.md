@@ -11,6 +11,8 @@ title: Interface Humano-Computador UFCG
 
 [Discord (entrada obrigatória)](https://discord.gg/mnzn2qcPhw) 
 
+[Instruções para o projeto em equipe](https://docs.google.com/document/d/e/2PACX-1vSq2n1YnQfmyf9xDYXrw2tWGSkQfw6_GOqr7h_PzelNAYRbeO9IZ0Ii2FyTFQ_j_SJ8WSBeHmv15F3D/pub)
+
 [Atividades para nota]()
 
 [Notas]()
