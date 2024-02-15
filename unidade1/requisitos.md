@@ -245,7 +245,7 @@ Os protótipos baseados em papel ou cartões são bem usados para capturar e exp
 
 O exemplo abaixo mostra, para um aplicativo de organização de viagens de turismo, o processo que envolve requisitos de visto para um determinado país destino. Cada cartão subentende que haverá um componente de interação que exige uma resposta do usuário ou uma saída do sistema (ou seja, o tal do diálogo).
 
-![t11.png](unidade1/t11.png)
+![t11.png](t11.png)
 
 A primeira coluna indica uma opção inicial, e a segunda, à direita, indica como ficou depois de considerações da equipe de design e dos usuários que "testaram" a primeira proposta. Cenários alternativos podem também ser explorados; por exemplo, cartões que envolvam mensagens de erro.
 
@@ -253,7 +253,7 @@ Os cartões podem ser mostrados para usuários em potencial ou outros membros da
 
 Um conjunto de protótipos em cartões, estabelecendo cenários de uso do software, deve então servir como base para protótipos mais detalhados, tais como rascunhos de tela. Além disso, artefatos mais formais podem ser produzidos, como é o caso do mapa de jornada de usuário (user journey map), exemplificado na figura abaixo.
 
-![t12.png](unidade1/t12.png)
+![t12.png](t12.png)
 
 ### Jornada do usuário
 
