@@ -84,7 +84,7 @@ O conteúdo mais importante deve se destacar mais, e o menos importante deve fic
 
 Na figura abaixo, é possível perceber qual informação é mais importante, nas duas telas? A maioria das pessoas acha o exemplo B mais fácil de entender, já que os elementos, o tamanho relativo e a proporção entre eles implica sua importância e guia o leitor ao que realmente importa. Em B, podemos dizer que há uma _hierarquia visual_ ausente em A.
 
-![unidade2/t2.png](unidade2/t2.png)
+![t2.png](t2.png)
 
 O que faz os elementos tornarem-se importantes?
 
@@ -107,7 +107,7 @@ _Gestalt_ é o alemão para "forma", conceito esse da teoria psicológica dos an
 
 **Fechamento (Closure).** Nosso cérebro naturalmente "fecha" linhas para criar formas simples fechadas, mesmo se essas linhas não forem explicitamente fechadas. Exemplos abaixo:
 
-![unidade2/t3.png](unidade2/t3.png)
+![t3.png](t3.png)
 
 Esses princípios são normalmente usados em combinação. Continuidade e fechamento juntos justificam o alinhamento de elementos, por exemplo.
 
@@ -129,14 +129,14 @@ A mais pura beleza digital é a combinação da forma física com a função des
 O que faz um bom design visual? Em geral é um conjunto de propriedades: composição, cores, tipografia, legibilidade, evocação de sensações, e imagens.
 Por exemplo, a figura abaixo traz telas que evocam sensações diferentes, ainda que contenham os mesmos elementos visuais.
 
-![unidade2/t4.png](unidade2/t4.png)
+![t4.png](t4.png)
 
 Há uma quantidade enorme de padrões relacionados a cada propriedade de design visual. Só para cores, já existe um corpo razoável de conhecimento que pode ser aplicado ao design.
 Por exemplo, sugere-se sempre colocar cores frontais escuras sobre cores de fundo claras, e vice-versa (designers testam isso visualizando como escala de cinza em ferramentas como Photoshop). Ou ainda, quando verde ou vermelho indicam alguma distinção, é bom reforçar essa distinção com alguma forma diferente ou texto - cerca de 10% dos homens e 1% das mulheres apresentam alguma forma de daltonismo.
 
 Adicionalmente, é bom evitar algumas combinações de cor. Por exemplo, texto azul brilhante num fundo vermelho cansa os olhos, pois são cores _complementares_, estando localizadas em lados opostos na chamada roda das cores (abaixo).
 
-![unidade2/t5.png](unidade2/t5.png)
+![t5.png](t5.png)
 
 Quando estamos falando de computadores, tablets ou smartphones, o fundo escuro tem sido uma opção disseminada, para poupar visão e até energia. Outras questões relacionadas a cores: Cores quentes ou frias, contraste baixo (mais relaxante) ou alto (maior tensão/força), muito ou pouco saturado.
 
