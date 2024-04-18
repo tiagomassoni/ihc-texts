@@ -35,7 +35,7 @@ Ao final desta disciplina, esperamos que o estudante tenha noções fundamentada
 
 [Unidade 2. Design UI](https://tiagomassoni.github.io/ihc-texts/2.design.html). A partir das necessidades coletadas e compreendidas, vamos entender os princípios de design utilizados comumente para sistemas computacionais interativos, através de protótipos de alta fidelidade (20 horas).
 
-[Unidade 3. Avaliação](https://tiagomassoni.github.io/ihc-texts/). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
+[Unidade 3. Avaliação](https://tiagomassoni.github.io/ihc-texts/3.avaliacao.html). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
 
 ## Metodologia
 
@@ -82,3 +82,7 @@ User Experience Careers (livro) - https://goo.gl/29gywz
 Por onde começar na área de UX? (texto) - https://goo.gl/dEUR2o
 
 Adobe Xd Ideas (Material para UX): https://xd.adobe.com/ideas/
+
+Inspirações para protótipos de alta fidelidade: https://dribbble.com/
+
+
