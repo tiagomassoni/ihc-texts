@@ -5,13 +5,13 @@ css: '/assets/css/custom-styles.css'
 
 ## Links úteis
 
-[Cronograma e Material de Preparação](https://docs.google.com/spreadsheets/d/e/2PACX-1vTzdDL9QTGlep-dyO1Lz0JhCbWqeqoR6oMAD4nSytuI3WCvEUVTcLIPU0y2JtlrkIoWZmwjUhFOdgfO/pubhtml?gid=0&single=true)
+[Cronograma e Material de Preparação](https://docs.google.com/spreadsheets/d/e/2PACX-1vTtRuXDtoBGQKU7L-ZkIb1IR8xSbjsBVChmrLHMDXgfmEIo541q28uqxM1CwcmInl-4VRSx9BawsO5G/pubhtml?gid=0&single=true)
 
-[Programa](https://docs.google.com/document/d/e/2PACX-1vRDisNqQpq4hpmy1GnJLNMBM9pnbs9oOIoraYddFWwIalJ8IYcGr2WBHhMGpVtwe5fjeI2KluFJlTGp/pub)
+[Programa](https://docs.google.com/document/d/e/2PACX-1vQNhGlE1549NH--galdj1vpBOKZ7b7SFI8n-xe3erHJoeBrwPSMcFuCM-UYgAXz5NgBIO1Je4Nyuk9Q/pub)
 
-[Discord (entrada obrigatória)](https://discord.gg/mnzn2qcPhw)
+[Discord (entrada obrigatória)](https://discord.gg/qSw4T637xm)
 
-[Instruções para o projeto em equipe](https://docs.google.com/document/d/e/2PACX-1vSq2n1YnQfmyf9xDYXrw2tWGSkQfw6_GOqr7h_PzelNAYRbeO9IZ0Ii2FyTFQ_j_SJ8WSBeHmv15F3D/pub)
+[Instruções para o projeto em equipe]()
 
 [Notas]()
 
