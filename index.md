@@ -13,7 +13,7 @@ css: '/assets/css/custom-styles.css'
 
 [Atividades](https://tiagomassoni.github.io/ihc-texts/atividades.html)
 
-[Possíveis temas para o Projeto](https://tiagomassoni.github.io/ihc-texts/atividades.html)
+[Possíveis temas para o Projeto](https://tiagomassoni.github.io/ihc-texts/temas.html)
 
 [Notas]()
 
