@@ -11,7 +11,7 @@ css: '/assets/css/custom-styles.css'
 
 [Discord (entrada obrigatória)](https://discord.gg/qSw4T637xm)
 
-[Instruções para o projeto em equipe]()
+[Atividades](https://tiagomassoni.github.io/ihc-texts/atividades.html)
 
 [Notas]()
 
