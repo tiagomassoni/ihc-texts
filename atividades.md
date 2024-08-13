@@ -3,6 +3,21 @@ title: Atividades
 css: '/assets/css/custom-styles.css'
 ---
 
+
+## Segunda entrega do projeto: Wireframes
+
+A entrega deve ser um Google Doc (que pode incluir links externos), contendo os seguintes elementos:
+
+* Wireframes para as user stories épicas definidas na entrega anterior;
+* Avaliação será feita através da entrega em Doc e da apresentação parcial em sala.
+
+[Formulário para entrega (um por grupo)](https://forms.gle/yHwrF7HvmGYqC2Sv7)
+
+Data limite para entrega: 21/08/2024 (23:59h)
+
+
+
+
 ## Primeira entrega do projeto: Levantamento de Necessidades
 
 A entrega deve ser um Google Doc (que pode incluir links externos), contendo os seguintes elementos:
