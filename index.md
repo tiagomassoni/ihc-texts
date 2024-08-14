@@ -15,7 +15,11 @@ css: '/assets/css/custom-styles.css'
 
 [Possíveis temas para o Projeto](https://tiagomassoni.github.io/ihc-texts/temas.html)
 
-[Notas]()
+## Notas
+
+[Atividade 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vTl6as3y-U0jZUwis7Bk0zpdKFCpZHb8GIrkMk2W6i7RUumiL69zdzqjWPeWW2PRNatfxtO6MR8pG-C/pubhtml?gid=915112915&single=true)
+
+
 
 ## Ementa
 
