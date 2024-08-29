@@ -19,6 +19,9 @@ css: '/assets/css/custom-styles.css'
 
 [Atividade 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vTl6as3y-U0jZUwis7Bk0zpdKFCpZHb8GIrkMk2W6i7RUumiL69zdzqjWPeWW2PRNatfxtO6MR8pG-C/pubhtml?gid=915112915&single=true)
 
+[Atividade 2](https://docs.google.com/spreadsheets/d/1gTubBc9HvPeH_mnznSJFwgZ-PWXEfn_g5yf5RnR_IH8/pubhtml?gid=1952152570&single=true)
+
+
 
 
 ## Ementa
