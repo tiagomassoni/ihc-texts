@@ -3,21 +3,22 @@ title: Atividades
 css: '/assets/css/custom-styles.css'
 ---
 
-
-
 ## Quarta entrega do projeto: Avaliação heurística / Teste de usabilidade
 
 A entrega deve ser um Google Doc (que pode incluir links externos), contendo os seguintes elementos:
 
-* Resultado da avaliação heurística, feita por colega da turma que não faz parte do grupo (cópia do formulário + relato das mudanças realizadas)
-* Script de teste de usuário
-* Relatório de teste feito com pelo menos dois usuários
+* Resultado da avaliação heurística, feita por colega da turma que não faz parte do grupo (cópia do formulário + relato das mudanças realizadas)  
+[Formulário de avaliação heurística](https://tiagomassoni.github.io/ihc-texts/HeuristicEvaluationTemplate.pdf)
+
+* Script de teste de usuário  
+[Exemplo de roteiro](https://docs.google.com/document/d/e/2PACX-1vTTfLQnL7hfA32ptD0c196u7bP9Xq5GWFGIMJUVON-Jzj_ip7GdpsPQSA91cSa_36BkbQ5aozi60DEK/pub)
+
+* Relatório de teste feito com pelo menos dois usuários  
+[Exemplo de relatório](https://docs.google.com/document/d/e/2PACX-1vTYpvS9qjHRQMz6jZWzDI5tW4XVkWpw5JHMJqE4buDE5xPqWQg8NPH1qum70CJ5vuTzgAyn_kiEQ4Uv/pub)
 
 [Formulário para entrega (um por grupo)](https://forms.gle/E9sgEfqhCgXMAt4JA)
 
 Data limite para entrega: 07/10/2024 (23:59h)
-
-
 
 ## Terceira entrega do projeto: Protótipo de Alta Fidelidade
 
