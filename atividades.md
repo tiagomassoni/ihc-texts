@@ -27,7 +27,7 @@ A entrega deve ser um Google Doc (que pode incluir links externos), contendo os 
 * Protótipo para user stories épicas, com interação dentro do Figma (link);
 * Justificativa para as decisões de projeto, organizadas por categorias: arquitetura da informação, navegação, layout, visual e estética, ações e recebimento de entrada. 
 
-[Formulário para entrega (um por grupo)](https://forms.gle/yHwrF7HvmGYqC2Sv7)
+[Formulário para entrega (um por grupo)](https://forms.gle/W9udDdinaQb5dDZbA)
 
 Data limite para entrega: 18/09/2024 (23:59h)
 
