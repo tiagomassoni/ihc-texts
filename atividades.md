@@ -13,8 +13,8 @@ A entrega deve ser um Google Doc (que pode incluir links externos), contendo os 
 * Script de teste de usuário  
 [Exemplo de roteiro](https://docs.google.com/document/d/e/2PACX-1vTTfLQnL7hfA32ptD0c196u7bP9Xq5GWFGIMJUVON-Jzj_ip7GdpsPQSA91cSa_36BkbQ5aozi60DEK/pub)
 
-* Relatório de teste feito com pelo menos dois usuários  
-[Exemplo de relatório](https://docs.google.com/document/d/e/2PACX-1vTYpvS9qjHRQMz6jZWzDI5tW4XVkWpw5JHMJqE4buDE5xPqWQg8NPH1qum70CJ5vuTzgAyn_kiEQ4Uv/pub)
+* Relatório de teste feito com pelo menos dois usuários; um relatório para cada usuário, além de um relatório geral de insights 
+[Exemplo de relatórios, individual e geral](https://docs.google.com/document/d/e/2PACX-1vTYpvS9qjHRQMz6jZWzDI5tW4XVkWpw5JHMJqE4buDE5xPqWQg8NPH1qum70CJ5vuTzgAyn_kiEQ4Uv/pub)
 
 [Formulário para entrega (um por grupo)](https://forms.gle/E9sgEfqhCgXMAt4JA)
 
