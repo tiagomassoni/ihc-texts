@@ -21,8 +21,7 @@ css: '/assets/css/custom-styles.css'
 
 [Atividade 2](https://docs.google.com/spreadsheets/d/1gTubBc9HvPeH_mnznSJFwgZ-PWXEfn_g5yf5RnR_IH8/pubhtml?gid=1952152570&single=true)
 
-[Atividade 3]()
-
+[Atividade 3](https://docs.google.com/spreadsheets/d/e/2PACX-1vTuBuUTipf29hKKugK_oMywAS7o7VTaDUOxGrERy2gTbpFVtA-h1cZglre3WZiAPC5DS0FL8KfF8gGy/pubhtml?gid=578660642&single=true)
 
 
 ## Ementa
