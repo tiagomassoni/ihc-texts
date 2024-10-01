@@ -18,7 +18,7 @@ A entrega deve ser um Google Doc (que pode incluir links externos), contendo os 
 
 [Formulário para entrega (um por grupo)](https://forms.gle/E9sgEfqhCgXMAt4JA)
 
-Data limite para entrega: 07/10/2024 (23:59h)
+Data limite para entrega: 08/10/2024 (23:59h)
 
 ## Terceira entrega do projeto: Protótipo de Alta Fidelidade
 
