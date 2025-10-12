@@ -3,25 +3,6 @@ title: Interface Humano-Computador UFCG
 css: '/assets/css/custom-styles.css'
 ---
 
-## Links úteis
-
-[Cronograma e Material de Preparação](https://docs.google.com/spreadsheets/d/e/2PACX-1vTtRuXDtoBGQKU7L-ZkIb1IR8xSbjsBVChmrLHMDXgfmEIo541q28uqxM1CwcmInl-4VRSx9BawsO5G/pubhtml?gid=0&single=true)
-
-[Programa](https://docs.google.com/document/d/e/2PACX-1vQNhGlE1549NH--galdj1vpBOKZ7b7SFI8n-xe3erHJoeBrwPSMcFuCM-UYgAXz5NgBIO1Je4Nyuk9Q/pub)
-
-[Discord (entrada obrigatória)](https://discord.gg/qSw4T637xm)
-
-[Atividades](https://tiagomassoni.github.io/ihc-texts/atividades.html)
-
-[Possíveis temas para o Projeto](https://tiagomassoni.github.io/ihc-texts/temas.html)
-
-## Notas
-
-[Atividade 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vTl6as3y-U0jZUwis7Bk0zpdKFCpZHb8GIrkMk2W6i7RUumiL69zdzqjWPeWW2PRNatfxtO6MR8pG-C/pubhtml?gid=915112915&single=true)
-
-[Atividade 2](https://docs.google.com/spreadsheets/d/1gTubBc9HvPeH_mnznSJFwgZ-PWXEfn_g5yf5RnR_IH8/pubhtml?gid=1952152570&single=true)
-
-[Atividade 3](https://docs.google.com/spreadsheets/d/e/2PACX-1vTuBuUTipf29hKKugK_oMywAS7o7VTaDUOxGrERy2gTbpFVtA-h1cZglre3WZiAPC5DS0FL8KfF8gGy/pubhtml?gid=578660642&single=true)
 
 
 ## Ementa
@@ -38,13 +19,41 @@ Esta disciplina não tem como objetivo fazer com que estudantes de ciência da c
 
 Ao final desta disciplina, esperamos que o estudante tenha noções fundamentadas sobre o que faz uma boa interação entre humanos e sistemas, como entender as necessidades das pessoas, como testar alternativas de design e como analisar a qualidade do sistema produzido em relação à interação.
 
-## Unidades
+## Tutorial para iniciar
+
+Primeiro (obrigatório), todos devem se cadastrar no canal da disciplina no [Discord](discord.gg/hQ8bGqcWaJ).
+
+Logo depois, vocês devem se cadastrar na plataforma [perusall.com](https://www.perusall.com/). Ao criar uma conta, você devem procurar a opção **Enter enrollment code**, e então colocar o código **MASSONI-J9C9U**. Nesta plataforma vamos fazer uma leitura colaborativa antes das aulas teóricas, com interação que será avaliada como nota.
+
+Salvem o link do [Cronograma 2025.2](https://docs.google.com/spreadsheets/d/e/2PACX-1vShrPG90L38ez6Ndz5JKgc_er4L3vT1lYg_abA9C2U35MYlSr-M_3YXv3XB_0Tep_Ss6YyB8QeYyY2E/pubhtml?gid=0&single=true), que estará sempre atualizado.
+
+Deem uma olhada no [Programa completo da disciplina](https://docs.google.com/document/d/e/2PACX-1vQNhGlE1549NH--galdj1vpBOKZ7b7SFI8n-xe3erHJoeBrwPSMcFuCM-UYgAXz5NgBIO1Je4Nyuk9Q/pub)
+
+Antes da primeira aula, leiam o texto de David Foster Wallace, no perusall (Por ora, comentários opcionais).
+Link alternativo [aqui](https://www.posfacio.com.br/2011/09/06/isto-e-agua-david-foster-wallace/).
+
+## Slides e textos (colocarei versões mais completas dos textos no perusall)
 
 [Unidade 1: Introdução e Pesquisa de Usuário](https://tiagomassoni.github.io/ihc-texts/1.intro-requisitos.html). O início da disciplina será de bastante leitura e discussão, através de exemplos dos conceitos que vamos usar no restante do período (10 horas). Ainda, vamos trabalhar técnicas de elicitação das necessidades, estudando os potenciais usuários e seu ambiente; começaremos aqui a trabalhar no nosso projeto, com artefatos iniciais e wireframes (10 horas).
 
 [Unidade 2. Design UI](https://tiagomassoni.github.io/ihc-texts/2.design.html). A partir das necessidades coletadas e compreendidas, vamos entender os princípios de design utilizados comumente para sistemas computacionais interativos, através de protótipos de alta fidelidade (20 horas).
 
 [Unidade 3. Avaliação](https://tiagomassoni.github.io/ihc-texts/3.avaliacao.html). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
+
+## Projeto
+
+Grupos de 5 a 6 pessoas devem ser formados para o projeto da disciplina, que será realizado ao longo do período. Na primeira semana, vocês já serão convidados a formalizar os integrantes do grupo.
+
+[Especificação do Projeto]()
+
+[Atividade 1]
+
+[Atividade 2]
+
+[Atividade 3]
+
+[Atividade 4]
+
 
 ## Metodologia
 
@@ -54,7 +63,7 @@ Ao final desta disciplina, esperamos que o estudante tenha noções fundamentada
 
 ## Avaliação
 
-A disciplina contém três (3) unidades, e em cada uma a(o) estudante deverá entregar várias atividades a ser avaliadas pela equipe da disciplina. A média das notas dessas atividades formam a nota da unidade. A maior parte das atividades são entregas incrementais do projeto da disciplina, que deverá ser feito em equipe. _Ao final, vocês terão três notas, com pesos iguais_.
+A disciplina contém três (3) unidades, e em cada uma a(o) estudante deverá entregar várias atividades a ser avaliadas pela equipe da disciplina. A média das notas dessas atividades formam a maior parte da nota da disciplina (75%). As atividades são entregas incrementais do projeto da disciplina, que deverá ser feito em equipe. Uma parte da nota (25%) será extraída da participação em atividades de leitura e oficinas durante o período.
 
 ## Referências bibliográficas
 
@@ -62,11 +71,11 @@ A disciplina contém três (3) unidades, e em cada uma a(o) estudante deverá en
 
 Design de Interação: Além da Interação Humano-Computador, Yvonne Rogers, Helen Sharp, Jenny Preece
 
-### Outros livros e Links
+### Outros livros e Textos Adicionais
 
-"About Face: The Essentials of Interaction Design" by Alan Cooper, Robert Reimann, and David Cronin.
+About Face: The Essentials of Interaction Design by Alan Cooper, Robert Reimann, and David Cronin.
 
-"Observing the User Experience: A Practitioner's Guide to User Research" by Elizabeth Goodman, Mike Kuniavsky, and Andrea Moed.
+Observing the User Experience: A Practitioner's Guide to User Research by Elizabeth Goodman, Mike Kuniavsky, and Andrea Moed.
 
 Designing the User Interface: Strategies for Effective Human-Computer Interaction. Ben Shneiderman et al.
 
