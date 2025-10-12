@@ -3,8 +3,6 @@ title: Interface Humano-Computador UFCG
 css: '/assets/css/custom-styles.css'
 ---
 
-
-
 ## Ementa
 
 A interface com o usuário: Definição; Importância de um projeto de interface centrado no usuário; Breve histórico da interação homem-máquina; Características de interfaces gráficas para aplicações desktop e Web. Projeto contextual: Gestão do desenvolvimento de software; Usabilidade em desenvolvimento de software; Ciclo da Engenharia da Usabilidade. Concepção de interfaces com o usuário: Análise de requisitos; Projeto da Tarefa, da Informação e da Interação; Prototipagem; Avaliação.
@@ -21,7 +19,7 @@ Ao final desta disciplina, esperamos que o estudante tenha noções fundamentada
 
 ## Tutorial para iniciar
 
-Primeiro (obrigatório), todos devem se cadastrar no canal da disciplina no [Discord](discord.gg/hQ8bGqcWaJ).
+Primeiro (obrigatório), todos devem se cadastrar no canal da disciplina no [Discord](https://discord.gg/hQ8bGqcWaJ).
 
 Logo depois, vocês devem se cadastrar na plataforma [perusall.com](https://www.perusall.com/). Ao criar uma conta, você devem procurar a opção **Enter enrollment code**, e então colocar o código **MASSONI-J9C9U**. Nesta plataforma vamos fazer uma leitura colaborativa antes das aulas teóricas, com interação que será avaliada como nota.
 
