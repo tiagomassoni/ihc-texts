@@ -113,63 +113,7 @@ Na preparação: saber seus objetivos e perguntas de pesquisa, usar NDA, definir
 
 ## Artefatos
 
-Além das USs serem artefatos importantes também para o design de UI/UX, vamos discutir alguns artefatos de requisitos específicos para esta atividade: cenários e personas.
-
-### Perfil de Usuário e Personas
-
-Quanto mais designers de UI/UX sabem sobre características específicas de usuários, melhor serão suas decisões de design. Alternativas de design de UI/UX podem otimizar o desempenho de alguns tipos de usuário, mas atrasar outros (lembre-se do exemplo das UIs usadas tanto por iniciantes quanto por _experts_). Outros exemplos: sites para audiências mais visuais, como fotógrafos, provavelmente terão mais sucesso se apresentar informação chave usando gráficos, em vez de texto.
-
-Abaixo, um _check-list_ simplificado para a classificação de grupos de usuários:
-
-- Limitações físicas ou cognitivas
-
-- Habilidade com o computador: altamente técnico, moderado, ou nenhuma experiência.
-
-- Nível de experiência com o sistema
-
-- Nível de conhecimento da tarefa
-
-- Nível de experiência com sistemas similares
-
-- Nível educacional
-
-- Nível de leitura e escrita
-
-- Idioma nativo
-
-- Tipo de uso do sistema: obrigatório, opcional
-
-- Frequência de uso: contínuo, esporádico, uma vez apenas
-
-- Importância da tarefa
-
-- Nível de repetição da tarefa
-
-- Comunicação exigida
-
-- Tipo de treinamento necessário
-
-- Taxa de troca de pessoas
-
-- Categoria profissional
-
-- Atitude em relação ao sistema: positiva, neutra, negativa
-
-- Níveis de motivação/paciência
-
-- Níveis de estresse durante a tarefa
-
-- Gênero e idade
-
-- Características físicas, como destro ou canhoto
-
-Um artefato comumente produzido durante a definição do perfil do usuário é a **Persona**. Personas são um retrato do público-alvo que destaca dados demográficos, comportamentos, necessidades e motivações através da criação de um personagem ficcional baseado em insights extraídos de pesquisa. Personas fazem com que os designers e desenvolvedores criem empatia com os consumidores durante o processo de design. Descrevem pessoas específicas ficcionais, mas é um retrato bastante realista.
-
-Uma persona representa a síntese de um número de usuários reais que se envolveu na coleta de dados, e é baseada em um conjunto de perfis de usuários. Inclui descrição de seus objetivos, seu comportamento, atitudes, atividades e ambiente.
-
-Exemplo:
-
-![t6.png](t6.png)
+Além das USs serem artefatos importantes também para o design de UI/UX, vamos discutir alguns artefatos de requisitos específicos para esta atividade.
 
 ### Mapa de Empatia
 
@@ -233,27 +177,62 @@ Abaixo, observe um exemplo (fonte: Sebrae) de um mapa de empatia pronto, para um
 
 ![t9.jpg](t9.jpg)
 
-### Protótipos de baixa fidelidade
 
-Não se parece muito com um produto final. De fato, não serve para prover a funcionalidade completa. A ideia é usar materiais mais baratos, mais fáceis de manipular - papel ou papelão, por exemplo.
+### Perfil de Usuário e Personas
 
-Esses protótipos são úteis pois tendem a ser simples, baratos e de fácil produção. O que significa que também são rapidamente modificáveis; isso é bem importante nos estágios iniciais de um projeto, já que protótipos são úteis para explorar ideias. Certamente não serão parte do produto final, por isso descartáveis.
+Quanto mais designers de UI/UX sabem sobre características específicas de usuários, melhor serão suas decisões de design. Alternativas de design de UI/UX podem otimizar o desempenho de alguns tipos de usuário, mas atrasar outros (lembre-se do exemplo das UIs usadas tanto por iniciantes quanto por _experts_). Outros exemplos: sites para audiências mais visuais, como fotógrafos, provavelmente terão mais sucesso se apresentar informação chave usando gráficos, em vez de texto.
 
-Os mais comuns tipos de protótipo _low-fi_ são os storyboards(um representação gráfica dos cenários, que discutimos no módulo anterior) e aqueles baseados em papel/cartões.
+Abaixo, um _check-list_ simplificado para a classificação de grupos de usuários:
 
-Os protótipos baseados em papel ou cartões são bem usados para capturar e explorar elementos de uma interação, principalmente trocas entre usuário e produto. É bom porque os elementos de interação (menus, botões, etc.) propostos podem ser manipulados e movidos para simular o ação com o usuários pessoalmente, em uma experiência fim-a-fim.
+- Limitações físicas ou cognitivas
 
-O exemplo abaixo mostra, para um aplicativo de organização de viagens de turismo, o processo que envolve requisitos de visto para um determinado país destino. Cada cartão subentende que haverá um componente de interação que exige uma resposta do usuário ou uma saída do sistema (ou seja, o tal do diálogo).
+- Habilidade com o computador: altamente técnico, moderado, ou nenhuma experiência.
 
-![t11.png](t11.png)
+- Nível de experiência com o sistema
 
-A primeira coluna indica uma opção inicial, e a segunda, à direita, indica como ficou depois de considerações da equipe de design e dos usuários que "testaram" a primeira proposta. Cenários alternativos podem também ser explorados; por exemplo, cartões que envolvam mensagens de erro.
+- Nível de conhecimento da tarefa
 
-Os cartões podem ser mostrados para usuários em potencial ou outros membros da equipe de projeto, para que seja coletado feedback. Neste exemplo, durante a discussão sobre essa primeira proposta, poderíamos chegar à conclusão que seria melhor basear a interação em um mapa mundi interativo, onde usuários indicariam seu destino e sua nacionalidade. Outra possibilidade levantada: um painel de bandeiras. Essas alternativas poderiam ser então prototipadas em um novo conjunto de cartões, coletando mais feedback.
+- Nível de experiência com sistemas similares
 
-Um conjunto de protótipos em cartões, estabelecendo cenários de uso do software, deve então servir como base para protótipos mais detalhados, tais como rascunhos de tela. Além disso, artefatos mais formais podem ser produzidos, como é o caso do mapa de jornada de usuário (user journey map), exemplificado na figura abaixo.
+- Nível educacional
 
-![t12.png](t12.png)
+- Nível de leitura e escrita
+
+- Idioma nativo
+
+- Tipo de uso do sistema: obrigatório, opcional
+
+- Frequência de uso: contínuo, esporádico, uma vez apenas
+
+- Importância da tarefa
+
+- Nível de repetição da tarefa
+
+- Comunicação exigida
+
+- Tipo de treinamento necessário
+
+- Taxa de troca de pessoas
+
+- Categoria profissional
+
+- Atitude em relação ao sistema: positiva, neutra, negativa
+
+- Níveis de motivação/paciência
+
+- Níveis de estresse durante a tarefa
+
+- Gênero e idade
+
+- Características físicas, como destro ou canhoto
+
+Um artefato comumente produzido durante a definição do perfil do usuário é a **Persona**. Personas são um retrato do público-alvo que destaca dados demográficos, comportamentos, necessidades e motivações através da criação de um personagem ficcional baseado em insights extraídos de pesquisa. Personas fazem com que os designers e desenvolvedores criem empatia com os consumidores durante o processo de design. Descrevem pessoas específicas ficcionais, mas é um retrato bastante realista.
+
+Uma persona representa a síntese de um número de usuários reais que se envolveu na coleta de dados, e é baseada em um conjunto de perfis de usuários. Inclui descrição de seus objetivos, seu comportamento, atitudes, atividades e ambiente.
+
+Exemplo:
+
+![t6.png](t6.png)
 
 ### Jornada do usuário
 
@@ -261,9 +240,26 @@ O artefato da Jornada do Usuário (User Journey) oferece uma representação vis
 
 Um cenário é uma descrição narrativa informal, mostrando atividades e tarefas humanas, num formato de _storytelling_, permitindo a exploração e discussão de contextos, necessidades e requisitos. Provavelmente não inclui descrições sobre o uso de software ou suporte tecnológico usado pra atingir objetivos. É importante aqui usar vocabulário do ambiente do usuário, para que o cenário seja compreensível para todos os envolvidos no processo. Contar estórias é uma forma natural para as pessoas explicarem o que estão fazendo, e os envolvidos facilmente se relacionam com isso.
 
-Cenários podem ser descritos em texto e imagens. Uma forma possível é usar alguma ferramenta de _mind mapping_. Por exemplo, a figura abaixo descreve Sharon, uma pessoa que adora procurar e armazenar novas receitas no Pinterest. O objetivo deste cenário: comprar ingredientes e preparar Asas de Frango Maple Mustard, anteriormente salva no Pinterest. Este diagrama mostra uma série de tarefas e subtarefas identificadas enquanto Sharon realizava a tarefa. Duas tarefas em especial exigiram certa carga cognitiva, marcadas com um ícone de cérebro.
+O exemplo abaixo mostra uma jornada de usuário ao navegar em uma loja online de produtos de artesanato ([HeartiCraft](https://www.behance.net/gallery/177512399/UX-Case-Study-HeartiCraft?tracking_source=search_projects%7Cuser+journey+map&l=14]))
 
 ![t7.png](t7.png)
 
-Por exemplo, ao analisar essas tarefas, podemos identificar passos repetitivos e desnecessários, e talvez entender como diminuir a carga cognitiva de alguns passos. Neste exemplo, apesar do Pinterest ser elogiado na hora de descobrir e salvar receitas, ele não oferecia aqui recursos específicos para auxiliar na preparação da receita, ou na compra de ingredientes. Sharon teve que saltar entre aplicativos e até fazer cálculos de cabeça pra converter os ingredientes. Além disso, quando ela começa a preparação, ela teve que repetir suas tarefas iniciais de busca da receita.
-(Este cenário real foi realizado pelos desenvolvedores do app Favoreats, que tenta resolver essas limitações para quem usa o Pinterest para culinária).
+O mapa é estruturado em colunas que representam as principais fases da interação: Research/Enquire (Pesquisa/Consulta), Registration/Profile setup (Registro/Configuração de Perfil), Explore (Explorar), Compare (Comparar), Plan (Planejar), Buy (Comprar), Feedback (Avaliação) e Repeat purchase (Compra Recorrente). Para cada fase, o mapa analisa quatro linhas horizontais: User Action (Ação do Usuário), User Thoughts/Feelings (Pensamentos/Sentimentos do Usuário), Pain Points (Pontos Problemáticos ou "Dores") e Customer Delights (Encantos do Cliente ou Pontos Positivos).
+
+Analisando a jornada específica desta loja, podemos observar a "montanha-russa" emocional do cliente. A experiência começa de forma neutra durante a pesquisa (como organic search ou friends referrals), mas torna-se negativa rapidamente na fase de Registration/Profile setup, onde o usuário enfrenta Pain Points como um "processo longo" ('lengthy process') e uma "UI ruim" ('Bad UI'). O humor do usuário melhora significativamente durante a fase Explore, atingindo um pico positivo "após filtrar" ('after filtering') e ao "finalizar a compra" ('finalising purchase'). No entanto, a experiência pós-compra apresenta novos desafios, como a falta de opções detalhadas de rastreamento ('No detailed tracking options') e a dificuldade em alterar o endereço ('address changing not available'), causando frustração. O mapa equilibra isso mostrando também os Customer Delights, como "Boas ofertas" ('Good offers') e "Rastreamento fácil de pedidos" ('Easy order tracking'), oferecendo um diagnóstico claro de onde a loja de artesanato precisa melhorar e quais pontos fortes deve manter.
+
+### Protótipos de baixa fidelidade (Protótipo em Papel)
+
+O protótipo de papel é uma técnica de prototipação de baixa fidelidade (low-fi), especialmente valiosa durante a etapa inicial de levantamento de necessidades e exploração de conceitos. Ele não se parece, nem deve se parecer, com um produto final; seu propósito não é prover a funcionalidade completa ou testar a estética visual, mas sim facilitar a discussão, validação e iteração rápidas. Normalmente se usa materiais acessíveis, baratos e fáceis de manipular — como papel, cartões, post-its, canetas e papelão — para criar representações tangíveis das interfaces e fluxos de interação.
+
+Esses protótipos são úteis pois tendem a ser simples, baratos e de fácil produção. O que significa que também são rapidamente modificáveis; isso é bem importante nos estágios iniciais de um projeto, já que protótipos são úteis para explorar ideias. Por serem intencionalmente "inacabados" e descartáveis, eles convidam ao feedback honesto e à colaboração, já que ninguém se sente intimidado a criticar ou sugerir mudanças em algo tão simples quanto um esboço no papel. É impressionante como as pessoas entendem muito melhor o que precisam no momento que interagem com algo concreto, mais próximo do real.
+
+Os mais comuns tipos de protótipo _low-fi_ são os storyboards(um representação gráfica dos cenários, que discutimos no módulo anterior) e aqueles baseados em papel/cartões. Os protótipos baseados em papel ou cartões são bem usados para capturar e explorar elementos de uma interação, principalmente trocas entre usuário e produto. É bom porque os elementos de interação (menus, botões, etc.) propostos podem ser manipulados e movidos para simular o ação com o usuários pessoalmente, em uma experiência fim-a-fim.
+
+No exemplo na imagem abaixo, vemos protótipos de papel para um aplicativo de organização de viagens de turismo, focando especificamente no processo de coleta de dados para verificar requisitos de visto. 
+Cada cartão representa um componente de interação, como uma "tela" onde o usuário deve inserir informações (destino, nacionalidade e propósito da viagem). A imagem demonstra o poder exploratório da técnica ao apresentar duas abordagens diferentes lado a lado: a coluna da esquerda usa uma abordagem conversacional (ex: "Where do you want to go?"), enquanto a coluna da direita usa rótulos de formulário mais tradicionais (ex: "Destination"). Testar ambas as versões com usuários reais é trivial e imediato, permitindo à equipe validar rapidamente qual diálogo é mais claro e eficiente (ex: "My passport was issued in" vs. "Nationality") antes de propor qualquer solução.
+
+![t11.png](t11.png)
+
+
+
