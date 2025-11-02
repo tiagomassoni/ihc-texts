@@ -40,18 +40,9 @@ Link alternativo [aqui](https://www.posfacio.com.br/2011/09/06/isto-e-agua-david
 
 ## Projeto
 
-Grupos de 5 a 6 pessoas devem ser formados para o projeto da disciplina, que será realizado ao longo do período. Na primeira semana, vocês já serão convidados a formalizar os integrantes do grupo.
+Grupos de 5 a 6 pessoas devem ser formados para o projeto da disciplina, que será realizado ao longo do período. Na primeira semana, vocês já serão convidados a formalizar os integrantes do grupo. Enviem diretamente no Discord o nome completo dos integrantes do grupo e dois fluxos do SIGAA de sua preferência.
 
-[Especificação do Projeto]()
-
-[Atividade 1]
-
-[Atividade 2]
-
-[Atividade 3]
-
-[Atividade 4]
-
+[Especificação do Projeto](https://docs.google.com/document/d/e/2PACX-1vTtS_hQPd8x_c7THmqMP6e7MEKtd2fZdvZQw1XBoBWcAvsIqGRYCXAgXrQh7-bqByRaFU8H_0Blzzi_/pub)
 
 ## Metodologia
 
@@ -61,7 +52,7 @@ Grupos de 5 a 6 pessoas devem ser formados para o projeto da disciplina, que ser
 
 ## Avaliação
 
-A disciplina contém três (3) unidades, e em cada uma a(o) estudante deverá entregar várias atividades a ser avaliadas pela equipe da disciplina. A média das notas dessas atividades formam a maior parte da nota da disciplina (75%). As atividades são entregas incrementais do projeto da disciplina, que deverá ser feito em equipe. Uma parte da nota (25%) será extraída da participação em atividades de leitura e oficinas durante o período.
+A disciplina contém quatro (4) unidades, e em cada uma a(o) estudante deverá entregar várias atividades a ser avaliadas pela equipe da disciplina. A média das notas dessas atividades formam a maior parte da nota da disciplina (75%). As atividades são entregas incrementais do projeto da disciplina, que deverá ser feito em equipe. Uma parte da nota (25%) será extraída da participação em atividades de leitura e oficinas durante o período.
 
 ## Referências bibliográficas
 
