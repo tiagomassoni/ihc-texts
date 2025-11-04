@@ -44,6 +44,9 @@ Grupos de 5 a 6 pessoas devem ser formados para o projeto da disciplina, que ser
 
 [Especificação do Projeto](https://docs.google.com/document/d/e/2PACX-1vTtS_hQPd8x_c7THmqMP6e7MEKtd2fZdvZQw1XBoBWcAvsIqGRYCXAgXrQh7-bqByRaFU8H_0Blzzi_/pub)
 
+[Grupos do Projeto](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXi5E9gO7Avl3DthGjzTE7BwmrMW8qLQklmv7BXsakH8AiESk_kmuJDSICZySB5ad6UHsahgkUGGmj/pubhtml?gid=0&single=true)
+
+
 ## Metodologia
 
 - Leitura e discussão de textos, vídeos e outros materiais de interesse;
