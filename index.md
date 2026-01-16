@@ -30,6 +30,8 @@ Deem uma olhada no [Programa completo da disciplina](https://docs.google.com/doc
 Antes da primeira aula, leiam o texto de David Foster Wallace, no perusall (Por ora, comentários opcionais).
 Link alternativo [aqui](https://www.posfacio.com.br/2011/09/06/isto-e-agua-david-foster-wallace/).
 
+Planilha completa de Notas 2025.2: Link [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTiBdBdjkq13Sf1RtsvIj8XxBeOn80VKfIHEj05K-YYQKnPJpADSGErwsr0HK_Cg4IDKLJTnpYiXFso/pubhtml).
+
 ## Slides e textos (colocarei versões mais completas dos textos no perusall)
 
 [Unidade 1: Introdução e Pesquisa de Usuário](https://tiagomassoni.github.io/ihc-texts/1.intro-requisitos.html). O início da disciplina será de bastante leitura e discussão, através de exemplos dos conceitos que vamos usar no restante do período (10 horas). Ainda, vamos trabalhar técnicas de elicitação das necessidades, estudando os potenciais usuários e seu ambiente; começaremos aqui a trabalhar no nosso projeto, com artefatos iniciais e wireframes (10 horas).
