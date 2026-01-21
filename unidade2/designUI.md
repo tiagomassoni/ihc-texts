@@ -1,7 +1,7 @@
 ---
 title: Design UI
 ---
-# Introdução
+# 1. Introdução
 
 O Design de Interface do Usuário (UI Design) refere-se aos elementos visuais de um produto digital. Ele foca principalmente na aparência e no estilo, e não na experiência completa (como o UX Design). Você pode pensar nele como a "superfície" de um produto digital.
 
@@ -14,8 +14,8 @@ Todo UI Design é colocado em uma tela (smartphone, laptop, tablet ou smartwatch
 ![t6.png](t6.png)
 ![t7.png](t7.png)
 
-Projetar em pontos é uma simplificação estratégica. Se um designer tentasse projetar um aplicativo para um iPhone X usando sua resolução real de $1125x2436$ px, o processo seria extremamente detalhado e lento. 
-Ao utilizar a resolução em pontos, que para o mesmo aparelho é de $375x812$ pt, o designer trabalha em uma escala reduzida que é muito mais fácil de gerenciar. A principal vantagem dessa simplificação é tornar o design mais fácil e rápido. 
+Projetar em pontos é uma simplificação estratégica. Se um designer tentasse projetar um aplicativo para um iPhone X usando sua resolução real de 1125x2436 px, o processo seria extremamente detalhado e lento. 
+Ao utilizar a resolução em pontos, que para o mesmo aparelho é de 375x812 pt, o designer trabalha em uma escala reduzida que é muito mais fácil de gerenciar. A principal vantagem dessa simplificação é tornar o design mais fácil e rápido.
 
 Trabalhar com números menores permite que o designer se concentre na proporção e na hierarquia dos elementos sem se perder na contagem de milhares de pixels individuais. As ferramentas de design modernas já trazem essas resoluções em pontos como predefinições (presets), eliminando a necessidade de memorizar cada valor. Essa abordagem garante que a proporção da tela (*aspect ratio*) seja mantida, permitindo que o design seja escalado corretamente para a resolução real do dispositivo mais tarde.
 
@@ -25,7 +25,7 @@ O bom é que tudo o que é criado na interface — como retângulos, ovais e tex
 
 Enquanto a tela é nosso *canvas*, o design em si é feito de muitos elementos diferentes. Todo objeto é uma forma vetorial e pode ser redimensionado sem perder qualidade. Essencialmente, UI Design é posicionar formas (retângulos, ovais, texto) na tela.
 
-Aqui vão algumas propriedades dos Objetos
+Aqui vão algumas propriedades dos objetos que precisam ser definidas.
 
 * Tamanho (Width e Height): Todo elemento tem largura (W) e altura (H) expressas em pontos.
 * Posição (X e Y): O valor X indica a distância da borda esquerda e o valor Y a distância da borda superior.
@@ -36,7 +36,7 @@ Aqui vão algumas propriedades dos Objetos
 * Sombras (Shadows): Funcionam como uma camada separada e possuem valores de X, Y, Blur e Opacidade.
 * Desfoque (Blur): Pode ser Layer Blur (desfoca o próprio elemento) ou Background Blur (desfoca o que está por baixo do elemento).
 
-# Antes de Começar: padrões de UI
+# 2. Antes de Começar: padrões de UI
 
 Os padrões de UI são as formas mais comuns como pensar e se comportar ao se relacionar com interfaces de software. Mesmo que cada indivíduo seja único, pessoas em geral se comportam de forma previsível, por isso padrões podem ser observados e reutilizados. Designers estudam visitas em sites e usuários por anos; cientistas cognitivos e outros pesquisadores passam muito tempo tentando entender as pessoas. Os princípios e os padrões são resultado de todo esse conhecimento. Muitos padrões de UI podem ser encontrados em catálogos ou sites ([http://ui-patterns.com](http://ui-patterns.com)). Usaremos aqui como referência o seguinte livro texto:
 
@@ -45,16 +45,16 @@ Jenifer Tidwell et al. Terceira Edição.
 O'Reilly.
 Link: [https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/]
 
-# Navegação
+# 3. Navegação
 
 Padrões de navegação lidam com o desafio de deixar claro a usuários em que local do sistema eles se encontram, mostrando como sair de um local e chegar em outro. Parece fácil, não é? Na verdade, é uma tarefa gigantesca para designers. O melhor sistema de navegação é aquele que não é percebido. Deixar o que é importante sempre à mão, tirando do foco aquilo que é menos importante, mantendo uma distância curta para chegar a qualquer lugar.
 
 A navegação pode ser categorizada em três tipos principais, dependendo de como os links são apresentados ao usuário. A navegação *visível* é aquela em que as opções de menu estão sempre expostas, geralmente em uma barra superior ou lateral, facilitando o acesso imediato às seções principais do produto. Já a navegação *oculta* (como o famoso menu "hambúrguer") esconde as opções atrás de um ícone para economizar espaço em tela, sendo uma escolha comum em dispositivos móveis para reduzir a carga cognitiva, embora exija um clique extra do usuário para que as opções apareçam.
 
 A navegação *contextual*, por sua vez, não se limita a menus estáticos, mas surge diretamente do conteúdo com o qual o usuário está interagindo no momento. Ela utiliza links internos, hashtags, botões em cards ou sugestões de "leia também" para guiar o usuário de forma fluida pelo fluxo da aplicação, baseando-se no que ele está visualizando. Integrar esses três tipos de forma equilibrada garante que o design seja "invisível" e eficiente, permitindo que o usuário complete suas tarefas com o mínimo de esforço possível.
-A navegação visível seria a melhor escolha sempre, se tivéssemos espaço infinito na tela. No máximo cinco opções são possíveis para este tipo de navegação. 
+A navegação visível seria a melhor escolha sempre, se tivéssemos espaço infinito na tela. Em geral quando há no máximo cinco opções este tipo de navegação se torna possível.
 
-Alguns conceitos são úteis, principalmente para opções de navegação visível. _Signposts_ são elementos que ajudam os usuários a ter noção de seu ambiente. Coisas como título de página e janela, logos, abas, e indicações de seleção, além de indicadores de progresso, _breadcrumbs_, e barras de rolagem. O pessoal de UX usa também o termo _Wayfinding_ para indicar a ação da usuária em encontrar algo; para facilitar tal processo, esperamos do sistema algumas qualidades:
+Alguns conceitos são úteis, principalmente para opções de navegação visível. _Signposts_ são elementos que ajudam os usuários a ter noção de seu ambiente. Coisas como título de página e janela, logos, abas, e indicações de seleção, além de indicadores de progresso, _breadcrumbs_, e barras de rolagem. Designers UI usam também o termo _Wayfinding_ para indicar a ação da usuária em encontrar algo; para facilitar tal processo, esperamos do sistema algumas qualidades:
 
 * Boa sinalização;
 * Indicações claras, padronizadas;
@@ -74,12 +74,13 @@ Os padrões de **navegação** versam sobre vários aspectos de navegação: est
 - Deep Links
 - Escape Hatch
 - Fat Menus
-- Sitemap Footer \* Sign-In Tools
+- Sitemap Footer
+- Sign-In Tools
 - Progress Indicator
 - Breadcrumbs
 - Annotated Scroll Bar
 
-# Layout e Grids
+# 4. Layout e Grids
 
 O layout determina o jeito como os elementos (componentes) estão dispostos. Cada elemento pode ser _informacional, funcional, de enquadramento ou decorativo_. A disposição desses elementos ajuda a guiar e informar usuários sobre a importância relativa de informação e funções. Normalmente ouvimos falar do termo interface _limpa_. Um layout limpo segue princípios de hierarquia da informação visual, fluxo visual, alinhamento, além de seguir princípios _Gestalt_.
 
@@ -171,7 +172,7 @@ Pensando em texto agora. É bom tentar alinhar na linha de base (*baseline*) sob
 ![t15.png](t15.png)
 
 
-# Estilo Visual e Estética
+# 5. Estilo Visual e Estética
 
 Design visual (_look-and-feel_) pode fazer um produto digital se destacar. A linguagem visual usada simboliza uma mensagem que acaba sendo importante para a usabilidade do produto. _Looking good matters_.
 A mais pura beleza digital é a combinação da forma física com a função desejada, funcionando juntos, em harmonia. No design de software, não é suficiente que cada pixel seja perfeito, pois deve combinar com utilidade, compreensão e prazer de uso.
@@ -283,7 +284,7 @@ Alguns padrões no uso de ícones:
 ![t27.png](t27.png)
 
 
-# Entrada de Dados
+# 6. Entrada de Dados
 
 
 Os formulários no UI Design são ferramentas para a coleta de informações, permitindo que os usuários insiram dados e interajam com o sistema para completar tarefas específicas. Já tem uns 30 anos que usamos formulários para entrada de dados em sistemas de informação, e isso é um bom motivo para acharmos que não há muito o que fazer nessa seara, em termos de design. Somos meio que direcionados pelos frameworks de _front-end_ a usar seus elementos "de prateleira".
@@ -326,7 +327,7 @@ Alguns princípios no design de formulários (mais detalhes nas páginas 471 a 5
 * Aceitar variações no formato, como no caso de datas e endereços.
 * Realizar prevenção de erros e validação o mais rápido possível na interação - feedback em tempo de digitação, se possível.
 
-# Ações e Comandos 
+# 7. Ações e Comandos 
 
 Aqui examinamos as maneiras pelas quais as pessoas realizam o trabalho no software. Este capítulo explora diferentes métodos para iniciar ações ou ativar comandos, além de como deixar claro que um item pode sofrer uma ação por meio de *affordances*. Falaremos também de padrões e componentes que promovem o controle e a edição.
 Isso contrasta com nossas discussões sobre "substantivos" no design de interface até agora. Primeiro, discutimos estrutura, fluxo e layout visual. Revisamos até agora objetos de interface, como janelas, textos, links e elementos estáticos em páginas. 
@@ -441,7 +442,6 @@ Além de servir como um log passivo de atividades, o histórico de comandos pode
 # Referências
 
 Jenifer Tidwell et al. Designing Interfaces: Patterns for Effective Interaction Design. Terceira Edição. O'Reilly.
-Link: [https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/]
+[Link](https://www.oreilly.com/library/view/designing-interfaces-3rd/9781492051954/).
 
-Michael Filipiuk. UI Design Principles [eBook]. Acesso em 18 de janeiro de 2026. Link: [https://michaelfilipiuk.gumroad.com/l/uiguide].
-
+Michael Filipiuk. UI Design Principles [eBook]. Acesso em 18 de janeiro de 2026. [Link](https://michaelfilipiuk.gumroad.com/l/uiguide).
