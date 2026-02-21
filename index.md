@@ -40,6 +40,9 @@ Link alternativo [aqui](https://www.posfacio.com.br/2011/09/06/isto-e-agua-david
 
 [Unidade 3. Avaliação](https://tiagomassoni.github.io/ihc-texts/3.avaliacao.html). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
 
+[**Roteiro e materiais**](https://tiagomassoni.github.io/ihc-texts/3.1.teste-usabilidade.html) para aula de teste de usabilidade.
+
+
 ## Projeto
 
 Grupos de 5 a 6 pessoas devem ser formados para o projeto da disciplina, que será realizado ao longo do período. Na primeira semana, vocês já serão convidados a formalizar os integrantes do grupo. Enviem diretamente no Discord o nome completo dos integrantes do grupo e dois fluxos do SIGAA de sua preferência.
