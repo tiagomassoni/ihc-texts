@@ -57,6 +57,7 @@ Grupos de 5 a 6 pessoas devem ser formados para o projeto da disciplina, que ser
 
 [Avaliação da Atividade 3](https://docs.google.com/spreadsheets/d/1CTHBgF52mNMvWVcCyWFdN3OQR1dIuiTNmWGNUhg5o6Y/edit?usp=sharing)
 
+[Avaliação da Atividade 4](https://docs.google.com/spreadsheets/d/e/2PACX-1vQsGGWkkYNMZJ2IbjJepMeZMl2K4iGzZbFh2P4HKdhF3L2Kc1BYHAo0ZorxpjFEdz93vnIwS9HfMlao/pubhtml?gid=0&single=true)
 
 ## Metodologia
 
