@@ -17,7 +17,7 @@ Esta disciplina não tem como objetivo fazer com que estudantes de ciência da c
 
 Ao final desta disciplina, esperamos que o estudante tenha noções fundamentadas sobre o que faz uma boa interação entre humanos e sistemas, como entender as necessidades das pessoas, como testar alternativas de design e como analisar a qualidade do sistema produzido em relação à interação.
 
-Planilha completa de Notas 2025.2: Link [aqui](https://docs.google.com/spreadsheets/d/e/2PACX-1vTiBdBdjkq13Sf1RtsvIj8XxBeOn80VKfIHEj05K-YYQKnPJpADSGErwsr0HK_Cg4IDKLJTnpYiXFso/pubhtml).
+Planilha completa de Notas: Link [aqui]().
 
 ## Tutorial para iniciar
 
