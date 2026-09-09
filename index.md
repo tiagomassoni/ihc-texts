@@ -21,16 +21,9 @@ Planilha completa de Notas 2025.2: Link [aqui](https://docs.google.com/spreadshe
 
 ## Tutorial para iniciar
 
-Primeiro (obrigatório), todos devem se cadastrar no canal da disciplina no [Discord](https://discord.gg/hQ8bGqcWaJ).
+Primeiro (obrigatório), todos devem se cadastrar no canal da disciplina no [Discord](https://discord.gg/eSHz33Autf).
 
-Logo depois, vocês devem se cadastrar na plataforma [perusall.com](https://www.perusall.com/). Ao criar uma conta, você devem procurar a opção **Enter enrollment code**, e então colocar o código **MASSONI-J9C9U**. Nesta plataforma vamos fazer uma leitura colaborativa antes das aulas teóricas, com interação que será avaliada como nota.
-
-Salvem o link do [Cronograma 2025.2](https://docs.google.com/spreadsheets/d/e/2PACX-1vShrPG90L38ez6Ndz5JKgc_er4L3vT1lYg_abA9C2U35MYlSr-M_3YXv3XB_0Tep_Ss6YyB8QeYyY2E/pubhtml?gid=0&single=true), que estará sempre atualizado.
-
-Deem uma olhada no [Programa completo da disciplina](https://docs.google.com/document/d/e/2PACX-1vQNhGlE1549NH--galdj1vpBOKZ7b7SFI8n-xe3erHJoeBrwPSMcFuCM-UYgAXz5NgBIO1Je4Nyuk9Q/pub)
-
-Antes da primeira aula, leiam o texto de David Foster Wallace, no perusall (Por ora, comentários opcionais).
-Link alternativo [aqui](https://www.posfacio.com.br/2011/09/06/isto-e-agua-david-foster-wallace/).
+Salvem o link do [Cronograma 2026.2](https://docs.google.com/spreadsheets/d/1X7K1vmK_KAVZrKMNnfa9uHiDXJy8i7aWDpFR_DNguFM/edit?usp=sharing), que estará sempre atualizado.
 
 ## Slides e textos (colocarei versões mais completas dos textos no perusall)
 
@@ -47,17 +40,17 @@ Link alternativo [aqui](https://www.posfacio.com.br/2011/09/06/isto-e-agua-david
 
 Grupos de 5 a 6 pessoas devem ser formados para o projeto da disciplina, que será realizado ao longo do período. Na primeira semana, vocês já serão convidados a formalizar os integrantes do grupo. Enviem diretamente no Discord o nome completo dos integrantes do grupo e dois fluxos do SIGAA de sua preferência.
 
-[Especificação do Projeto](https://docs.google.com/document/d/e/2PACX-1vTtS_hQPd8x_c7THmqMP6e7MEKtd2fZdvZQw1XBoBWcAvsIqGRYCXAgXrQh7-bqByRaFU8H_0Blzzi_/pub)
+[Especificação do Projeto]()
 
-[Grupos do Projeto](https://docs.google.com/spreadsheets/d/e/2PACX-1vRXi5E9gO7Avl3DthGjzTE7BwmrMW8qLQklmv7BXsakH8AiESk_kmuJDSICZySB5ad6UHsahgkUGGmj/pubhtml?gid=0&single=true)
+[Grupos do Projeto]()
 
-[Avaliação da Atividade 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vRhNo8zkfvjEM_akVnIsCsyXzPWCWDSZLSlpmqRooN4q_nMWOPQbjIG0gZidRjw8k1PgUV14JbO4ft5/pubhtml?gid=452871638&single=true)
+[Avaliação da Atividade 1]()
 
-[Avaliação da Atividade 2](https://docs.google.com/spreadsheets/d/e/2PACX-1vToXnSJ5ybhxG8TMtw37sqs7GgMwDrV_-EEoVPDJMVkQJbVs4oOywtepBZXGBpm2glhP96k_GZAGfys/pubhtml?gid=1580184958&single=true)
+[Avaliação da Atividade 2]()
 
-[Avaliação da Atividade 3](https://docs.google.com/spreadsheets/d/1CTHBgF52mNMvWVcCyWFdN3OQR1dIuiTNmWGNUhg5o6Y/edit?usp=sharing)
+[Avaliação da Atividade 3]()
 
-[Avaliação da Atividade 4](https://docs.google.com/spreadsheets/d/e/2PACX-1vQsGGWkkYNMZJ2IbjJepMeZMl2K4iGzZbFh2P4HKdhF3L2Kc1BYHAo0ZorxpjFEdz93vnIwS9HfMlao/pubhtml?gid=0&single=true)
+[Avaliação da Atividade 4]()
 
 ## Metodologia
 
