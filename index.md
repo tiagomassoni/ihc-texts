@@ -25,7 +25,7 @@ Primeiro (obrigatório), todos devem se cadastrar no canal da disciplina no [Dis
 
 Salvem o link do [Cronograma 2026.2](https://docs.google.com/spreadsheets/d/1X7K1vmK_KAVZrKMNnfa9uHiDXJy8i7aWDpFR_DNguFM/edit?usp=sharing), que estará sempre atualizado.
 
-## Slides e textos (colocarei versões mais completas dos textos no perusall)
+## Slides e textos
 
 [Unidade 1: Introdução e Pesquisa de Usuário](https://tiagomassoni.github.io/ihc-texts/1.intro-requisitos.html). O início da disciplina será de bastante leitura e discussão, através de exemplos dos conceitos que vamos usar no restante do período (10 horas). Ainda, vamos trabalhar técnicas de elicitação das necessidades, estudando os potenciais usuários e seu ambiente; começaremos aqui a trabalhar no nosso projeto, com artefatos iniciais e wireframes (10 horas).
 
