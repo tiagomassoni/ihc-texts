@@ -35,6 +35,8 @@ Salvem o link do [Cronograma 2026.2](https://docs.google.com/spreadsheets/d/1X7K
 
 [**Roteiro e materiais**](https://tiagomassoni.github.io/ihc-texts/3.1.teste-usabilidade.html) para aula de teste de usabilidade.
 
+[**Dinâmicas em sala: leituras e materiais**](https://tiagomassoni.github.io/ihc-texts/dinamicas.html) — as leituras pré-aula de cada dinâmica (★ no cronograma).
+
 
 ## Projeto
 
@@ -84,20 +86,18 @@ Designing Interfaces: Patterns for Effective Interaction Design. Jenifer Tidwell
 
 Leis da UX: [Resumo do Livro](/Leis_da_Psicologia_Aplicadas_a_UX.pdf)
 
-UI Design Patterns: https://ui-patterns.com/
+[UI Design Patterns](https://ui-patterns.com/)
 
-UX Project Checklist (site) - https://uxchecklist.github.io/
+[UX Project Checklist (site)](https://uxchecklist.github.io/)
 
-The Elements of User Experience: User-Centered Design for the Web and Beyond (livro) - https://goo.gl/RRQyrs
+[The Elements of User Experience: User-Centered Design for the Web and Beyond (livro)](https://goo.gl/RRQyrs)
 
-UX não é um título, é um estilo de vida! (texto) - https://goo.gl/UaAB1a
+[UX não é um título, é um estilo de vida! (texto)](https://goo.gl/UaAB1a)
 
-User Experience Careers (livro) - https://goo.gl/29gywz
+[Por onde começar na área de UX? (texto)](https://goo.gl/dEUR2o)
 
-Por onde começar na área de UX? (texto) - https://goo.gl/dEUR2o
+[Adobe Xd Ideas (Material para UX)](https://xd.adobe.com/ideas/)
 
-Adobe Xd Ideas (Material para UX): https://xd.adobe.com/ideas/
-
-Inspirações para protótipos de alta fidelidade: https://dribbble.com/
+[Inspirações para protótipos de alta fidelidade](https://dribbble.com/)
 
 
