@@ -84,7 +84,7 @@ Don’t Make me Think. Steve Krug.
 
 Designing Interfaces: Patterns for Effective Interaction Design. Jenifer Tidwell, Charles Brewer, Aynne Valencia.
 
-Leis da UX: [Resumo do Livro](/Leis_da_Psicologia_Aplicadas_a_UX.pdf)
+Leis da UX: [Resumo do Livro](/Leis_da_Psicologia_Aplicadas_a_UX.pdf); [Site novo Leis da UX](https://lawsofux.com/)
 
 [UI Design Patterns](https://ui-patterns.com/)
 

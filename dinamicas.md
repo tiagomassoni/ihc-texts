@@ -3,7 +3,7 @@ title: Dinâmicas em sala: leituras e materiais
 css: '/assets/css/custom-styles.css'
 ---
 
-São cinco dinâmicas ao longo do período, marcadas com ★ no cronograma. Cada uma vale nota (dinâmicas e oficinas somam 25% da média) e é feita em dupla, com ficha entregue no fim da aula.
+São cinco dinâmicas ao longo do período. Cada uma vale nota (dinâmicas e oficinas somam 25% da média) e é feita em dupla, com uma ficha entregue no fim da aula.
 
 Antes de cada dinâmica há uma leitura. É curta, mas a aula não funciona sem ela, porque a ficha se apoia no texto. Deixo os links aqui para vocês abrirem também durante a aula.
 
@@ -18,7 +18,12 @@ Leitura:
 
 ## Dinâmica 2.
 
-Aula 5, 24 de setembro. Leitura a divulgar.
+Aula 5, 24 de setembro. Tema: levantamento de necessidades.
+
+Leitura:
+
+* [Jakob Nielsen, First Rule of Usability? Don't Listen to Users (NN/g, 2001)](https://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/), em inglês, quatro páginas
+* Rob Fitzpatrick, *The Mom Test*, capítulo 1. Texto no slack.
 
 ## Dinâmica 3. Laws of UX
 
