@@ -33,18 +33,16 @@ Salvem o link do [Cronograma 2026.2](https://docs.google.com/spreadsheets/d/1X7K
 
 [Unidade 3. Avaliação](https://tiagomassoni.github.io/ihc-texts/3.avaliacao.html). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
 
-[**Roteiro e materiais**](https://tiagomassoni.github.io/ihc-texts/3.1.teste-usabilidade.html) para aula de teste de usabilidade.
-
 [**Dinâmicas em sala: leituras e materiais**](https://tiagomassoni.github.io/ihc-texts/dinamicas.html) — as leituras pré-aula de cada dinâmica (★ no cronograma).
 
 
 ## Projeto
 
-Grupos de 5 a 6 pessoas devem ser formados para o projeto da disciplina, que será realizado ao longo do período. Na primeira semana, vocês já serão convidados a formalizar os integrantes do grupo. Enviem diretamente no Discord o nome completo dos integrantes do grupo e dois fluxos do SIGAA de sua preferência.
+Grupos de 5 a 6 pessoas devem ser formados para o projeto da disciplina, que será realizado ao longo do período. Na primeira semana, vocês já serão convidados a formalizar os integrantes do grupo.
 
-[Especificação do Projeto]()
+[Especificação do Projeto](https://docs.google.com/document/d/e/2PACX-1vQeDztMui9R-Uzds21VWSmaEJgRk8a2UC0ZsxO4Psp0fJtRDY2JTK8lCQpK80SDXE7DzyUPDrTrHvZ9/pub)
 
-[Grupos do Projeto]()
+[Grupos do Projeto](https://docs.google.com/spreadsheets/d/e/2PACX-1vSQCQ0TKenELkO6vsrXgGCFsYKY8sBYfl7Xd1hsyxDA1ZWccRooD8oLUK9Yuh8P8lXEwHKW3aj97YTz/pubhtml)
 
 [Avaliação da Atividade 1]()
 
