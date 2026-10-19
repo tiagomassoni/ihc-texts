@@ -63,16 +63,16 @@ Os computadores digitais programáveis que logo vieram, como o ENIAC, foram uma 
 Em 1945, Doug Engelbart era um técnico de radar da Marinha, passando anos monótonos nas Filipinas. Na biblioteca, ele encontrou um exemplar da revista Life; copiou o artigo de Bush. A ideia de um dispositivo que poderia estender o poder da mente humana deixou Engelbart boquiaberto. Levou um longo tempo, mas finalmente ele recebeu algum financiamento e começou a trabalhar. E o que Doug Engelbart trouxe ele mostrou ao mundo em sua famosa demonstração em 1968 (_the mother of all demos_).
 Eis um trecho de seu discurso na demonstração: "O programa de pesquisa que eu vou descrever para vocês é rapidamente caracterizável , dizendo: se, em seu escritório, você, como um trabalhador intelectual, foi equipado com um monitor de computador, acompanhado por um computador que ficava ligado para você o dia inteiro, e era infinitamente sensível às reações que você tem, quanto valor que você extrairá disso? E em um instante você olhará a tela e ela está funcionando. E a maneira como o cursor move em conjunto com os movimentos do mouse."
 
-![t1.jpg](t1.jpg)
+![t1.jpg](img/t1.jpg)
 
 O mouse de Engelbart funcionava com duas rodas ortogonais. Cada um era um potenciômetro, um resistor variável, assim como aparelhos de som geralmente têm em um botão de volume. Então você consegue girar em torno de 300º. O seu parâmetro utilizável fornecia cerca de 5 polegadas de movimento em cada direção.
 
-![t2.jpg](t2.jpg)
+![t2.jpg](img/t2.jpg)
 
 Após a demonstração de 1968, Doug viajou pelos EUA com um projetor 16 milímetros da Bell & Howell. Ivan Sutherland tinha se juntado recentemente ao corpo docente da Universidade de Utah. Doug veio em visita e apresentou a demo, e na platéia estava o aluno de doutorado de Ivan, Alan Kay.
 Alan vinha sonhando com um computador pessoal. Ele viu o vídeo de Engelbart e percebeu a conexão das ideias. Alan mudou-se para o Laboratório de AI da Stanford, onde o grupo de John McCarthy tinha um sistema de compartilhamento dos primeiros tempos, talvez o único lugar no mundo onde cada pessoa tinha seu próprio terminal. De lá, ele foi para o lendário instituto de pesquisa Xerox PARC, onde dá vida à sua visão de um Dynabook.
 
-![t3.jpg](t3.jpg)
+![t3.jpg](img/t3.jpg)
 
 Acima está uma foto do protótipo que Alan fez no início dos anos 1970. Este não é um computador funcional, ele é feito de papelão; é um protótipo desenhado para comunicar uma visão. Com esta visão em mãos, Alan Kay e seus colegas da Xerox PARC começaram a construir a fundação da primeira real interface gráfica do usuário. Eles levaram uma década para conseguir juntar tudo, para deixá-lo pronto para entrega.
 

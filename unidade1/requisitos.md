@@ -48,7 +48,7 @@ Independente do método de coleta, o registro de dados pode se dar de várias fo
 
 A figura abaixo resume as principais técnicas usadas para a descoberta de requisitos.
 
-![t5.png](t5.png)
+![t5.png](img/t5.png)
 
 **Entrevistas** podem ser estruturadas ou não, dependendo do grau de formalização de um roteiro pré-estabelecido (obrigatório para as primeiras). O mais comum é que as entrevistas sejam _semiestruturadas_, que inclui um roteiro apenas para que sejam cobertos os principais tópicos, permitindo a exploração livre dos comos e porquês de cada uma das respostas.
 
@@ -121,7 +121,7 @@ O Mapa de Empatia é usado para aprofundar a compreensão das motivações, nece
 
 O Mapa de Empatia é dividido em seis seções essenciais, cada uma abordando uma dimensão específica da experiência do usuário. Isso inclui: o que o usuário vê, ouve, pensa e sente, bem como o que diz e faz. Essas seções combinam-se para formar um quadro completo das características e do estado emocional do usuário durante a interação com o produto ou serviço. Abaixo, o modelo visual de uma Mapa de Empatia:
 
-![t8.png](t8.png)
+![t8.png](img/t8.png)
 
 Em cada seção, os pesquisadores designers fazem um conjunto de perguntas:
 
@@ -175,7 +175,7 @@ O QUE OUVE?
 
 Abaixo, observe um exemplo (fonte: Sebrae) de um mapa de empatia pronto, para uma persona que busca vender produtos saudáveis.
 
-![t9.jpg](t9.jpg)
+![t9.jpg](img/t9.jpg)
 
 
 ### Perfil de Usuário e Personas
@@ -232,7 +232,7 @@ Uma persona representa a síntese de um número de usuários reais que se envolv
 
 Exemplo:
 
-![t6.png](t6.png)
+![t6.png](img/t6.png)
 
 ### Jornada do usuário
 
@@ -242,7 +242,7 @@ Um cenário é uma descrição narrativa informal, mostrando atividades e tarefa
 
 O exemplo abaixo mostra uma jornada de usuário ao navegar em uma loja online de produtos de artesanato ([HeartiCraft](https://www.behance.net/gallery/177512399/UX-Case-Study-HeartiCraft?tracking_source=search_projects%7Cuser+journey+map&l=14]))
 
-![t7.png](t7.png)
+![t7.png](img/t7.png)
 
 O mapa é estruturado em colunas que representam as principais fases da interação: Research/Enquire (Pesquisa/Consulta), Registration/Profile setup (Registro/Configuração de Perfil), Explore (Explorar), Compare (Comparar), Plan (Planejar), Buy (Comprar), Feedback (Avaliação) e Repeat purchase (Compra Recorrente). Para cada fase, o mapa analisa quatro linhas horizontais: User Action (Ação do Usuário), User Thoughts/Feelings (Pensamentos/Sentimentos do Usuário), Pain Points (Pontos Problemáticos ou "Dores") e Customer Delights (Encantos do Cliente ou Pontos Positivos).
 
@@ -259,7 +259,7 @@ Os mais comuns tipos de protótipo _low-fi_ são os storyboards(um representaç�
 No exemplo na imagem abaixo, vemos protótipos de papel para um aplicativo de organização de viagens de turismo, focando especificamente no processo de coleta de dados para verificar requisitos de visto. 
 Cada cartão representa um componente de interação, como uma "tela" onde o usuário deve inserir informações (destino, nacionalidade e propósito da viagem). A imagem demonstra o poder exploratório da técnica ao apresentar duas abordagens diferentes lado a lado: a coluna da esquerda usa uma abordagem conversacional (ex: "Where do you want to go?"), enquanto a coluna da direita usa rótulos de formulário mais tradicionais (ex: "Destination"). Testar ambas as versões com usuários reais é trivial e imediato, permitindo à equipe validar rapidamente qual diálogo é mais claro e eficiente (ex: "My passport was issued in" vs. "Nationality") antes de propor qualquer solução.
 
-![t11.png](t11.png)
+![t11.png](img/t11.png)
 
 
 

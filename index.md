@@ -27,13 +27,13 @@ Salvem o link do [Cronograma 2026.2](https://docs.google.com/spreadsheets/d/1X7K
 
 ## Slides e textos
 
-[Unidade 1: Introdução e Pesquisa de Usuário](https://tiagomassoni.github.io/ihc-texts/1.intro-requisitos.html). O início da disciplina será de bastante leitura e discussão, através de exemplos dos conceitos que vamos usar no restante do período (10 horas). Ainda, vamos trabalhar técnicas de elicitação das necessidades, estudando os potenciais usuários e seu ambiente; começaremos aqui a trabalhar no nosso projeto, com artefatos iniciais e wireframes (10 horas).
+[Unidade 1: Introdução e Pesquisa de Usuário](unidade1/). O início da disciplina será de bastante leitura e discussão, através de exemplos dos conceitos que vamos usar no restante do período (10 horas). Ainda, vamos trabalhar técnicas de elicitação das necessidades, estudando os potenciais usuários e seu ambiente; começaremos aqui a trabalhar no nosso projeto, com artefatos iniciais e wireframes (10 horas).
 
-[Unidade 2. Design UX/UI](https://tiagomassoni.github.io/ihc-texts/2.design.html). A partir das necessidades coletadas e compreendidas, vamos entender os princípios de design utilizados comumente para sistemas computacionais interativos, através de protótipos de alta fidelidade (20 horas).
+[Unidade 2. Design UX/UI](unidade2/). A partir das necessidades coletadas e compreendidas, vamos entender os princípios de design utilizados comumente para sistemas computacionais interativos, através de protótipos de alta fidelidade (20 horas).
 
-[Unidade 3. Avaliação](https://tiagomassoni.github.io/ihc-texts/3.avaliacao.html). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
+[Unidade 3. Avaliação](unidade3/). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
 
-[**Dinâmicas em sala: leituras e materiais**](https://tiagomassoni.github.io/ihc-texts/dinamicas.html) — as leituras pré-aula de cada dinâmica (★ no cronograma).
+[**Dinâmicas em sala: leituras e materiais**](dinamicas.html) — as leituras pré-aula de cada dinâmica (★ no cronograma).
 
 
 ## Projeto
@@ -82,7 +82,7 @@ Don’t Make me Think. Steve Krug.
 
 Designing Interfaces: Patterns for Effective Interaction Design. Jenifer Tidwell, Charles Brewer, Aynne Valencia.
 
-Leis da UX: [Resumo do Livro](/Leis_da_Psicologia_Aplicadas_a_UX.pdf); [Site novo Leis da UX](https://lawsofux.com/)
+Leis da UX: [Resumo do Livro](materiais/leis-da-ux-resumo.pdf); [Site novo Leis da UX](https://lawsofux.com/)
 
 [UI Design Patterns](https://ui-patterns.com/)
 

@@ -19,7 +19,7 @@ Um dos potenciais problemas com protótipos de alta fidelidade é que o resultad
 
 A figura abaixo sumariza potenciais vantagens e desvantagens dos níveis de fidelidade dos protótipos.
 
-![unidade2/t1.png](unidade2/t1.png)
+![unidade2/t1.png](img/t1.png)
 
 Um nível intermediário entre baixa e alta fidelidade é o que normalmente é chamado de **wireframe**, oferecendo, usando ferramentas de design, um rascunho geral de elementos padronizados (botões, menus e rótulos), com alguma indicação de navegação. Em muitos projetos de software, este é considerado o último estágio de prototipação.
 

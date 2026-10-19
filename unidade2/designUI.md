@@ -11,8 +11,8 @@ Uma ótima interface de usuário deve ser utilizável (usável) e encantadora. A
 
 Todo UI Design é colocado em uma tela (smartphone, laptop, tablet ou smartwatch). Cada tela tem sua própria resolução, geralmente expressa em pixels (px). Abaixo podemos ver as resoluções de tela de um iPhone e de um Macbook de 13 polegadas. Essas resoluções são as que vemos na vida real. No entanto, designers não criam UIs para essas dimensões, mas usam resoluções simplificadas, chamadas de pontos (pt), para cuja conversão vemos logo abaixo.
 
-![t6.png](t6.png)
-![t7.png](t7.png)
+![t6.png](img/t6.png)
+![t7.png](img/t7.png)
 
 Projetar em pontos é uma simplificação estratégica. Se um designer tentasse projetar um aplicativo para um iPhone X usando sua resolução real de 1125x2436 px, o processo seria extremamente detalhado e lento. 
 Ao utilizar a resolução em pontos, que para o mesmo aparelho é de 375x812 pt, o designer trabalha em uma escala reduzida que é muito mais fácil de gerenciar. A principal vantagem dessa simplificação é tornar o design mais fácil e rápido.
@@ -92,7 +92,7 @@ O conteúdo mais importante deve se destacar mais, e o menos importante deve fic
 
 Na figura abaixo, é possível perceber qual informação é mais importante, nas duas telas? A maioria das pessoas acha o exemplo B mais fácil de entender, já que os elementos, o tamanho relativo e a proporção entre eles implica sua importância e guia o leitor ao que realmente importa. Em B, podemos dizer que há uma _hierarquia visual_ ausente em A.
 
-![t2.png](t2.png)
+![t2.png](img/t2.png)
 
 O que faz os elementos tornarem-se importantes?
 
@@ -115,7 +115,7 @@ _Gestalt_ é o alemão para "forma", conceito esse da teoria psicológica dos an
 
 **Fechamento (Closure).** Nosso cérebro naturalmente "fecha" linhas para criar formas simples fechadas, mesmo se essas linhas não forem explicitamente fechadas. Exemplos abaixo:
 
-![t3.png](t3.png)
+![t3.png](img/t3.png)
 
 Esses princípios são normalmente usados em combinação. Continuidade e fechamento juntos justificam o alinhamento de elementos, por exemplo.
 
@@ -135,27 +135,27 @@ Um *grid* (grade) é um conjunto de linhas horizontais e verticais, que dividem 
 
 Colunas são as seções verticais do grid; quanto mais colunas, mais flexível é o grid. A maoria dos designs utilizam 12 colunas.
 
-![t8.png](t8.png)
+![t8.png](img/t8.png)
 
 Já as linhas são as seções horizontais, mas são usadas raramente em design para a web, por exemplo. Os grids são mais baseados nas colunas mesmo, em geral. Mais importantes são os *gutters* (calhas) são os espaços vazios que dividem as colunas e as linhas dentro de um grid de design. Determinam a densidade do conteúdo: quanto menor a largura da calha, mais apertado e denso o conteúdo parecerá na tela. Em interfaces web, é comum utilizar valores como 12pt, 14pt, 16pt ou 20pt para as calhas, garantindo que haja um respiro adequado entre os elementos.
 
-![t9.png](t9.png)
+![t9.png](img/t9.png)
 *Gutters*
 
 Outros conceitos importantes são *margem* e *módulos*. Estes são os pontos de encontro entre colunas e linhas.
 
-![t10.png](t10.png)
-![t11.png](t11.png)
+![t10.png](img/t10.png)
+![t11.png](img/t11.png)
 
 Não existem muitos tipos de grid em Design UI, mas também não há um formato universal. Podemos ver abaixo os tipos mais usados.
 
 O *tipo fluido* apresenta colunas que mudam a largura baseado na largura da tela, enquanto a margem e a calha permanecem fixas. Este é o tipo de grid perfeito para o design de interfaces *responsivas*, em que o tamanho do conteúdo muda com o tamanho da tela.
 
-![t12.png](t12.png)
+![t12.png](img/t12.png)
 
 Por outro lado, o *grid fixo* tem um imutável para colunas e calhas, com a variação das margens apenas. Funciona bem para telas em que os componentes devem manter seu tamanho, independente do que acontecer.
 
-![t13.png](t13.png)
+![t13.png](img/t13.png)
 
 As ferramentas já fazem este cálculo para nós -- como é o caso do Figma -- mas vale a pena discutir o cálculo de tamanho de colunas e calhas. No design para web, é comum utilizar calhas com valores entre 12pt e 20pt para manter uma estrutura consistente. Por exemplo, ao configurar um grid de 12 colunas em uma tela de 1440pt de largura, você pode definir margens de 160pt e calhas de 20pt; nesse cenário, o espaço total das calhas (11 calhas de 20pt cada) será subtraído da largura total para ajudar a determinar o tamanho exato de cada coluna. O cálculo matemático seria: primeiro, subtraia as duas margens (1440 - 320 = 1120) e, em seguida, as 11 calhas (1120 - 220 = 900); ao dividir o restante pelas 12 colunas (900/12), você descobre que cada coluna deve ter exatamente 75pt de largura.
 
@@ -163,13 +163,13 @@ Uma técnica bastante usada é a do *grid de 8 pontos*.
 A ideia baseia-se no princípio de utilizar múltiplos de 8 (como 8, 16, 24, 32, etc.) para definir as dimensões de elementos, margens, preenchimentos (paddings) e o espaçamento entre componentes em uma interface. 
 A escolha do número 8 justifica-se pelo fato de que a grande maioria das resoluções de tela atuais é divisível por 8, o que garante que o design seja escalado de forma consistente e evite o aparecimento de meios pixels, resultando em uma interface mais nítida e organizada em diferentes dispositivos.
 
-![t14.png](t14.png)
+![t14.png](img/t14.png)
 
 Ao implementar este sistema, a designer pode optar por dois caminhos: o *Hard Grid* ou o *Soft Grid*. No Hard Grid, todos os elementos devem seguir estritamente os incrementos de 8pt e "encaixar" em um padrão de grade visível, o que pode ser bastante rígido. Já o Soft Grid, que é a abordagem preferida por muitos profissionais, foca apenas em medir o espaçamento entre os elementos utilizando a escala de 8pt, oferecendo maior flexibilidade sem sacrificar a consistência visual e a harmonia do layout.
 
 Pensando em texto agora. É bom tentar alinhar na linha de base (*baseline*) sobre a primeira linha de texto. Assim, independente do tamanho da fonte, o texto estará bem alinhado.
 
-![t15.png](t15.png)
+![t15.png](img/t15.png)
 
 
 # 5. Estilo Visual e Estética
@@ -180,7 +180,7 @@ A mais pura beleza digital é a combinação da forma física com a função des
 O que faz um bom design visual? Em geral é um conjunto de propriedades: composição, cores, tipografia, legibilidade, evocação de sensações, e imagens.
 Por exemplo, a figura abaixo traz telas que evocam sensações diferentes, ainda que contenham os mesmos elementos visuais.
 
-![t4.png](t4.png)
+![t4.png](img/t4.png)
 
 Há uma quantidade enorme de padrões relacionados a cada propriedade de design visual. Só para cores, já existe um corpo razoável de conhecimento que pode ser aplicado ao design.
 
@@ -194,7 +194,7 @@ Por exemplo, sugere-se sempre colocar cores frontais escuras sobre cores de fund
 
 Adicionalmente, é bom evitar algumas combinações de cor. Por exemplo, texto azul brilhante num fundo vermelho cansa os olhos, pois são cores _complementares_, estando localizadas em lados opostos na chamada roda das cores (abaixo).
 
-![t5.png](t5.png)
+![t5.png](img/t5.png)
 
 Quando estamos falando de computadores, tablets ou smartphones, o fundo escuro tem sido uma opção disseminada, para poupar visão e até energia. Outras questões relacionadas a cores: cores quentes ou frias, contraste baixo (mais relaxante) ou alto (maior tensão/força), muito ou pouco saturado.
 
@@ -211,7 +211,7 @@ A tipografia é definida como a arte e a técnica de organizar tipos para tornar
 
 A figura abaixo traz (em inglês) os conceitos básicos relacionados ao trabalho com texto. A não em casos muito específicos, designers não vão criar novas famílias tipográficas para um projeto -- esses conceitos são mais importantes para entender as escolhas de fontes que devem ser feitas.
 
-![t16.png](t16.png)
+![t16.png](img/t16.png)
 
 A *baseline* (linha de base) é a linha invisível onde a maioria das letras se apoia ; a *cap height* (altura da caixa alta) mede a altura das letras maiúsculas a partir da linha de base; a *x-height* (altura de x) refere-se à altura das letras minúsculas (excluindo hastes), já o *ascender* (ascendente) é a parte da letra minúscula que sobe acima da altura de x (como no "h" ou "d").O *descender* (descendente) é a parte que desce abaixo da linha de base (como no "p" ou "g").
 
@@ -237,7 +237,7 @@ Podemos listar algumas dicas relacionadas à escolha das variações de fonte pa
 
 Os *rags* referem-se às bordas irregulares formadas quando as linhas de um bloco de texto terminam em pontos diferentes devido ao comprimento variável das palavras. O salto visual excessivo entre uma linha longa e uma muito curta exige mais esforço dos olhos do usuário, prejudicando o ritmo da leitura. 
 
-![t18.png](t18.png)
+![t18.png](img/t18.png)
 
 Algumas dicas para lidar com esse problema incluem:
 
@@ -251,27 +251,27 @@ Algumas dicas para lidar com esse problema incluem:
 
 Os sistemas de design escolhidos para o projeto normalmente possuem padrões a serem utilizados.
 
-![t17.png](t17.png)
+![t17.png](img/t17.png)
 
 ## Ícones
 
 Os ícones são bem vistos por uma simples razão: com eles, usuários têm menos a ler. Eles são imagens usadas para comunicar algo, com um valor simbólico significativo, oferecendo informação visual simples de ler e entender. Muitos ícones substituem o texto na maioria das vezes. Na figura abaixo, podemos imaginar os ícones sozinhos, sem o texto que vem abaixo. O objetivo é sempre facilitar o entendimento, não usá-los pela estética.
 
-![t23.png](t23.png)
+![t23.png](img/t23.png)
 
 No design, existem dois tipos de ícones. Os ícones *esclarecedores* servem para explicar algo, como uma funcionalidade. Um exemplo está nas categorias de produtos de um comércio eletrônico. Esses normalmente não são ícones com os quais interagimos, eles apenas esclarecem a informação.
 
 Por outros lado, os ícones interativos são aqueles normalmente usados para navegação. Usuários interagem com eles para realizar ações claramente simbolizadas pelos ícones. Estes ícones funcionam melhor se foram simples e bem conhecidos. 
 
-![t24.png](t24.png)
+![t24.png](img/t24.png)
 
 Todo mundo tem medo de clicar em um ícone para fazer algo, sem saber exatamente o que o ícone faz. Esse era o caso do sistema de processos do governo federal do Brasil, em uma de suas versões passadas, como mostrado na figura abaixo, em que há uma comparação com a versão mais recente dos ícones. Os ícones devem apresentar uma área razoável para clique ou toque (44x44pt em geral), pois, mesmo pequenos, os usuários interagem muito com eles.
 
-![t25.png](t25.png)
+![t25.png](img/t25.jpg)
 
 Para uma aplicação, é raro que designers criem novos ícones únicos. Em geral, a escolha de ícones é feita a partir de um *pacote completo de ícones*, pois garante-se que os ícones são consistentes, no mesmo estilo. Designers não escolhem ícones de grupos diferentes. Os ícones abaixo, por exemplo, pertencem ao chamado pacote [*Anron Icons*](https://www.anron.pro/). Existem várias bibliotecas de ícones prontas, até mesmo de uso livre.
 
-![t26.png](t26.png)
+![t26.png](img/t26.png)
 
 Alguns padrões no uso de ícones:
 
@@ -281,7 +281,7 @@ Alguns padrões no uso de ícones:
 * Eliminar completamente o texto que acompanha o ícone só quando há total certeza de que não haverá confusão. Às vezes, é melhor manter o texto, principalmente quando o ícone não é tão conhecido. 
 * Os ícones em conjunto devem estar dentro de uma caixa limite do mesmo tamanho para todos, para manter a consistência do seu layout, como mostra a figura abaixo.
 
-![t27.png](t27.png)
+![t27.png](img/t27.png)
 
 
 # 6. Entrada de Dados
@@ -302,19 +302,19 @@ Visualmente, a variação entre campos pequenos ou grandes é controlada atravé
 
 Em geral, os campos de texto devem ter largura apropriada ao tipo de dados, mesmo que o preenchimento não seja afetado. Campos menos largos para dados mais curtos são mais intuitivos, como na figura abaixo.
 
-![t19.png](t19.png)
+![t19.png](img/t19.png)
 
 Outro padrão ao projetar os campos é utilizar *placeholders*, como no caso abaixo, em *Username*. Este elemento pode se manter como um rótulo no momento de digitação, estressando, com foco, o local.
 
-![t20.png](t20.png)
+![t20.png](img/t20.png)
 
 O design de *dropdowns* traz questões interessantes de design para ser discutidas. Eles são similares aos campos de texto, mas a indicação à direita os diferencia. No clique ou interação, há a expansão dos elementos - por exemplo, para indicar um país ou estado. Usá-los para até 4 opções é ruim, melhor usar botões de opção (*radio buttons*). Um padrão, no caso de muitos elementos, é colocar um dropdown dentro de uma barra de busca, onde, a partir da digitação de caracteres, são filtradas as opções de interesse. Existem também a possibilidade de adicionar barras de rolagem na lista, para evitar que as opções quebrem o layout.
 
-![t21.png](t21.png)
+![t21.png](img/t21.png)
 
 Os *radio buttons* são utilizados quando o usuário deve escolher apenas uma única opção dentro de um conjunto de alternativas mutuamente exclusivas. Já os *checkboxes* permitem que o usuário selecione uma ou múltiplas opções de uma lista, ou até mesmo nenhuma. Por fim, os *switches* (ou interruptores) são componentes de ação imediata, idealmente utilizados para alternar entre dois estados opostos, como ligar ou desligar uma funcionalidade específica. Os *switches* são melhores para opções de elementos não-relacionados, por exemplo em configurações. O layout desses botões de opção deve cuidar de que os elementos não fiquem muito pequenos, usando as ideias da Lei de Fitt. As etiquetas correspondentes devem ter tamanho consistente.
 
-![t22.png](t22.png)
+![t22.png](img/t22.png)
 
 Alguns princípios no design de formulários (mais detalhes nas páginas 471 a 532 do livro):
 
@@ -361,7 +361,7 @@ Exemplos de affordances:
 
 Abaixo, um exemplo de affordances do aplicativo Adobe Premier Rush.
 
-![t28.png](t28.png)
+![t28.png](img/t28.png)
 
 Abaixo, listamos alguns padrões de UI ligados a ações e comandos (Cap. 8 do livro texto de Padrões).
 
@@ -371,7 +371,7 @@ Um grupo de botões é uma técnica de design que reúne ações relacionadas em
 
 A implementação eficaz desse padrão exige que todos os botões no grupo compartilhem o mesmo tratamento gráfico, como cores, bordas e estilos de ícones, para reforçar o princípio de fechamento da *Gestalt*. No entanto, é comum dar um destaque especial ao botão de ação primária dentro do grupo, como um botão "Salvar" em contraste com um "Cancelar", orientando o foco do usuário para o objetivo principal. Esse padrão é amplamente utilizado em barras de ferramentas e editores de texto, onde ações como negrito, itálico e sublinhado são agrupadas para facilitar o acesso rápido e a compreensão imediata da função de cada ferramenta.
 
-![t29.png](t29.png)
+![t29.png](img/t29.png)
 
 ### Ferramentas de Passagem de Mouse ou Pop-Up (Hover or Pop-Up Tools)
 
@@ -379,7 +379,7 @@ Este padrão consiste em ocultar botões de ação e ferramentas de edição at�
 
 Para garantir uma boa usabilidade, a resposta ao movimento do mouse deve ser instantânea, evitando transições lentas que possam frustrar o usuário durante tarefas rápidas. É crucial que a área de interação seja claramente definida e que a aparição das ferramentas não cause um rearranjo abrupto do layout da página, mantendo a estabilidade visual da composição. Embora excelente para interfaces desktop orientadas ao mouse, este padrão exige adaptações para telas sensíveis ao toque, onde a falta de um estado de "hover" geralmente leva à substituição das ferramentas por menus de contexto ou painéis sobrepostos após um toque ou pressão longa.
 
-![t30.png](t30.png)
+![t30.png](img/t30.png)
 
 
 ### Painel de Ação (Action Panel)
@@ -388,7 +388,7 @@ O painel de ação é um agrupamento de comandos que permanece visível na inter
 
 A estrutura de um painel de ação pode ser dinâmica, alterando seu conteúdo com base no estado da aplicação ou nos itens selecionados no momento. Isso permite que a interface se adapte às necessidades imediatas do usuário, apresentando apenas as ferramentas que fazem sentido para o contexto atual de trabalho. Em aplicações de produtividade, como gerenciadores de arquivos ou ferramentas de design, esses painéis frequentemente utilizam categorias, títulos e até descrições mais longas para explicar detalhadamente o que cada comando faz, proporcionando uma experiência de aprendizado contínua enquanto o trabalho principal é realizado.
 
-![t31.png](t31.png)
+![t31.png](img/t31.png)
 
 ### Botão "Concluir" Proeminente (Prominent "Done" Button)
 
@@ -396,7 +396,7 @@ O botão de conclusão proeminente é um elemento visualmente forte que serve co
 
 A escolha do rótulo para este botão é fundamental para sua eficácia, sendo recomendável o uso de verbos de ação específicos como "Enviar", "Comprar" ou "Salvar" em vez de termos genéricos como "OK" ou "Concluído". Isso comunica com precisão o que acontecerá quando o botão for clicado, reforçando a intenção do usuário e reduzindo a ansiedade sobre as consequências da ação. Além disso, o design deve cercar o botão com um espaço em branco adequado para evitar distrações, garantindo que ele não se perca em meio a outros controles secundários e guiando o olhar do usuário diretamente para a saída lógica do processo.
 
-![t32.png](t32.png)
+![t32.png](img/t32.png)
 
 
 ### 5. Pré-visualização (Preview)
@@ -405,7 +405,7 @@ A pré-visualização é um padrão de design que renderiza uma amostra realista
 
 Implementar uma pré-visualização eficaz exige que o sistema forneça informações claras e essenciais que permitam ao usuário tomar uma decisão informada sem sobrecarregá-lo com detalhes técnicos desnecessários. O usuário deve ter a capacidade de alternar entre diferentes opções ou ajustar parâmetros diretamente na tela de visualização, confirmando a ação final somente quando estiver satisfeito com o que vê. Esse padrão não apenas melhora a precisão do trabalho final, mas também torna a interface mais envolvente e interativa, encorajando o usuário a explorar diferentes possibilidades criativas com a confiança de que o sistema é previsível.
 
-![t33.png](t33.png)
+![t33.png](img/t33.png)
 
 
 ### Indicadores de Carregamento (Spinners and Loading Indicators)
@@ -414,7 +414,7 @@ Indicadores de carregamento, como spinners e barras de progresso, são elementos
 
 A ausência desses indicadores em processos demorados pode levar o usuário a acreditar que o software falhou ou parou de responder, resultando no abandono da tarefa ou em cliques repetitivos que podem sobrecarregar o servidor. Por isso, é uma prática recomendada iniciar o feedback visual quase instantaneamente após qualquer comando que não tenha resposta imediata detectável. Além de informar sobre o progresso, esses componentes devem, sempre que possível, oferecer uma maneira clara de interromper a operação, mantendo o usuário no controle total da experiência de interação mesmo durante períodos de processamento intensivo.
 
-![t34.png](t34.png)
+![t34.png](img/t34.png)
 
 
 ### Cancelabilidade (Cancelability)
@@ -423,7 +423,7 @@ A cancelabilidade é a capacidade de um sistema de interromper instantaneamente 
 
 Para ser verdadeiramente eficaz, a função de cancelar deve responder imediatamente ao comando do usuário, interrompendo o processamento e atualizando a interface para refletir que a ação foi cessada com sucesso. Em sistemas com múltiplas operações paralelas, é importante fornecer controles individuais para cada processo, evitando ambiguidades sobre qual tarefa está sendo interrompida no momento. Ao garantir que as ações sejam reversíveis ou canceláveis antes de sua conclusão, o designer reduz a ansiedade do usuário e promove um ambiente de trabalho mais dinâmico e menos punitivo, onde o erro é visto como uma parte natural da aprendizagem.
 
-![t35.png](t35.png)
+![t35.png](img/t35.png)
 
 
 ### Desfazer Multinível (Multilevel Undo)

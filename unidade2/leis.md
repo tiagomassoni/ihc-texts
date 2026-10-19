@@ -23,7 +23,7 @@ Outro exemplo é a utilização de menus suspensos em um aplicativo de edição 
 
 Don Norman, em seu livro clássico "Design of Everyday Things", que, mesmo feito para designers em geral, teve uma influência absurda no design de interfaces computacionais, enuncia o seu **modelo de interação** (ou _sete estágios de ação_). Este propõe uma abordagem centrada no usuário, levando em consideração as três camadas principais da interação: _execução, avaliação e formação de metas_ (abaixo, figura representando o ciclo).
 
-![Sete estágios de ação](t4.png)
+![Sete estágios de ação](img/leis-t4.png)
 
 O modelo de interação de Norman é composto por duas partes: **o Golfo da Execução e o Golfo da Avaliação**. O Golfo da Execução se refere à distância entre as intenções e as ações do usuário, ou seja, como ele executa as tarefas no sistema. Já o Golfo da Avaliação é a distância entre as informações fornecidas pelo sistema e a compreensão do usuário, ou seja, como ele avalia o feedback recebido.
 
