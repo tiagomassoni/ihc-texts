@@ -13,7 +13,7 @@ css: '/assets/css/custom-styles.css'
 
 [Aula 5: ficha da oficina de análise de similares e avaliação heurística (.docx)](oficinas/5-ficha-oficina-similares-heuristica.docx)
 
-[Aula 5: leitura prévia obrigatória — Avaliação heurística](../unidade3/avaliacao-heuristica.html)
+[Aula 5: leitura prévia — Avaliação heurística](../unidade3/avaliacao-heuristica.html)
 
 [Aula 5: checklist de heurísticas](../materiais/checklist-heuristics.pdf)
 

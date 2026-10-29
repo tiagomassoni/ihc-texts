@@ -44,7 +44,7 @@ Grupos de 5 a 6 pessoas devem ser formados para o projeto da disciplina, que ser
 
 [Grupos do Projeto](https://docs.google.com/spreadsheets/d/e/2PACX-1vSQCQ0TKenELkO6vsrXgGCFsYKY8sBYfl7Xd1hsyxDA1ZWccRooD8oLUK9Yuh8P8lXEwHKW3aj97YTz/pubhtml)
 
-[Avaliação da Atividade 1]()
+[Avaliação da Atividade 1](https://docs.google.com/spreadsheets/d/e/2PACX-1vRnGrVojyQPC20m-e0NFIjqYcXCH6aQcjuMT8g3SQjEvvfV0b_OVzLhhNCMgbjkD1_kyZcb3eQVOsaq/pubhtml?gid=893229292&single=true)
 
 [Avaliação da Atividade 2]()
 
