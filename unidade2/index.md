@@ -8,6 +8,10 @@ css: '/assets/css/custom-styles.css'
 
 [Aula 5: análise de similares e avaliação heurística](slides/5-similares-e-heuristica.pdf)
 
+[Aula 6: teorias e modelos, arquitetura da informação](slides/6-teorias-arq.pdf)
+
+[Aula 7: protótipos](slides/7-prototipos.pdf)
+
 
 ## Oficinas
 
@@ -16,8 +20,6 @@ css: '/assets/css/custom-styles.css'
 [Aula 5: leitura prévia — Avaliação heurística](../unidade3/avaliacao-heuristica.html)
 
 [Aula 5: checklist de heurísticas](../materiais/checklist-heuristics.pdf)
-
-[Aula 5: mural de heurísticas](https://docs.google.com/document/d/19SQuvsSNKd1pZatrRkJYuLDHjM5EY8KbhTfU-IXeL6U/edit)
 
 ## Textos
 
