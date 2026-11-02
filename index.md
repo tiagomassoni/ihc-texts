@@ -33,7 +33,9 @@ Salvem o link do [Cronograma 2026.2](https://docs.google.com/spreadsheets/d/1X7K
 
 [Unidade 3. Avaliação](unidade3/). Os resultados de design serão avaliados aqui através de conhecidos princípios de usabilidade (10 horas). Aqui queremos também entender como o resultado de design pode ser avaliado pelos indivíduos diretamente afetados por ele: as(os) usuárias(os) (10 horas).
 
-[**Dinâmicas em sala: leituras e materiais**](dinamicas.html) — as leituras pré-aula de cada dinâmica (★ no cronograma).
+[**Dinâmicas em sala: leituras e materiais**](dinamicas.html) — as leituras pré-aula de cada dinâmica.
+
+[Avaliação das Atividades Extras](https://docs.google.com/spreadsheets/d/e/2PACX-1vTtQZURaOxu73N5ilNKrn0Cqx6qIorEk_wGBhSNVCCue2YtHUnTtTevo7UZL3hR64iBvtTG6XQpI1OR/pubhtml)]
 
 
 ## Projeto
